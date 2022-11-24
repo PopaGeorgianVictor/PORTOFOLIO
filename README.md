@@ -167,6 +167,18 @@ If you consider that I am a candidate who meets the requirements for the positio
 
 <details>
 <summary>Automation Testing</summary>
+ 
+ # Summary
+ 
+ * knowledge about Python Programming
+ * able to write simple functions and algorithms
+ * able to comprehend easy codes
+ * knowledge about OOP
+ * knowledge about Selenium WebDriver
+ * knowledge about API Testing
+ * develop framework for automated testing
+ 
+ 
 </details>
 
 
