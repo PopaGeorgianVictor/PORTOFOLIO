@@ -1,5 +1,5 @@
 # PORTOFOLIO
-small steps are the best way to tackle big goals
+Step By Step Toward The Goal
 
 <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/dVdnF4s2/Screenshot-1.png">
@@ -13,20 +13,21 @@ I am a positive-thinking person who possesses two sides of power. On one hand, I
 I am a punctual person with good communication skills, as a result I integrate extremely easily in a group. I like to learn different new things, to apply them and I can say that I am one of the people oriented towards evolution, progress, everything acquired through the accumulation of knowledge and skills.
 I like to respond to the challenge of new situations and I am convinced that I will be able to successfully meet the requirements of the job, because I am a dynamic, creative person, with a strategic and  communicative thinking.
 If you consider that I am a candidate who meets the requirements for the position offered, I expect you to contact me by e-mail or telephone number to determine the details of our future collaboration.
-
 </details>
+
+
+
 
 <details>
 <summary>CV</summary>
-
-
-
 </details>
 
-<details>
-<summary>Skills</summary>
 
-# Manual testing
+
+<details>
+<summary>Manual testing</summary>
+ 
+ # Summary
  
   * can create test planning
   * can perform manual functional and usability testing of web applications
@@ -37,7 +38,7 @@ If you consider that I am a candidate who meets the requirements for the positio
   * gained hands-on experience by web testing applications 
  
  
- ## Test planning
+ ## Test Planning
  
  
  <picture>
@@ -64,7 +65,7 @@ If you consider that I am a candidate who meets the requirements for the positio
 </picture>
  
  
- #### 1. Evaluate situation
+ #### 1. Evaluate Situation
   
  * the components of the system to be tested are defined as “in scope“ -  Functional Testing, Api Testing
  * the components of the system that will not be tested also need to be clearly defined as being “out of scope.” -  Database Testing, hardware & any other external interfaces
@@ -101,7 +102,22 @@ If you consider that I am a candidate who meets the requirements for the positio
  </picture>
  
  
- ## Test analysis & design
+  ###  Define Test Objective
+  
+  * checking that whether website  functionality is working as expected without any error or bugs in real business environment
+  * check that the external interface of the website such as UI is working as expected and & meet the customer need
+  * verify the usability of the website
+ 
+ ### Define Test Criteria
+ 
+ ####  Entry Criteria - definition on done
+ ####  Exit Criteria - definition on ready
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/WzXTQDjJ/Screenshot-1.png">
+ </picture>
+ 
+ ## Test Analysis & Design
   
    * reviewing the test basis (such as requirements, software integrity level1(risk level), risk analysis reports, architecture, design, interface specifications)
    * evaluating testability of the test basis and test objects
@@ -110,18 +126,40 @@ If you consider that I am a candidate who meets the requirements for the positio
    * identifying necessary test data to support the test conditions and test cases
    * designing the test environment setup and identifying any required infrastructure and tools
    * creating bi-directional traceability between test basis and test cases
-
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/rpfGwTcX/Screenshot-2.png">
+ </picture>
+ 
+ ## Test Implementations
+ 
+ * ensuring that the test environment is in place
+ * ensuring every test case is well documented and reviewed
+ * putting test environment in a state of readiness
+ * checking against explicit and implicit entry criteria for the specified test level
+ * describing test environment as well as test data in great detail
+ * performing code acceptance check by running it on test environment
+ 
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/3JHHBQ5H/Screenshot-3.png">
+ </picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 </details>
 
-<details>
-<summary>Tools</summary>
 
 
-</details>
+
+
 
 <details>
 <summary>Courses</summary>
-
-
-
 </details>
+
