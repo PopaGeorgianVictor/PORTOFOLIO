@@ -25,7 +25,7 @@ If you consider that I am a candidate who meets the requirements for the positio
 
 
 <details>
-<summary>Manual testing</summary>
+<summary>Manual Testing</summary>
  
  # Summary
  
@@ -163,12 +163,11 @@ If you consider that I am a candidate who meets the requirements for the positio
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Wbqz2N3Z/Screenshot-2.png">
  </picture>
- 
- 
 </details>
 
-
-
+<details>
+<summary>Automation Testing</summary>
+</details>
 
 
 
