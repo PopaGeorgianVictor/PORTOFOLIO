@@ -28,12 +28,53 @@ If you consider that I am a candidate who meets the requirements for the positio
 
 # Manual testing
  
+  * can create test planning
   * can perform manual functional and usability testing of web applications
   * can create test cases and execute them in a test management tool
   * can create bug reports for the defects found and link them with the appropriate requirement
   * can analyze efficiently functional documentation and point out the right questions to ensure that defects are found early
   * can apply test design techniques such as boundary value analisys, equivalence paritioning to derive test cases
   * gained hands-on experience by web testing applications 
+ 
+ 
+ ## Test planning
+ 
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/qR27LLFQ/Screenshot-2.png">
+</picture>
+ 
+ 
+ ### Analize the product
+       
+ * Who will use the website?
+ * What is it used for?
+ * How will it work?
+ * What are software/ hardware the product uses?
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Bvz0KKQp/Screenshot-3.png">
+</picture>
+ 
+ 
+ ###  Develop Test Strategy
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/3xKDwdRW/Screenshot-1.png">
+</picture>
+ 
+ 
+ 2.1 Evaluate situation
+  
+ * the components of the system to be tested are defined as “in scope“ -  Functional Testing, Api Testing
+ * the components of the system that will not be tested also need to be clearly defined as being “out of scope.” -  Database Testing, hardware & any other external interfaces
+ 
+ 2.2  Identify Testing Type
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NFq08YnV/Screenshot-2.png">
+</picture>
+ 
  
  ## Test analysis & design
   
