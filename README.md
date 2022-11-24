@@ -141,13 +141,19 @@ If you consider that I am a candidate who meets the requirements for the positio
  * performing code acceptance check by running it on test environment
  
  
+  ## Test Executation
+ 
+  * PASS: test procedure is executed and the expected result is satisfied
+  * FAIL: test procedure is executed and the expected result is not satisfied
+  * INCONCLUSIVE: test procedure is executed and requires further analysis to have a clear result
+  * BLOCK: test procedure cannot be executed due to the fact that at least one of the test case preconditions are not met
+  * DEFERED: test procedure is not executed yet and deferred for a future test cycle/release for execution
+  * IN PROGRESS: test procedure is currently being executed
+ 
+ 
    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/3JHHBQ5H/Screenshot-3.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/1XK5ntkR/Screenshot-1.png">
  </picture>
- 
- 
- 
- 
  
  
  
