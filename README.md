@@ -47,10 +47,10 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ### Analize the product
        
- * Who will use the website?
- * What is it used for?
- * How will it work?
- * What are software/ hardware the product uses?
+ * Who will use the website ?
+ * What is it used for ?
+ * How will it work ?
+ * What are software/ hardware the product uses ?
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Bvz0KKQp/Screenshot-3.png">
@@ -85,6 +85,20 @@ If you consider that I am a candidate who meets the requirements for the positio
 |    A lack of cooperation negatively affects your employees’ productivity   |      Encourage each team member in his task, and inspire them to greater efforts.       |
  |     Wrong budget estimate and cost overruns |          Establish the scope before beginning work, pay a lot of attention to project planning and constantly track and measure the progress    |
 
+ #### 4. Create Test Logistics
+
+ ##### 4.1 Who will test ?   
+ 
+ * ability to understand customers point of view
+ * strong desire for quality
+ * attention to detail
+ * good cooperation
+ 
+ ##### 4.2 When will the test occur ?
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/P5kW4p9X/Screenshot-3.png">
+ </picture>
  
  
  ## Test analysis & design
