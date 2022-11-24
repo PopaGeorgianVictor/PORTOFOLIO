@@ -6,13 +6,36 @@ small steps are the best way to tackle big goals
 </picture>
 
 
-
-
-
-
-
 <details>
 <summary>About me</summary>
+
+YOUR TABLEasdasdasdasd
+
+</details>
+
+<details>
+<summary>CV</summary>
+
+YOUR TABLEasdasdasdasd
+
+</details>
+
+<details>
+<summary>Skills</summary>
+
+YOUR TABLEasdasdasdasd
+
+</details>
+
+<details>
+<summary>Tools</summary>
+
+YOUR TABLEasdasdasdasd
+
+</details>
+
+<details>
+<summary>Courses</summary>
 
 YOUR TABLEasdasdasdasd
 
