@@ -60,20 +60,31 @@ If you consider that I am a candidate who meets the requirements for the positio
  ###  Develop Test Strategy
  
  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/3xKDwdRW/Screenshot-1.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/L63gBCpX/Screenshot-1.png">
 </picture>
  
  
- 2.1 Evaluate situation
+ #### 1. Evaluate situation
   
  * the components of the system to be tested are defined as “in scope“ -  Functional Testing, Api Testing
  * the components of the system that will not be tested also need to be clearly defined as being “out of scope.” -  Database Testing, hardware & any other external interfaces
  
- 2.2  Identify Testing Type
+ #### 2.  Identify Testing Type
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NFq08YnV/Screenshot-2.png">
 </picture>
+ 
+ 
+ #### 3. Document Risk & Issues
+ 
+ |Risk   | 	Mitigation  |
+|-----:|---------------|
+| Team member lack the required skills for website testing     |      Plan training course to skill up your members          |
+|     The project schedule is too tight; it’s hard to complete this project on time |     Set test priority for each of the test activity        |
+|    A lack of cooperation negatively affects your employees’ productivity   |      Encourage each team member in his task, and inspire them to greater efforts.       |
+ |     Wrong budget estimate and cost overruns |          Establish the scope before beginning work, pay a lot of attention to project planning and constantly track and measure the progress    |
+
  
  
  ## Test analysis & design
