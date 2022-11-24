@@ -29,7 +29,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  # Summary
  
-  * can create test planning
+  * can create test planning 
   * can create bug report
   * can perform manual functional and usability testing of web applications
   * can create test cases and execute them in a test management tool
