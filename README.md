@@ -6,3 +6,14 @@ small steps are the best way to tackle big goals
 </picture>
 
 
+
+
+
+
+
+<details>
+<summary>About me</summary>
+
+YOUR TABLEasdasdasdasd
+
+</details>
