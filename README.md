@@ -30,12 +30,14 @@ If you consider that I am a candidate who meets the requirements for the positio
  # Summary
  
   * can create test planning
+  * can create bug report
   * can perform manual functional and usability testing of web applications
   * can create test cases and execute them in a test management tool
   * can create bug reports for the defects found and link them with the appropriate requirement
   * can analyze efficiently functional documentation and point out the right questions to ensure that defects are found early
   * can apply test design techniques such as boundary value analisys, equivalence paritioning to derive test cases
   * gained hands-on experience by web testing applications 
+  * familiar with Agile Methodology
  
  
  ## Test Planning
@@ -149,13 +151,18 @@ If you consider that I am a candidate who meets the requirements for the positio
   * BLOCK: test procedure cannot be executed due to the fact that at least one of the test case preconditions are not met
   * DEFERED: test procedure is not executed yet and deferred for a future test cycle/release for execution
   * IN PROGRESS: test procedure is currently being executed
- 
- 
-   <picture>
+  
+ <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/1XK5ntkR/Screenshot-1.png">
  </picture>
  
  
+  ## Bug Life Cycle
+ 
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Wbqz2N3Z/Screenshot-2.png">
+ </picture>
  
  
 </details>
