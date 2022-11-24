@@ -19,27 +19,43 @@ If you consider that I am a candidate who meets the requirements for the positio
 <details>
 <summary>CV</summary>
 
-YOUR TABLEasdasdasdasd
+
 
 </details>
 
 <details>
 <summary>Skills</summary>
 
-YOUR TABLEasdasdasdasd
+# Manual testing
+ 
+  * can perform manual functional and usability testing of web applications
+  * can create test cases and execute them in a test management tool
+  * can create bug reports for the defects found and link them with the appropriate requirement
+  * can analyze efficiently functional documentation and point out the right questions to ensure that defects are found early
+  * can apply test design techniques such as boundary value analisys, equivalence paritioning to derive test cases
+  * gained hands-on experience by web testing applications 
+ 
+ ## Test analysis & design
+  
+   * reviewing the test basis (such as requirements, software integrity level1(risk level), risk analysis reports, architecture, design, interface specifications)
+   * evaluating testability of the test basis and test objects
+   * identifying and prioritizing test conditions based on analysis of test items, the specification, behavior and structure of the software
+   * designing and prioritizing high level test cases
+   * identifying necessary test data to support the test conditions and test cases
+   * designing the test environment setup and identifying any required infrastructure and tools
+   * creating bi-directional traceability between test basis and test cases
 
 </details>
 
 <details>
 <summary>Tools</summary>
 
-YOUR TABLEasdasdasdasd
 
 </details>
 
 <details>
 <summary>Courses</summary>
 
-YOUR TABLEasdasdasdasd
+
 
 </details>
