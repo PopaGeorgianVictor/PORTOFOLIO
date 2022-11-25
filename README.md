@@ -1,6 +1,8 @@
 # PORTOFOLIO
 Step By Step Toward The Goal
 
+
+
 <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/dVdnF4s2/Screenshot-1.png">
 </picture>
@@ -8,6 +10,15 @@ Step By Step Toward The Goal
 
 <details>
 <summary>About me</summary>
+ 
+ 
+ 
+ 
+<picture>
+<img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/PrrBtXz4/Screenshot-4.png">
+</picture>
+
+ 
 
 I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as electronic enginner and manual tester. And on the other, due to my personality, I love to communicate with people and solve problems.I believe that so far I have formed a knowledge base, a way of thinking, which will help me to progress in my career in the future.
 I am a punctual person with good communication skills, as a result I integrate extremely easily in a group. I like to learn different new things, to apply them and I can say that I am one of the people oriented towards evolution, progress, everything acquired through the accumulation of knowledge and skills.
@@ -310,6 +321,11 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  
  ### Membership operators
+ 
+ #### Python Membership Operators are used to check the members of a sequence. To do this, it uses two operators:
+ 
+ * in operator returns True, if it finds the value as a member in the sequence
+ * not in operator return True, if it do not find the value as a members in the sequence
  
  
  ### Bitwise operators
