@@ -226,7 +226,16 @@ If you consider that I am a candidate who meets the requirements for the positio
 * it must not have spaces - if the variable name consists of several words, then the variable name can follow the camelCase or snake_case format
 * it must not start with numbers
 * it must not start with special characters
+ 
+  
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/pXMD1KFh/Screenshot-2.png">
+ </picture>
 
+ 
+ ### Data Type and Type() Function
+ 
+ 
 </details>
 
 
