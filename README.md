@@ -360,10 +360,20 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/GtLbY9Hp/Screenshot-2.png">
  </picture>
  
+ 
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
  ### We can use if and else statements together:
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/BnDRS4n7/Screenshot-1.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/J4Z7HwTv/Screenshot-1.png">
  </picture>
 
 </details>
