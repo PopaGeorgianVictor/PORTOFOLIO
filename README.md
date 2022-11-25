@@ -201,7 +201,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  * while we assign a value to the variables, if it is the same value, we can do this in one line
  * variables can be overwritten
  * data types are properties of variables, functions or methods that instruct the system about the stored value (for variables) or the returned result (for functions and    methods)
- *
+ 
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/cLdPZyfW/Screenshot-1.png">
