@@ -188,7 +188,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  </picture>
  
  
- ## Variables. Data Types and Operators
+ ## Variables. Data Types 
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/28KSLy6T/Screenshot-1.png">
@@ -247,6 +247,38 @@ If you consider that I am a candidate who meets the requirements for the positio
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/1tZRw0XP/Screenshot-1.png">
  </picture>
+
+
+## Operators
+ 
+ ### There are different python operators. We can divide them into seven categories like below:
+ 
+  
+ * Arithmetic operators
+ * Assignment operators
+ * Comparison operators
+ * Logical operators
+ * Identity operators
+ * Membership operators
+ * Bitwise operators
+ 
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4NHJ40yS/Screenshot-1.png">
+ </picture>
+ 
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/pX81VNbr/Screenshot-1.png">
+ </picture>
+ 
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Jtw63xJR/Screenshot-1.png">
+ </picture>
+ 
+  
+
 </details>
 
 
