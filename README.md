@@ -354,7 +354,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  * with these statements we check special conditions and according to this condition, we do something
  * the usage of this statements can be differently like below
  
- ### We can only use if statement:
+ ### We can only use if statement :
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/GtLbY9Hp/Screenshot-2.png">
@@ -366,7 +366,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/N0pRh2m6/Screenshot-2.png">
  </picture>
  
- ### We can use if and else statements together:
+ ### We can use if and else statements together :
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/BnDRS4n7/Screenshot-1.png">
@@ -384,6 +384,30 @@ If you consider that I am a candidate who meets the requirements for the positio
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/SxnBYcNs/Screenshot-1.png">
  </picture>
+ 
+ 
+ ### We can use one or more elif with if and else statements :
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/029Zb4qn/Screenshot-1.png">
+ </picture>
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/d0WpQKfz/Screenshot-3.png">
+ </picture>
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NFvt6cx5/Screenshot-1.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zvYLV4bk/Screenshot-1.png">
+ </picture>
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/T1QRfsr1/Screenshot-2.png">
+ </picture>
+ 
  
 </details>
 
