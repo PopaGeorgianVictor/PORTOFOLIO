@@ -177,8 +177,14 @@ If you consider that I am a candidate who meets the requirements for the positio
  * knowledge about OOP
  * knowledge about Selenium WebDriver
  * knowledge about API Testing
+ * knowledge about BDD
  * develop framework for automated testing
  
+ # Python Programming
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/s2z3dhx6/Screenshot-1.png">
+ </picture>
  
 </details>
 
