@@ -437,7 +437,27 @@ If you consider that I am a candidate who meets the requirements for the positio
 
 
   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/ZRh2J9Gn/Screenshot-1.png">
+ </picture>
+ 
+ 
+ 
+ ### Nested If Statements
+ 
+ * nested If Statements are the if statemetns used in another if statements
+ * we can use multiple if statements inside another if statements
+ 
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zBscxyj8/Screenshot-1.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/FRNf3pt4/Screenshot-2.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/YqKSW8Qy/Screenshot-3.png">
  </picture>
  
  
