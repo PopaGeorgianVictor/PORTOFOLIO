@@ -179,6 +179,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  * knowledge about API Testing
  * knowledge about BDD
  * develop framework for automated testing
+ * working with PyCharm IDE
  
  # Python Programming
  
@@ -186,6 +187,46 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/s2z3dhx6/Screenshot-1.png">
  </picture>
  
+ 
+ ## Variables data types and operators
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/28KSLy6T/Screenshot-1.png">
+ </picture>
+ 
+ * python variables are the containers that we store data values in them
+ * when we assing this value, the variable is automatically created
+ * we can assign a number, a string, a list, a tuple, a set, a dictionary  to python variables
+ * we can change the value of a variable multiple times in our code
+ * while we assign a value to the variables, if it is the same value, we can do this in one line
+ * variables can be overwritten
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/cLdPZyfW/Screenshot-1.png">
+ </picture>
+ 
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/cLfPG1vX/Screenshot-1.png">
+ </picture>
+ 
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Rh3c5FZF/Screenshot-3.png">
+ </picture>
+ 
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zXwX0NJY/Screenshot-1.png">
+ </picture>
+ 
+### Basic rules for naming variables:
+
+* it must start with a lowercase letter
+* it must not have spaces - if the variable name consists of several words, then the variable name can follow the camelCase or snake_case format
+* it must not start with numbers
+* it must not start with special characters
+
 </details>
 
 
