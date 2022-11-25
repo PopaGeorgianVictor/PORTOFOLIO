@@ -363,7 +363,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  
  <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/N0pRh2m6/Screenshot-2.png">
  </picture>
  
  ### We can use if and else statements together:
