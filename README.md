@@ -328,11 +328,23 @@ If you consider that I am a candidate who meets the requirements for the positio
  * not in operator return True, if it do not find the value as a members in the sequence
  
   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/W1PjsLzb/Screenshot-1.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/htgRQkmy/Screenshot-1.png">
  </picture>
  
  
  ### Bitwise operators
+ 
+ #### Lastly, we will talk about Bitwise operators of python. These operators are used to compare binary numbers in python programming
+ 
+ * & AND   - Sets each bit to 1 if both bits are 1
+ * | OR    - Sets each bit to 1 if one of two bits is 1
+ * ^ XOR   -  Sets each bit to 1 if only one of two bits is 1 
+ * ~ NOT   -  Inverts all the bits
+ * '<<' Zero fill left shift  - Shift left by pushing zeros in from the right and let the leftmost bits fall off
+ * '>>' Signed right shift  - Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off
+ 
+ 
+ 
 </details>
 
 
