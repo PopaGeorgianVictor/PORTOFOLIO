@@ -327,6 +327,10 @@ If you consider that I am a candidate who meets the requirements for the positio
  * in operator returns True, if it finds the value as a member in the sequence
  * not in operator return True, if it do not find the value as a members in the sequence
  
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/W1PjsLzb/Screenshot-1.png">
+ </picture>
+ 
  
  ### Bitwise operators
 </details>
