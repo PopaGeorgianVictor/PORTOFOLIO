@@ -241,6 +241,12 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fRN7rm1q/Screenshot-1.png">
  </picture>
  
+ 
+ ### String Format and Input Function
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/1tZRw0XP/Screenshot-1.png">
+ </picture>
 </details>
 
 
