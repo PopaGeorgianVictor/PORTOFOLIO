@@ -344,7 +344,28 @@ If you consider that I am a candidate who meets the requirements for the positio
  * '>>' Signed right shift  - Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off
  
  
+ ## Conditionals
  
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fTSYSFs9/Screenshot-1.png">
+ </picture>
+ 
+ * in Python one of the most used statements is Python If Else or Python Else If statements
+ * with these statements we check special conditions and according to this condition, we do something
+ * the usage of this statements can be differently like below
+ 
+ ### We can only use if statement:
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/GtLbY9Hp/Screenshot-2.png">
+ </picture>
+ 
+ ### We can use if and else statements together:
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/BnDRS4n7/Screenshot-1.png">
+ </picture>
+
 </details>
 
 
