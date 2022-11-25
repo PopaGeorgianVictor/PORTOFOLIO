@@ -291,8 +291,22 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/437mh1J8/317014639-5554931907888785-2170159366802940526-n.jpg">
  </picture>
  
+   
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Dzn77dSJ/Screenshot-1.png">
+ </picture>
+ 
  
  ### Identity operators
+ 
+ #### Python Identity Operators are the operators that are used to compare the objects. This is not only a comparison about their value, but also their location in the memory. These operators check that if they are the same object or not. Below, you can find these Python Identity Operators
+ 
+ * is operator checks that if both objects are the same object. If yes, it returns True
+ * is not operator checks that if both objects are different objects. If yes, it returns True
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/C1HNW8R4/Screenshot-1.png">
+ </picture>
  
  
  ### Membership operators
