@@ -262,23 +262,43 @@ If you consider that I am a candidate who meets the requirements for the positio
  * Membership operators
  * Bitwise operators
  
- 
+ ###  Arithmetic operators
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4NHJ40yS/Screenshot-1.png">
  </picture>
  
+ ### Assignment operators
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/pX81VNbr/Screenshot-1.png">
  </picture>
  
+ ### Comparison operators
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Jtw63xJR/Screenshot-1.png">
  </picture>
  
-  
-
+ ### Logical operators
+ 
+ #### To combine conditional statements, we use python logical operators. There are three logical operators in python. These are:
+ 
+ * and operator returns True, if both statements are true
+ * or operator returns True, if one of the statements is true
+ * not operator reverse the result, returns False if the result is true
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/437mh1J8/317014639-5554931907888785-2170159366802940526-n.jpg">
+ </picture>
+ 
+ 
+ ### Identity operators
+ 
+ 
+ ### Membership operators
+ 
+ 
+ ### Bitwise operators
 </details>
 
 
