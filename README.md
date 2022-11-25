@@ -426,16 +426,19 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ### Using And / Or Operators with Python If Else 
  
+ * sometimes we need to check one more condition in the if statements(there are two operators that we us efor this purposes, one of them is “and”, the other one is “or”)
+ * with “and” operator, we check the given conditions and if both the conditions are provided, then the body of the if statement runs
+ * with “or” operator, we check the given conditions and if one of them is provided, then the body of the if statament runs
+ 
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vHg9HRPC/Screenshot-3.png">
  </picture>
  
 
 
- * sometimes we need to check one more condition in the if statements(there are two operators that we us efor this purposes, one of them is “and”, the other one is “or”)
-  
- * with “and” operator, we check the given conditions and if both the conditions are provided, then the body of the if statement runs
- * with “or” operator, we check the given conditions and if one of them is provided, then the body of the if statament runs
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
  
  
 </details>
