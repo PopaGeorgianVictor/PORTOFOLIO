@@ -192,15 +192,12 @@ If you consider that I am a candidate who meets the requirements for the positio
  * develop framework for automated testing
  * working with PyCharm IDE
  
- # Python Programming
-
- 
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/s2z3dhx6/Screenshot-1.png">
  </picture>
  
  
- ## Variables. Data Types 
+ # Variables. Data Types 
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/28KSLy6T/Screenshot-1.png">
@@ -234,7 +231,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zXwX0NJY/Screenshot-1.png">
  </picture>
  
-### Basic rules for naming variables:
+## Basic rules for naming variables:
 
 * it must start with a lowercase letter
 * it must not have spaces - if the variable name consists of several words, then the variable name can follow the camelCase or snake_case format
@@ -247,23 +244,23 @@ If you consider that I am a candidate who meets the requirements for the positio
  </picture>
 
  
- ### Type() Function
+ ## Type() Function
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fRN7rm1q/Screenshot-1.png">
  </picture>
  
  
- ### String Format and Input Function
+ ## String Format and Input Function
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/1tZRw0XP/Screenshot-1.png">
  </picture>
 
 
-## Operators
+# Operators
  
- ### There are different python operators. We can divide them into seven categories like below:
+ ## There are different python operators. We can divide them into seven categories like below:
  
   
  * Arithmetic operators
@@ -274,26 +271,26 @@ If you consider that I am a candidate who meets the requirements for the positio
  * Membership operators
  * Bitwise operators
  
- ###  Arithmetic operators
+ ##  Arithmetic operators
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4NHJ40yS/Screenshot-1.png">
  </picture>
  
- ### Assignment operators
+ ## Assignment operators
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/pX81VNbr/Screenshot-1.png">
  </picture>
  
- ### Comparison operators
+ ## Comparison operators
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Jtw63xJR/Screenshot-1.png">
  </picture>
  
- ### Logical operators
+ ## Logical operators
  
- #### To combine conditional statements, we use python logical operators. There are three logical operators in python. These are:
+ ### To combine conditional statements, we use python logical operators. There are three logical operators in python. These are:
  
  * and operator returns True, if both statements are true
  * or operator returns True, if one of the statements is true
@@ -309,9 +306,9 @@ If you consider that I am a candidate who meets the requirements for the positio
  </picture>
  
  
- ### Identity operators
+ ## Identity operators
  
- #### Python Identity Operators are the operators that are used to compare the objects. This is not only a comparison about their value, but also their location in the memory. These operators check that if they are the same object or not. Below, you can find these Python Identity Operators
+ ### Python Identity Operators are the operators that are used to compare the objects. This is not only a comparison about their value, but also their location in the memory. These operators check that if they are the same object or not. Below, you can find these Python Identity Operators
  
  * is operator checks that if both objects are the same object. If yes, it returns True
  * is not operator checks that if both objects are different objects. If yes, it returns True
@@ -321,9 +318,9 @@ If you consider that I am a candidate who meets the requirements for the positio
  </picture>
  
  
- ### Membership operators
+ ## Membership operators
  
- #### Python Membership Operators are used to check the members of a sequence. To do this, it uses two operators:
+ ### Python Membership Operators are used to check the members of a sequence. To do this, it uses two operators:
  
  * in operator returns True, if it finds the value as a member in the sequence
  * not in operator return True, if it do not find the value as a members in the sequence
@@ -333,9 +330,9 @@ If you consider that I am a candidate who meets the requirements for the positio
  </picture>
  
  
- ### Bitwise operators
+ ## Bitwise operators
  
- #### Lastly, we will talk about Bitwise operators of python. These operators are used to compare binary numbers in python programming
+ ### Lastly, we will talk about Bitwise operators of python. These operators are used to compare binary numbers in python programming
  
  * & AND   - Sets each bit to 1 if both bits are 1
  * | OR    - Sets each bit to 1 if one of two bits is 1
@@ -345,7 +342,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  * '>>' Signed right shift  - Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off
  
  
- ## Conditionals
+ # Conditionals
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fTSYSFs9/Screenshot-1.png">
@@ -355,7 +352,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  * with these statements we check special conditions and according to this condition, we do something
  * the usage of this statements can be differently like below
  
- ### We can only use if statement :
+ ## We can only use if statement :
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/GtLbY9Hp/Screenshot-2.png">
@@ -387,7 +384,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  </picture>
  
  
- ### We can use one or more elif with if and else statements :
+ ## We can use one or more elif with if and else statements :
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/029Zb4qn/Screenshot-1.png">
@@ -409,7 +406,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/T1QRfsr1/Screenshot-2.png">
  </picture>
  
- ### For Loop With If Statement 
+ ## For Loop With If Statement 
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Gm09hWDg/Screenshot-4.png">
@@ -424,7 +421,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/c4ZtRKTM/Screenshot-2.png">
  </picture>
  
- ### Using And / Or Operators with Python If Else 
+ ## Using And / Or Operators with Python If Else 
  
  * sometimes we need to check one more condition in the if statements(there are two operators that we us efor this purposes, one of them is “and”, the other one is “or”)
  * with “and” operator, we check the given conditions and if both the conditions are provided, then the body of the if statement runs
@@ -442,7 +439,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  
  
- ### Nested If Statements
+ ## Nested If Statements
  
  * nested If Statements are the if statemetns used in another if statements
  * we can use multiple if statements inside another if statements
@@ -460,6 +457,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/YqKSW8Qy/Screenshot-3.png">
  </picture>
  
+ # Lists. Tuples. Dictionaries. Sets.
  
 </details>
 
