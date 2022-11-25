@@ -459,6 +459,24 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  # Lists. Tuples. Dictionaries. Sets.
  
+ 
+ ## Lists
+ 
+ * list is created with a Square Brackets []
+ * the items belong to this list is added into these square brackets with commas (,)
+ * list items are ordered(items have a defined order, and that order will not change) 
+ * list items are changeable(we can change, add, and remove items in a list after it has been created)
+ * allow duplicate values(since lists are indexed, lists can have items with the same value)
+ * list items are indexed, the first item has index [0], the second item has index [1] etc.
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/g2Hzq93B/Screenshot-7.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4xWS6wFT/Screenshot-8.png">
+ </picture>
+ 
 </details>
 
 
