@@ -181,7 +181,7 @@ If you consider that I am a candidate who meets the requirements for the positio
 <summary>Automation Testing</summary>
  
  # Summary
- 
+  [CHECK IT OUT](https://github.com/PopaGeorgianVictor/HOMEWORK)
  * knowledge about Python Programming
  * able to write simple functions and algorithms
  * able to comprehend easy codes
@@ -193,6 +193,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  * working with PyCharm IDE
  
  # Python Programming
+
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/s2z3dhx6/Screenshot-1.png">
