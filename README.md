@@ -29,6 +29,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  # Summary
  
+ [CHECK IT OUT](https://docs.google.com/spreadsheets/d/1HIpymEp777sx4xhyFXULMb06Nswx47x6xFSXpTJRZws/edit#gid=960777853)
   * can create test planning 
   * can create bug report
   * can perform manual functional and usability testing of web applications
