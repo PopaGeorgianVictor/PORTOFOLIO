@@ -188,7 +188,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  </picture>
  
  
- ## Variables data types and operators
+ ## Variables. Data Types and Operators
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/28KSLy6T/Screenshot-1.png">
@@ -200,6 +200,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  * we can change the value of a variable multiple times in our code
  * while we assign a value to the variables, if it is the same value, we can do this in one line
  * variables can be overwritten
+ * data types are properties of variables, functions or methods that instruct the system about the stored value (for variables) or the returned result (for functions and    methods)
+ *
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/cLdPZyfW/Screenshot-1.png">
@@ -233,8 +235,11 @@ If you consider that I am a candidate who meets the requirements for the positio
  </picture>
 
  
- ### Data Type and Type() Function
+ ### Type() Function
  
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fRN7rm1q/Screenshot-1.png">
+ </picture>
  
 </details>
 
