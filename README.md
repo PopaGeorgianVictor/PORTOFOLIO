@@ -552,6 +552,26 @@ If you consider that I am a candidate who meets the requirements for the positio
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/dtqJBs9P/Screenshot-2.png">
  </picture>
+ 
+ 
+ ## List Method
+ 
+ ### Length of a List
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/bYSbBMjp/Screenshot-1.png">
+ </picture>
+ 
+ ### Item Add/Remove
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Qx4FNJD0/Screenshot-1.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/J4fWQs5R/Screenshot-2.png">
+ </picture>
+ 
 </details>
 
 
