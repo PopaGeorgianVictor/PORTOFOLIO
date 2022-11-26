@@ -40,7 +40,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  # CONTENT
  
- [Summary](https://github.com/PopaGeorgianVictor/PORTOFOLIO/edit/main/README.md#summary)
+ [Summary](https://github.com/PopaGeorgianVictor/PORTOFOLIO#summary)
  
  [Test Planning](https://github.com/PopaGeorgianVictor/PORTOFOLIO/edit/main/README.md#test-planning)
    * [Analize the product](https://github.com/PopaGeorgianVictor/PORTOFOLIO/edit/main/README.md#analize-the-product)
