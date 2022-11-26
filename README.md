@@ -63,12 +63,6 @@ If you consider that I am a candidate who meets the requirements for the positio
  [Bug Life Cycle](https://github.com/PopaGeorgianVictor/PORTOFOLIO#bug-life-cycle) 
  
  
- 
- 
- 
- 
- 
- 
  # Summary
  
  [CHECK IT OUT](https://docs.google.com/spreadsheets/d/1HIpymEp777sx4xhyFXULMb06Nswx47x6xFSXpTJRZws/edit#gid=960777853)
@@ -210,6 +204,23 @@ If you consider that I am a candidate who meets the requirements for the positio
 
 <details>
 <summary>Automation Testing</summary>
+ 
+ [Summary](https://github.com/PopaGeorgianVictor/PORTOFOLIO#summary-1)
+ 
+ [Variables. Data Types](https://github.com/PopaGeorgianVictor/PORTOFOLIO#variables-data-types)
+   * [Basic rules for naming variables](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basic-rules-for-naming-variables)
+   * [Type() Function](https://github.com/PopaGeorgianVictor/PORTOFOLIO#type-function)
+   * [String Format and Input Function](https://github.com/PopaGeorgianVictor/PORTOFOLIO#string-format-and-input-function)
+ 
+  [Operators](https://github.com/PopaGeorgianVictor/PORTOFOLIO#operators)
+   * [Arithmetic operators](https://github.com/PopaGeorgianVictor/PORTOFOLIO#arithmetic-operators)
+   * [Assignment operators](https://github.com/PopaGeorgianVictor/PORTOFOLIO#assignment-operators)
+   * [Comparison operators](https://github.com/PopaGeorgianVictor/PORTOFOLIO#comparison-operators)
+   * [Logical operators](https://github.com/PopaGeorgianVictor/PORTOFOLIO#logical-operators)
+   * [Identity operators](https://github.com/PopaGeorgianVictor/PORTOFOLIO#identity-operators)
+   * [Membership operators](https://github.com/PopaGeorgianVictor/PORTOFOLIO#membership-operators)
+   * [Bitwise operators](https://github.com/PopaGeorgianVictor/PORTOFOLIO#bitwise-operators)
+        
  
  # Summary
   [CHECK IT OUT](https://github.com/PopaGeorgianVictor/HOMEWORK)
