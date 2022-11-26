@@ -239,8 +239,8 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [List Method](https://github.com/PopaGeorgianVictor/PORTOFOLIO#list-method)
         - [Length of a List](https://github.com/PopaGeorgianVictor/PORTOFOLIO#length-of-a-list)
         - [Item Add/Remove](https://github.com/PopaGeorgianVictor/PORTOFOLIO#item-addremove)
-        - [List Sorting](https://github.com/PopaGeorgianVictor/PORTOFOLIO#item-addremove)
-        - [Length of a List](https://github.com/PopaGeorgianVictor/PORTOFOLIO#list-sorting)
+        - [List Sorting](https://github.com/PopaGeorgianVictor/PORTOFOLIO#list-sorting)
+        -
  
  
   
