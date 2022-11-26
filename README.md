@@ -519,10 +519,10 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/YqKSW8Qy/Screenshot-3.png">
  </picture>
  
- # Lists. Tuples. Dictionaries. Sets.
+ # Lists
  
  
- ## Lists
+ ## Lists Basics
  
  * list is created with a Square Brackets []
  * the items belong to this list is added into these square brackets with commas (,)
@@ -530,6 +530,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  * list items are changeable(we can change, add, and remove items in a list after it has been created)
  * allow duplicate values(since lists are indexed, lists can have items with the same value)
  * list items are indexed, the first item has index [0], the second item has index [1] etc.
+ 
+ ## List Creation
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/g2Hzq93B/Screenshot-7.png">
@@ -539,10 +541,13 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4xWS6wFT/Screenshot-8.png">
  </picture>
  
+ ## Type of List
+ 
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/HWrGzrqy/Screenshot-1.png">
  </picture>
  
+ ## Another Way To Create Lists
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/dtqJBs9P/Screenshot-2.png">
