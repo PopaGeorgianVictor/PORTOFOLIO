@@ -231,7 +231,7 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [And / Or Operators with If Else](https://github.com/PopaGeorgianVictor/PORTOFOLIO#using-and--or-operators-with-python-if-else)
    * [Nested If Statements](https://github.com/PopaGeorgianVictor/PORTOFOLIO#nested-if-statements)
  
-  [Conditionals](https://github.com/PopaGeorgianVictor/PORTOFOLIO#conditionals)
+  [CLists. Tuples. Dictionaries. Sets.](https://github.com/PopaGeorgianVictor/PORTOFOLIO#lists-tuples-dictionaries-sets)
  
  # Summary
   [CHECK IT OUT](https://github.com/PopaGeorgianVictor/HOMEWORK)
