@@ -597,6 +597,19 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/DzgNX0zf/Screenshot-6.png">
  </picture>
  
+ # Tuples
+ 
+ ## Tuples Basics
+ 
+ * can be created with round brackets
+ * are used to store multiple items in a single variable
+ * items are ordered(means that the items have a defined order, and that order will not change)
+ * are unchangeable(meaning that we cannot change, add or remove items after the tuple has been created)
+ * items are indexed, the first item has index [0], the second item has index [1] etc.
+ * allow duplicates values
+ 
+ 
+ * is a collection which is ordered and unchangeable
  
 </details>
 
