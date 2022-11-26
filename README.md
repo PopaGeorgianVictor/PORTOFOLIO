@@ -608,8 +608,20 @@ If you consider that I am a candidate who meets the requirements for the positio
  * items are indexed, the first item has index [0], the second item has index [1] etc.
  * allow duplicates values
  
+## Tuples Creations 
  
- * is a collection which is ordered and unchangeable
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/TPvcmdr4/Screenshot-7.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/CLzGZBfN/Screenshot-1.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/ZRWfJ7Z8/Screenshot-2.png">
+ </picture>
+ 
  
 </details>
 
