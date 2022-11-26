@@ -231,15 +231,20 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [And / Or Operators with If Else](https://github.com/PopaGeorgianVictor/PORTOFOLIO#using-and--or-operators-with-python-if-else)
    * [Nested If Statements](https://github.com/PopaGeorgianVictor/PORTOFOLIO#nested-if-statements)
  
- [Lists. Tuples. Dictionaries. Sets.](https://github.com/PopaGeorgianVictor/PORTOFOLIO#lists-tuples-dictionaries-sets)
-   * [Lists](https://github.com/PopaGeorgianVictor/PORTOFOLIO#lists)
-   * [IF statement](https://github.com/PopaGeorgianVictor/PORTOFOLIO#we-can-only-use-if-statement-)
-   * [IF statement](https://github.com/PopaGeorgianVictor/PORTOFOLIO#we-can-only-use-if-statement-)
-   * [IF statement](https://github.com/PopaGeorgianVictor/PORTOFOLIO#we-can-only-use-if-statement-)
-   * [IF statement](https://github.com/PopaGeorgianVictor/PORTOFOLIO#we-can-only-use-if-statement-)
-   * [IF statement](https://github.com/PopaGeorgianVictor/PORTOFOLIO#we-can-only-use-if-statement-)
-   * [IF statement](https://github.com/PopaGeorgianVictor/PORTOFOLIO#we-can-only-use-if-statement-)
+ [Lists](https://github.com/PopaGeorgianVictor/PORTOFOLIO#lists)
+   * [Lists Basis](https://github.com/PopaGeorgianVictor/PORTOFOLIO#lists-basics)
+   * [List Creation](https://github.com/PopaGeorgianVictor/PORTOFOLIO#lists-basics)
+   * [Type of List](https://github.com/PopaGeorgianVictor/PORTOFOLIO#type-of-list)
+   * [Another Way To Create Lists](https://github.com/PopaGeorgianVictor/PORTOFOLIO#list-creation)
+   * [List Method](https://github.com/PopaGeorgianVictor/PORTOFOLIO#list-method)
+        - [Length of a List](https://github.com/PopaGeorgianVictor/PORTOFOLIO#length-of-a-list)
+        - [Item Add/Remove](https://github.com/PopaGeorgianVictor/PORTOFOLIO#item-addremove)
+        - [List Sorting](https://github.com/PopaGeorgianVictor/PORTOFOLIO#item-addremove)
+        - [Length of a List](https://github.com/PopaGeorgianVictor/PORTOFOLIO#list-sorting)
+ 
+ 
   
+ 
   
  
  # Summary
