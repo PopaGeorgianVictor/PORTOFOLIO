@@ -546,58 +546,26 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4xWS6wFT/Screenshot-8.png">
  </picture>
  
- ## Type of List
+ ## Type Function
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/HWrGzrqy/Screenshot-1.png">
  </picture>
  
- ## Another Way To Create Lists
+ ## The list() Constructor
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/dtqJBs9P/Screenshot-2.png">
  </picture>
  
  
- ## List Method
- 
- ### Length of a List
+ ## List Length 
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/bYSbBMjp/Screenshot-1.png">
  </picture>
  
- ### Item Add/Remove
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Qx4FNJD0/Screenshot-1.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/J4fWQs5R/Screenshot-2.png">
- </picture>
- 
- ### List Sorting
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/5ywNB8QQ/Screenshot-3.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/wB6J7TPk/Screenshot-4.png">
- </picture>
- 
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/PrWQxcJT/Screenshot-5.png">
- </picture>
- 
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/DzgNX0zf/Screenshot-6.png">
- </picture>
- 
- ## Access Items
+ ## Access List Items
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/132XWBMg/Screenshot-3.png">
@@ -616,8 +584,63 @@ If you consider that I am a candidate who meets the requirements for the positio
  </picture>
  
  
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/LXDh9pk7/Screenshot-3.png">
+ </picture>
  
  
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/LXDh9pk7/Screenshot-3.png">
+ </picture>
+ 
+ ## Check if Item Exists
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/d0v4p25B/Screenshot-1.png">
+ </picture>
+ 
+ ## Change Item Value
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/7YSxN4d2/Screenshot-2.png">
+ </picture>
+ 
+ ## Change a Range of Item Values
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/7YSxN4d2/Screenshot-2.png">
+ </picture>
+ 
+ 
+  ## Item Add/Remove
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Qx4FNJD0/Screenshot-1.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/J4fWQs5R/Screenshot-2.png">
+ </picture>
+ 
+ ## List Sorting
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/5ywNB8QQ/Screenshot-3.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/wB6J7TPk/Screenshot-4.png">
+ </picture>
+ 
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/PrWQxcJT/Screenshot-5.png">
+ </picture>
+ 
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/DzgNX0zf/Screenshot-6.png">
+ </picture>
  
  # Tuples
  
