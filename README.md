@@ -240,7 +240,7 @@ If you consider that I am a candidate who meets the requirements for the positio
         - [Length of a List](https://github.com/PopaGeorgianVictor/PORTOFOLIO#length-of-a-list)
         - [Item Add/Remove](https://github.com/PopaGeorgianVictor/PORTOFOLIO#item-addremove)
         - [List Sorting](https://github.com/PopaGeorgianVictor/PORTOFOLIO#list-sorting)
-        -
+        
  
  
   
