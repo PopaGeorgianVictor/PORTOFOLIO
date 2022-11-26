@@ -611,16 +611,48 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/7YSxN4d2/Screenshot-2.png">
  </picture>
  
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/GhnBRX1v/Screenshot-1.png">
+ </picture>
  
-  ## Item Add/Remove
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/QMf5x1qh/Screenshot-2.png">
+ </picture>
+ 
+ ## Insert Items
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fTxNdhgg/Screenshot-3.png">
+ </picture>
+ 
+ 
+ 
+  ## Add Item
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Qx4FNJD0/Screenshot-1.png">
  </picture>
  
+ ## Remove Item
+ 
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/J4fWQs5R/Screenshot-2.png">
  </picture>
+ 
+ ## Remove Specified Index
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nLdjtm47/Screenshot-4.png">
+ </picture>
+ 
+ ## Delete the List
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/26cKv046/Screenshot-5.png">
+ </picture>
+ 
+ 
+ 
  
  ## List Sorting
  
