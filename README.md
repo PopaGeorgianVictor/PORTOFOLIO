@@ -53,9 +53,13 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [Define Test Criteria](https://github.com/PopaGeorgianVictor/PORTOFOLIO#define-test-criteria)
         - [Entry Criteria - definition on done](https://github.com/PopaGeorgianVictor/PORTOFOLIO#entry-criteria---definition-on-done)
         - [Exit Criteria - definition on ready](https://github.com/PopaGeorgianVictor/PORTOFOLIO#exit-criteria---definition-on-ready)
+ 
  [Test Analysis & Design](https://github.com/PopaGeorgianVictor/PORTOFOLIO#test-analysis--design)  
+ 
  [Test Implementations](https://github.com/PopaGeorgianVictor/PORTOFOLIO#test-implementations) 
+ 
  [Test Executation](https://github.com/PopaGeorgianVictor/PORTOFOLIO#test-executation) 
+ 
  [Bug Life Cycle](https://github.com/PopaGeorgianVictor/PORTOFOLIO#bug-life-cycle) 
  
  
