@@ -42,18 +42,17 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  [Summary](https://github.com/PopaGeorgianVictor/PORTOFOLIO#summary)
  
- [Test Planning](https://github.com/PopaGeorgianVictor/PORTOFOLIO/edit/main/README.md#test-planning)
-   * [Analize the product](https://github.com/PopaGeorgianVictor/PORTOFOLIO/edit/main/README.md#analize-the-product)
-   * [Develop Test Strategy](https://github.com/PopaGeorgianVictor/PORTOFOLIO/edit/main/README.md#develop-test-strategy)
-        - [Evaluate Situation](https://github.com/PopaGeorgianVictor/PORTOFOLIO/edit/main/README.md#1-evaluate-situation)
-        - [Identify Testing Type](https://github.com/PopaGeorgianVictor/PORTOFOLIO/edit/main/README.md#2--identify-testing-type)
-        - [Document Risk & Issues](https://github.com/PopaGeorgianVictor/PORTOFOLIO/edit/main/README.md#3-document-risk--issues)
-        - [Create Test Logistics](https://github.com/PopaGeorgianVictor/PORTOFOLIO/edit/main/README.md#4-create-test-logistics)
-        - [Create Test Logistics](https://github.com/PopaGeorgianVictor/PORTOFOLIO/edit/main/README.md#4-create-test-logistics)
-   * [Define Test Objective](https://github.com/PopaGeorgianVictor/PORTOFOLIO/edit/main/README.md#define-test-objective) 
-   * [Define Test Criteria](https://github.com/PopaGeorgianVictor/PORTOFOLIO/edit/main/README.md#define-test-criteria)
-        - [Entry Criteria - definition on done](https://github.com/PopaGeorgianVictor/PORTOFOLIO/edit/main/README.md#entry-criteria---definition-on-done)
-        - [Exit Criteria - definition on ready](https://github.com/PopaGeorgianVictor/PORTOFOLIO/edit/main/README.md#exit-criteria---definition-on-ready)
+ [Test Planning](https://github.com/PopaGeorgianVictor/PORTOFOLIO#test-planning)
+   * [Analize the product](https://github.com/PopaGeorgianVictor/PORTOFOLIO#analize-the-product)
+   * [Develop Test Strategy](https://github.com/PopaGeorgianVictor/PORTOFOLIO#develop-test-strategy)
+        - [Evaluate Situation](https://github.com/PopaGeorgianVictor/PORTOFOLIO#1-evaluate-situation)
+        - [Identify Testing Type](https://github.com/PopaGeorgianVictor/PORTOFOLIO#2--identify-testing-type)
+        - [Document Risk & Issues](https://github.com/PopaGeorgianVictor/PORTOFOLIO#3-document-risk--issues)
+        - [Create Test Logistics](https://github.com/PopaGeorgianVictor/PORTOFOLIO#4-create-test-logistics)
+   * [Define Test Objective](https://github.com/PopaGeorgianVictor/PORTOFOLIO#define-test-objective) 
+   * [Define Test Criteria](https://github.com/PopaGeorgianVictor/PORTOFOLIO#define-test-criteria)
+        - [Entry Criteria - definition on done](https://github.com/PopaGeorgianVictor/PORTOFOLIO#entry-criteria---definition-on-done)
+        - [Exit Criteria - definition on ready](https://github.com/PopaGeorgianVictor/PORTOFOLIO#exit-criteria---definition-on-ready)
         
  # Summary
  
