@@ -204,6 +204,8 @@ If you consider that I am a candidate who meets the requirements for the positio
 
 <details>
 <summary>Automation Testing</summary>
+
+ # CONTENT
  
  [Summary](https://github.com/PopaGeorgianVictor/PORTOFOLIO#summary-1)
  
