@@ -588,6 +588,10 @@ If you consider that I am a candidate who meets the requirements for the positio
  </picture>
  
  
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/DzgNX0zf/Screenshot-6.png">
+ </picture>
+ 
  
 </details>
 
