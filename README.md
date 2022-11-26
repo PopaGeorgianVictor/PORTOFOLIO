@@ -222,7 +222,16 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [Identity operators](https://github.com/PopaGeorgianVictor/PORTOFOLIO#identity-operators)
    * [Membership operators](https://github.com/PopaGeorgianVictor/PORTOFOLIO#membership-operators)
    * [Bitwise operators](https://github.com/PopaGeorgianVictor/PORTOFOLIO#bitwise-operators)
-        
+ 
+ [Conditionals](https://github.com/PopaGeorgianVictor/PORTOFOLIO#conditionals)
+   * [IF statement](https://github.com/PopaGeorgianVictor/PORTOFOLIO#we-can-only-use-if-statement-)
+   * [IF and ELSE statements](https://github.com/PopaGeorgianVictor/PORTOFOLIO#we-can-use-if-and-else-statements-together-)
+   * [IF ELIF and ELSE statements](https://github.com/PopaGeorgianVictor/PORTOFOLIO#we-can-use-one-or-more-elif-with-if-and-else-statements-)
+   * [For Loop With If Statement](https://github.com/PopaGeorgianVictor/PORTOFOLIO#for-loop-with-if-statement)
+   * [And / Or Operators with If Else](https://github.com/PopaGeorgianVictor/PORTOFOLIO#using-and--or-operators-with-python-if-else)
+   * [Nested If Statements](https://github.com/PopaGeorgianVictor/PORTOFOLIO#nested-if-statements)
+ 
+  [Conditionals](https://github.com/PopaGeorgianVictor/PORTOFOLIO#conditionals)
  
  # Summary
   [CHECK IT OUT](https://github.com/PopaGeorgianVictor/HOMEWORK)
