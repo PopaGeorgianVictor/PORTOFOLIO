@@ -959,18 +959,34 @@ If you consider that I am a candidate who meets the requirements for the positio
  </picture>
  
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ # Sets
+ 
+ ## Basic
+ 
+ * are written with curly brackets
+ * are used to store multiple items in a single variable
+ * are unordered(items in a set do not have a defined order, so we cannot be sure in which order the items will appear)
+ * items can appear in a different order every time you use them, and cannot be referred to by index or key
+ * are unchangeable(that we cannot change the items after the set has been created, but we can remove items and add new items)
+ * duplicates not allowed(cannot have two items with the same value, duplicate values will be ignored)
+ 
+ 
+ ## Creation
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/76P0b2Dx/Screenshot-5.png">
  </picture>
  
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/bYBXHZLr/Screenshot-1.png">
  </picture>
  
  
+ ## Lenght
+ 
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/wvY5dQ6M/Screenshot-2.png">
  </picture>
  
  
