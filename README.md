@@ -232,14 +232,41 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [Nested If Statements](https://github.com/PopaGeorgianVictor/PORTOFOLIO#nested-if-statements)
  
  [Lists](https://github.com/PopaGeorgianVictor/PORTOFOLIO#lists)
-   * [Lists Basis](https://github.com/PopaGeorgianVictor/PORTOFOLIO#lists-basics)
-   * [List Creation](https://github.com/PopaGeorgianVictor/PORTOFOLIO#lists-basics)
-   * [Type of List](https://github.com/PopaGeorgianVictor/PORTOFOLIO#type-of-list)
-   * [Another Way To Create Lists](https://github.com/PopaGeorgianVictor/PORTOFOLIO#list-creation)
-   * [List Method](https://github.com/PopaGeorgianVictor/PORTOFOLIO#list-method)
-        - [Length of a List](https://github.com/PopaGeorgianVictor/PORTOFOLIO#length-of-a-list)
-        - [Item Add/Remove](https://github.com/PopaGeorgianVictor/PORTOFOLIO#item-addremove)
-        - [List Sorting](https://github.com/PopaGeorgianVictor/PORTOFOLIO#list-sorting)
+   * [Basis](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basics)
+   * [Methods](https://github.com/PopaGeorgianVictor/PORTOFOLIO#methods)
+   * [Creation](https://github.com/PopaGeorgianVictor/PORTOFOLIO#creation)
+   * [Type Function](https://github.com/PopaGeorgianVictor/PORTOFOLIO#type-function-1)
+   * [The list() Constructor](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-list-constructor)
+   * [Length](https://github.com/PopaGeorgianVictor/PORTOFOLIO#length)
+   * [Access List Items](https://github.com/PopaGeorgianVictor/PORTOFOLIO#access-list-items)
+   * [Check if Item Exists](https://github.com/PopaGeorgianVictor/PORTOFOLIO#check-if-item-exists)
+   * [Change Item Value](https://github.com/PopaGeorgianVictor/PORTOFOLIO#change-item-value)
+   * [Change a Range of Item Values](https://github.com/PopaGeorgianVictor/PORTOFOLIO#change-a-range-of-item-values)
+   * [Insert Items](https://github.com/PopaGeorgianVictor/PORTOFOLIO#insert-items)
+   * [Add Item](https://github.com/PopaGeorgianVictor/PORTOFOLIO#add-item)
+   * [Remove Item](https://github.com/PopaGeorgianVictor/PORTOFOLIO#remove-item)
+   * [Remove Specified Index](https://github.com/PopaGeorgianVictor/PORTOFOLIO#remove-specified-index)
+   * [Delete](https://github.com/PopaGeorgianVictor/PORTOFOLIO#delete)
+   * [Clear](https://github.com/PopaGeorgianVictor/PORTOFOLIO#clear)
+   * [Loop Through a List](https://github.com/PopaGeorgianVictor/PORTOFOLIO#loop-through-a-list)
+   * [Loop Through the Index Numbers](https://github.com/PopaGeorgianVictor/PORTOFOLIO#loop-through-a-list)
+   * [Loop Through a List](https://github.com/PopaGeorgianVictor/PORTOFOLIO#loop-through-a-list)
+   * [Loop Through the Index Numbers](https://github.com/PopaGeorgianVictor/PORTOFOLIO#loop-through-the-index-numbers)
+   * [Using a While Loop](https://github.com/PopaGeorgianVictor/PORTOFOLIO#using-a-while-loop)
+   * [Looping Using List Comprehension](https://github.com/PopaGeorgianVictor/PORTOFOLIO#looping-using-list-comprehension)
+   * [List Comprehension](https://github.com/PopaGeorgianVictor/PORTOFOLIO#list-comprehension)
+   * [Sorting](https://github.com/PopaGeorgianVictor/PORTOFOLIO#sorting)
+   * [Copy](https://github.com/PopaGeorgianVictor/PORTOFOLIO#copy)
+   * [Join](https://github.com/PopaGeorgianVictor/PORTOFOLIO#join)
+ 
+ [Tuples](https://github.com/PopaGeorgianVictor/PORTOFOLIO#tuples)
+   * [Basics](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basics-1)
+   * [Creation](https://github.com/PopaGeorgianVictor/PORTOFOLIO#creation-1)
+   
+ 
+   
+  
+        
         
  
  
