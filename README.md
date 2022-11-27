@@ -527,7 +527,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  # Lists
  
  
- ## Lists Basics
+ ## Basics
  
  * list is created with a Square Brackets []
  * the items belong to this list is added into these square brackets with commas (,)
@@ -536,7 +536,13 @@ If you consider that I am a candidate who meets the requirements for the positio
  * allow duplicate values(since lists are indexed, lists can have items with the same value)
  * list items are indexed, the first item has index [0], the second item has index [1] etc.
  
- ## List Creation
+ ## Methods
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/MZy3Y6xV/Screenshot-3.png">
+ </picture>
+ 
+ ## Creation
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/g2Hzq93B/Screenshot-7.png">
@@ -559,7 +565,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  </picture>
  
  
- ## List Length 
+ ## Length 
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/bYSbBMjp/Screenshot-1.png">
@@ -716,7 +722,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/SxM7rVbR/Screenshot-6.png">
  </picture>
  
- ## List Sorting
+ ## Sorting
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/5ywNB8QQ/Screenshot-3.png">
@@ -736,9 +742,44 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/DzgNX0zf/Screenshot-6.png">
  </picture>
  
+ ## Copy 
+ 
+ * we cannot copy a list simply by typing list2 = list1, because: list2 will only be a reference to list1, and changes made in list1 will automatically also be made in list2
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/pryhGV4x/Screenshot-1.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/C5j16Z73/Screenshot-2.png">
+ </picture>
+ 
+ ## Join
+ 
+ * there are several ways to join, or concatenate, two or more lists in Python
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/8Pck60g8/Screenshot-1.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/65tnxwZr/Screenshot-3.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/bJwWB4Tp/Screenshot-1.png">
+ </picture>
+ 
+   <picture>     
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/F15PN6jf/Screenshot-2.png">
+ </picture>
+
+ 
+ 
+ 
  # Tuples
  
- ## Tuples Basics
+ ## Basics
  
  * can be created with round brackets
  * are used to store multiple items in a single variable
@@ -747,7 +788,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  * items are indexed, the first item has index [0], the second item has index [1] etc.
  * allow duplicates values
  
-## Tuples Creations 
+##  Creation
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/TPvcmdr4/Screenshot-7.png">
