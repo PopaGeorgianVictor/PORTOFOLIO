@@ -920,23 +920,46 @@ If you consider that I am a candidate who meets the requirements for the positio
   
  ## Loop 
  
-    <picture>
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/1Xm8vh4s/Screenshot-1.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/q7G0jtK6/Screenshot-2.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/xT41rbqw/Screenshot-1.png">
+ </picture>
+ 
+ ## Join 
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/LXCrqjdR/Screenshot-2.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/yxWW9hkT/Screenshot-3.png">
+ </picture>
+ 
+ ## Methods
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/br6CVPYh/Screenshot-4.png">
+ </picture>
+ 
+ 
+   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
-    <picture>
+ 
+   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
-    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
- </picture>
  
-    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
- </picture>
- 
-    <picture>
+   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
