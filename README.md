@@ -232,7 +232,7 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [Nested If Statements](https://github.com/PopaGeorgianVictor/PORTOFOLIO#nested-if-statements)
  
  [Lists](https://github.com/PopaGeorgianVictor/PORTOFOLIO#lists)
-   * [Basis](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basics)
+   * [Basics](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basics)
    * [Methods](https://github.com/PopaGeorgianVictor/PORTOFOLIO#methods)
    * [Creation](https://github.com/PopaGeorgianVictor/PORTOFOLIO#creation)
    * [Type Function](https://github.com/PopaGeorgianVictor/PORTOFOLIO#type-function-1)
@@ -270,9 +270,9 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [Methods](https://github.com/PopaGeorgianVictor/PORTOFOLIO#methods-1)
  
  
-    [Sets](https://github.com/PopaGeorgianVictor/PORTOFOLIO#sets)
-   * [Basic](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basic)
-   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#creation-1)
+ [Sets](https://github.com/PopaGeorgianVictor/PORTOFOLIO#sets)
+   * [Basics](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basics-2)
+   * [Creation](https://github.com/PopaGeorgianVictor/PORTOFOLIO#creation-2)
    * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#length-1)
    * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#access-tuple-items)
    * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#update)
@@ -994,7 +994,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  </picture>
  
  
- ## Lenght
+ ## Length
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/wvY5dQ6M/Screenshot-2.png">
