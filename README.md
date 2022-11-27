@@ -675,6 +675,46 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/prGPh21h/Screenshot-4.png">
  </picture>
  
+ ## Looping Using List Comprehension
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/8zg0d8Qj/Screenshot-5.png">
+ </picture>
+ 
+ ## List Comprehension
+ 
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nLb9ckm8/Screenshot-6.png">
+ </picture>
+
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NGDX7Syp/Screenshot-7.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/mrWhGyzP/Screenshot-1.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/SNpyRxQP/Screenshot-2.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/137hGmPs/Screenshot-3.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/tC9L8Z49/Screenshot-4.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/7PnR1HMd/Screenshot-5.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/SxM7rVbR/Screenshot-6.png">
+ </picture>
  
  ## List Sorting
  
