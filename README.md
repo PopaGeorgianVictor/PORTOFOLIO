@@ -1032,7 +1032,48 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/0NQsYFhR/Screenshot-10.png">
  </picture>
  
+ ## Loop
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/MKTNrVdV/Screenshot-11.png">
+ </picture>
+ 
+ ## Join
+ 
+ * we can use the union() method that returns a new set containing all items from both sets, or the update() method that inserts all the items from one set into another
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fW34C15D/Screenshot-12.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/CKfDmhZb/Screenshot-1.png">
+ </picture>
+ 
+ * both union() and update() will exclude any duplicate items
+ 
   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vHMJyDbH/Screenshot-2.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/0NdSLtfN/Screenshot-3.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/QMx5ZQnk/Screenshot-4.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/2j45Tq0z/Screenshot-5.png">
+ </picture>
+ 
+ ## Methods
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/LX3rgMVM/Screenshot-6.png">
+ </picture>
+ 
+    <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
