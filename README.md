@@ -1084,12 +1084,81 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/LX3rgMVM/Screenshot-6.png">
  </picture>
  
-    <picture>
+ 
+ 
+ # Dictionaries
+ 
+ ## Basics
+ 
+ * are written with curly brackets, and have keys and values
+ * items are ordered, changeable, and does not allow duplicates
+ * items are presented in key:value pairs, and can be referred to by using the key name
+ 
+ 
+ ## Creation
+ 
+ 
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vHzgGPxg/Screenshot-7.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Px5hz4rc/Screenshot-1.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vZC3vH8d/Screenshot-2.png">
+ </picture>
+ 
+ ## Length
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/CMj5hvnC/Screenshot-3.png">
+ </picture>
+ 
+ ## Accessing Items
+ 
+ * we can access the items of a dictionary by referring to its key name, inside square brackets
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Y9SZSN7z/Screenshot-4.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/3xnPQb5x/Screenshot-1.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/gjHgqnG2/Screenshot-2.png">
+ </picture>
+ 
+ * the list of the keys is a view of the dictionary, meaning that any changes done to the dictionary will be reflected in the keys list
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/VN5sxCh2/Screenshot-3.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/tCmMrnhs/Screenshot-4.png">
+ </picture>
+ 
+ * the list of the values is a view of the dictionary, meaning that any changes done to the dictionary will be reflected in the values list
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/VkQjLYw7/Screenshot-5.png">
+ </picture>
+ 
+ # Change Items
+ 
+  <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
  
- 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
  
 </details>
 
