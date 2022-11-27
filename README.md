@@ -1146,19 +1146,78 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/VkQjLYw7/Screenshot-5.png">
  </picture>
  
- # Change Items
+ # Change 
  
   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/pVkWLkt3/Screenshot-6.png">
  </picture>
  
   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/ZYQQHyPC/Screenshot-7.png">
+ </picture>
+ 
+ 
+ ## Add 
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fy5mHdpk/Screenshot-1.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/h4CX5KhJ/Screenshot-2.png">
+ </picture>
+ 
+ ## Remove
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/HL2Y8tyJ/Screenshot-3.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/2STjVwv1/Screenshot-4.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/CLxS989Y/Screenshot-5.png">
+ </picture>
+ 
+ ## Loop
+   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
-  <picture>
+   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
  
 </details>
 
