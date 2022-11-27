@@ -260,6 +260,16 @@ If you consider that I am a candidate who meets the requirements for the positio
  [Tuples](https://github.com/PopaGeorgianVictor/PORTOFOLIO#tuples)
    * [Basics](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basics-1)
    * [Creation](https://github.com/PopaGeorgianVictor/PORTOFOLIO#creation-1)
+   * [Length](https://github.com/PopaGeorgianVictor/PORTOFOLIO#length-1)
+   * [Access Tuple Items](https://github.com/PopaGeorgianVictor/PORTOFOLIO#access-tuple-items)
+   * [Update](https://github.com/PopaGeorgianVictor/PORTOFOLIO#update)
+   * [Remove](https://github.com/PopaGeorgianVictor/PORTOFOLIO#remove)
+   * [Unpack](https://github.com/PopaGeorgianVictor/PORTOFOLIO#unpack)
+   * [Loop](https://github.com/PopaGeorgianVictor/PORTOFOLIO#loop)
+   * [Join](https://github.com/PopaGeorgianVictor/PORTOFOLIO#join-1)
+   * [Methods](https://github.com/PopaGeorgianVictor/PORTOFOLIO#methods-1)
+ 
+ 
    
  
    
