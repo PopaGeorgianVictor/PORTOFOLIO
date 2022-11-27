@@ -249,8 +249,6 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [Delete](https://github.com/PopaGeorgianVictor/PORTOFOLIO#delete)
    * [Clear](https://github.com/PopaGeorgianVictor/PORTOFOLIO#clear)
    * [Loop Through a List](https://github.com/PopaGeorgianVictor/PORTOFOLIO#loop-through-a-list)
-   * [Loop Through the Index Numbers](https://github.com/PopaGeorgianVictor/PORTOFOLIO#loop-through-a-list)
-   * [Loop Through a List](https://github.com/PopaGeorgianVictor/PORTOFOLIO#loop-through-a-list)
    * [Loop Through the Index Numbers](https://github.com/PopaGeorgianVictor/PORTOFOLIO#loop-through-the-index-numbers)
    * [Using a While Loop](https://github.com/PopaGeorgianVictor/PORTOFOLIO#using-a-while-loop)
    * [Looping Using List Comprehension](https://github.com/PopaGeorgianVictor/PORTOFOLIO#looping-using-list-comprehension)
