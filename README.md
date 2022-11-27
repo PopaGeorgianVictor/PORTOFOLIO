@@ -273,14 +273,14 @@ If you consider that I am a candidate who meets the requirements for the positio
  [Sets](https://github.com/PopaGeorgianVictor/PORTOFOLIO#sets)
    * [Basics](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basics-2)
    * [Creation](https://github.com/PopaGeorgianVictor/PORTOFOLIO#creation-2)
-   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#length-1)
-   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#access-tuple-items)
-   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#update)
-   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#remove)
-   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#unpack)
-   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#loop)
-   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#join-1)
-   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#methods-1)
+   * [Length](https://github.com/PopaGeorgianVictor/PORTOFOLIO#length-2)
+   * [Access Set Items](https://github.com/PopaGeorgianVictor/PORTOFOLIO#access-set-items)
+   * [Add Items](https://github.com/PopaGeorgianVictor/PORTOFOLIO#add-items)
+   * [Remove](https://github.com/PopaGeorgianVictor/PORTOFOLIO#remove-1)
+   * [Loop](https://github.com/PopaGeorgianVictor/PORTOFOLIO#loop-1)
+   * [Join](https://github.com/PopaGeorgianVictor/PORTOFOLIO#join-2)
+   * [Methods](https://github.com/PopaGeorgianVictor/PORTOFOLIO#methods-2)
+   
  
  
    
