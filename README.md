@@ -990,6 +990,54 @@ If you consider that I am a candidate who meets the requirements for the positio
  </picture>
  
  
+ ## Access Set Items
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NfGMLJbT/Screenshot-3.png">
+ </picture>
+ 
+ ## Add Items
+ 
+ * once a set is created, we cannot change its items, but you can add new items
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/h4dwTcZR/Screenshot-4.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/rpqcYzb4/Screenshot-5.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/x8LN3chZ/Screenshot-6.png">
+ </picture>
+ 
+ ## Remove
+ 
+ * to remove an item in a set, use the remove(), or the discard() method
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/633hcLfm/Screenshot-7.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vBf53q6X/Screenshot-8.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/cC60djMB/Screenshot-9.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/0NQsYFhR/Screenshot-10.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+ 
+ 
  
 </details>
 
