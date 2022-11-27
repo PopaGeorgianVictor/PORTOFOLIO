@@ -645,13 +645,35 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nLdjtm47/Screenshot-4.png">
  </picture>
  
- ## Delete the List
+ ## Delete 
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/26cKv046/Screenshot-5.png">
  </picture>
  
+ ## Clear 
  
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/j5bmRGcp/Screenshot-1.png">
+ </picture>
+ 
+ ## Loop Through a List
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/3x2Z3Wqw/Screenshot-2.png">
+ </picture>
+ 
+ ## Loop Through the Index Numbers
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/tCx3zYpz/Screenshot-3.png">
+ </picture>
+ 
+ ## Using a While Loop
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/prGPh21h/Screenshot-4.png">
+ </picture>
  
  
  ## List Sorting
