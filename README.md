@@ -270,7 +270,18 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [Methods](https://github.com/PopaGeorgianVictor/PORTOFOLIO#methods-1)
  
  
-   
+    [Sets](https://github.com/PopaGeorgianVictor/PORTOFOLIO#sets)
+   * [Basic](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basic)
+   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#creation-1)
+   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#length-1)
+   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#access-tuple-items)
+   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#update)
+   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#remove)
+   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#unpack)
+   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#loop)
+   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#join-1)
+   * [](https://github.com/PopaGeorgianVictor/PORTOFOLIO#methods-1)
+ 
  
    
   
@@ -961,7 +972,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  # Sets
  
- ## Basic
+ ## Basics
  
  * are written with curly brackets
  * are used to store multiple items in a single variable
