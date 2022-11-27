@@ -900,13 +900,46 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nhFPT8Sh/Screenshot-4.png">
  </picture>
  
+ ## Unpack
+ 
+ * when we create a tuple, we normally assign values to it. This is called "packing" a tuple
+ * but, in Python, we are also allowed to extract the values back into variables. This is called "unpacking"
+ 
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/3wRpt9HG/Screenshot-5.png">
  </picture>
  
    <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/8c5zSXtd/Screenshot-6.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/0QNsMMDP/Screenshot-7.png">
+ </picture>
+ 
+  
+ ## Loop 
+ 
+    <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
+ 
+    <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+    <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+    <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+    <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
  
  
 </details>
