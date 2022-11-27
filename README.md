@@ -827,6 +827,77 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/ZRWfJ7Z8/Screenshot-2.png">
  </picture>
  
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/PqFJtdnN/Screenshot-4.png">
+ </picture>
+ 
+ ## Length
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/6q1TQwvM/Screenshot-1.png">
+ </picture>
+ 
+ ## Access Tuple Items
+ 
+ * we can access tuple items by referring to the index number, inside square brackets
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Xv8sDDFV/Screenshot-2.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/63812f2t/Screenshot-3.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/rFsC8w42/Screenshot-4.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/kXN6Pr1P/Screenshot-5.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/TwQ74NzV/Screenshot-6.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NFDY56Ps/Screenshot-1.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/QxFnBgzf/Screenshot-2.png">
+ </picture>
+ 
+ ## Update
+ 
+ * once a tuple is created, you cannot change its values. Tuples are unchangeable, or immutable as it also is called
+ * but there is a workaround. You can convert the tuple into a list, change the list, and convert the list back into a tuple
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
  
 </details>
 
