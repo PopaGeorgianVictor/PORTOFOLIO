@@ -875,19 +875,29 @@ If you consider that I am a candidate who meets the requirements for the positio
  * but there is a workaround. You can convert the tuple into a list, change the list, and convert the list back into a tuple
  
   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4dkRNLwk/Screenshot-1.png">
+ </picture>
+ 
+ * since tuples are immutable, they do not have a build-in append() method, but there are other ways to add items to a tuple
+   - convert into a list: Just like the workaround for changing a tuple, you can convert it into a list, add your item(s), and convert it back into a tuple
+   - add tuple to a tuple. We are allowed to add tuples to tuples, so if you want to add one item, (or many), create a new tuple with the item(s), and add it to the existing tuple
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/htvX9vn4/Screenshot-2.png">
  </picture>
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4dg4FND9/Screenshot-3.png">
  </picture>
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
- </picture>
+ * when creating a tuple with only one item, remember to include a comma after the item, otherwise it will not be identified as a tuple
+ 
+ ## Remove
+ 
+ * tuples are unchangeable, so you cannot remove items from it, but you can use the same workaround as we used for changing and adding tuple items
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nhFPT8Sh/Screenshot-4.png">
  </picture>
  
    <picture>
