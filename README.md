@@ -472,21 +472,23 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  # Conditionals
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fTSYSFs9/Screenshot-1.png">
- </picture>
- 
  * in Python one of the most used statements is Python If Else or Python Else If statements
  * with these statements we check special conditions and according to this condition, we do something
  * the usage of this statements can be differently like below
+ 
+ ## Indentation
+ 
+ ### Python relies on indentation (whitespace at the beginning of a line) to define scope in the code. Other programming languages often use curly-brackets for this purpose
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/rpvMPYG0/Screenshot-1.png">
+ </picture>
  
  ## We can only use if statement :
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/GtLbY9Hp/Screenshot-2.png">
  </picture>
- 
- 
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/N0pRh2m6/Screenshot-2.png">
@@ -558,7 +560,6 @@ If you consider that I am a candidate who meets the requirements for the positio
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vHg9HRPC/Screenshot-3.png">
  </picture>
- 
 
 
   <picture>
@@ -583,6 +584,41 @@ If you consider that I am a candidate who meets the requirements for the positio
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/YqKSW8Qy/Screenshot-3.png">
+ </picture>
+ 
+ ## Loops
+ 
+ ### Python has two primitive loop commands:
+     
+ * while loops
+ * for loops
+ 
+### With the while loop we can execute a set of statements as long as a condition is true
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/13XLprx8/Screenshot-2.png">
+ </picture>
+ 
+### Note: remember to increment i, or else the loop will continue forever
+ 
+ 
+ ### With the break statement we can stop the loop even if the while condition is true
+
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/wBcZzfLb/Screenshot-3.png">
+ </picture>
+ 
+ ### With the continue statement we can stop the current iteration, and continue with the next
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/8PvV3bKx/Screenshot-4.png">
+ </picture>
+ 
+ 
+ ### With the else statement we can run a block of code once when the condition no longer is true
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/wT1hd1LC/Screenshot-5.png">
  </picture>
  
  # Lists
