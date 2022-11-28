@@ -41,6 +41,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  # CONTENT
  
  [Summary](https://github.com/PopaGeorgianVictor/PORTOFOLIO#summary)
+ [Summary](https://github.com/PopaGeorgianVictor/PORTOFOLIO#summary)
  
  [Test Planning](https://github.com/PopaGeorgianVictor/PORTOFOLIO#test-planning)
    * [Analize the product](https://github.com/PopaGeorgianVictor/PORTOFOLIO#analize-the-product)
@@ -63,9 +64,13 @@ If you consider that I am a candidate who meets the requirements for the positio
  [Bug Life Cycle](https://github.com/PopaGeorgianVictor/PORTOFOLIO#bug-life-cycle) 
  
  
- # Summary
+ # CHECK IT OUT
  
  [CHECK IT OUT](https://docs.google.com/spreadsheets/d/1HIpymEp777sx4xhyFXULMb06Nswx47x6xFSXpTJRZws/edit#gid=960777853)
+ 
+ # Summary
+ 
+
   * can create test planning 
   * can create bug report
   * can perform manual functional and usability testing of web applications
@@ -1182,6 +1187,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  </picture>
  
  ## Loop
+ 
    <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
