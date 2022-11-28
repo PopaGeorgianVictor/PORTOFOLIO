@@ -1212,22 +1212,54 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Copy
  
+ ### We cannot copy a dictionary simply by typing dict2 = dict1, because: dict2 will only be a reference to dict1, and changes made in dict1 will automatically also be made in dict2
+ 
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Gh2yDTft/Screenshot-1.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/7YmjBdXX/Screenshot-2.png">
+ </picture>
+ 
+ ## Nested
+ 
+ ### A dictionary can contain dictionaries, this is called nested dictionaries
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/YCJ73TqZ/Screenshot-3.png">
  </picture>
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
-   <picture>
+  <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
-   <picture>
+  <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
  
 </details>
 
