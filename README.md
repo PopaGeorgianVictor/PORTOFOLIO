@@ -791,7 +791,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Copy 
  
- * we cannot copy a list simply by typing list2 = list1, because: list2 will only be a reference to list1, and changes made in list1 will automatically also be made in list2
+ ### We cannot copy a list simply by typing list2 = list1, because: list2 will only be a reference to list1, and changes made in list1 will automatically also be made in list2
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/pryhGV4x/Screenshot-1.png">
@@ -803,7 +803,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Join
  
- * there are several ways to join, or concatenate, two or more lists in Python
+### There are several ways to join, or concatenate, two or more lists in Python
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/8Pck60g8/Screenshot-1.png">
@@ -861,7 +861,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Access Tuple Items
  
- * we can access tuple items by referring to the index number, inside square brackets
+ ### We can access tuple items by referring to the index number, inside square brackets
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Xv8sDDFV/Screenshot-2.png">
@@ -900,7 +900,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4dkRNLwk/Screenshot-1.png">
  </picture>
  
- * since tuples are immutable, they do not have a build-in append() method, but there are other ways to add items to a tuple
+ ### Since tuples are immutable, they do not have a build-in append() method, but there are other ways to add items to a tuple
    - convert into a list: Just like the workaround for changing a tuple, you can convert it into a list, add your item(s), and convert it back into a tuple
    - add tuple to a tuple. We are allowed to add tuples to tuples, so if you want to add one item, (or many), create a new tuple with the item(s), and add it to the existing tuple
  
@@ -912,11 +912,11 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4dg4FND9/Screenshot-3.png">
  </picture>
  
- * when creating a tuple with only one item, remember to include a comma after the item, otherwise it will not be identified as a tuple
+ ### When creating a tuple with only one item, remember to include a comma after the item, otherwise it will not be identified as a tuple
  
  ## Remove
  
- * tuples are unchangeable, so you cannot remove items from it, but you can use the same workaround as we used for changing and adding tuple items
+ ### Tuples are unchangeable, so you cannot remove items from it, but you can use the same workaround as we used for changing and adding tuple items
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nhFPT8Sh/Screenshot-4.png">
@@ -1026,7 +1026,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Remove
  
- * to remove an item in a set, use the remove(), or the discard() method
+ ### To remove an item in a set, use the remove(), or the discard() method
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/633hcLfm/Screenshot-7.png">
@@ -1052,7 +1052,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Join
  
- * we can use the union() method that returns a new set containing all items from both sets, or the update() method that inserts all the items from one set into another
+ ### We can use the union() method that returns a new set containing all items from both sets, or the update() method that inserts all the items from one set into another
+ 
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fW34C15D/Screenshot-12.png">
  </picture>
@@ -1061,7 +1062,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/CKfDmhZb/Screenshot-1.png">
  </picture>
  
- * both union() and update() will exclude any duplicate items
+ ### Both union() and update() will exclude any duplicate items
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vHMJyDbH/Screenshot-2.png">
@@ -1120,7 +1121,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Accessing Items
  
- * we can access the items of a dictionary by referring to its key name, inside square brackets
+ ### We can access the items of a dictionary by referring to its key name, inside square brackets
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Y9SZSN7z/Screenshot-4.png">
  </picture>
@@ -1133,7 +1134,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/gjHgqnG2/Screenshot-2.png">
  </picture>
  
- * the list of the keys is a view of the dictionary, meaning that any changes done to the dictionary will be reflected in the keys list
+ ### The list of the keys is a view of the dictionary, meaning that any changes done to the dictionary will be reflected in the keys list
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/VN5sxCh2/Screenshot-3.png">
  </picture>
@@ -1142,7 +1143,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/tCmMrnhs/Screenshot-4.png">
  </picture>
  
- * the list of the values is a view of the dictionary, meaning that any changes done to the dictionary will be reflected in the values list
+ ### The list of the values is a view of the dictionary, meaning that any changes done to the dictionary will be reflected in the values list
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/VkQjLYw7/Screenshot-5.png">
  </picture>
