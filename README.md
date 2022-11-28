@@ -1229,12 +1229,14 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/YCJ73TqZ/Screenshot-3.png">
  </picture>
  
+ ### Or, if we want to add three dictionaries into a new dictionary
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/rwhj2LtZ/Screenshot-4.png">
  </picture>
  
+ ## Methods
   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fyJZ5sm4/Screenshot-1.png">
  </picture>
  
   <picture>
