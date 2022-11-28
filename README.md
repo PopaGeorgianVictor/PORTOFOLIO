@@ -1185,25 +1185,32 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Loop
  
+ ### We can loop through a dictionary by using a for loop
+ 
+ * when looping through a dictionary, the return value are the keys of the dictionary, but there are methods to return the values as well
+ 
+
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nrTyhCym/Screenshot-1.png">
  </picture>
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/cHvhn6tY/Screenshot-2.png">
  </picture>
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/q7yMMxjC/Screenshot-3.png">
  </picture>
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/g01XgK2M/Screenshot-4.png">
  </picture>
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/2SptNsXm/Screenshot-5.png">
  </picture>
+ 
+ ## Copy
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="">
