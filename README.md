@@ -312,15 +312,15 @@ If you consider that I am a candidate who meets the requirements for the positio
  
 [CHECK IT OUT](https://github.com/PopaGeorgianVictor/HOMEWORK)
  
- * knowledge about Python Programming
- * able to write simple functions and algorithms
- * able to comprehend easy codes
- * knowledge about OOP
- * knowledge about Selenium WebDriver
- * knowledge about API Testing
- * knowledge about BDD
- * develop framework for automated testing
- * working with PyCharm IDE
+ * ### knowledge about Python Programming
+ * ### able to write simple functions and algorithms
+ * ### able to comprehend easy codes
+ * ### knowledge about OOP
+ * ### knowledge about Selenium WebDriver
+ * ### knowledge about API Testing
+ * ### knowledge about BDD
+ * ### develop framework for automated testing
+ * ### working with PyCharm IDE
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/s2z3dhx6/Screenshot-1.png">
@@ -333,13 +333,13 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/28KSLy6T/Screenshot-1.png">
  </picture>
  
- * python variables are the containers that we store data values in them
- * when we assing this value, the variable is automatically created
- * we can assign a number, a string, a list, a tuple, a set, a dictionary  to python variables
- * we can change the value of a variable multiple times in our code
- * while we assign a value to the variables, if it is the same value, we can do this in one line
- * variables can be overwritten
- * data types are properties of variables, functions or methods that instruct the system about the stored value (for variables) or the returned result (for functions and    methods)
+ * ### python variables are the containers that we store data values in them
+ * ### when we assing this value, the variable is automatically created
+ * ### we can assign a number, a string, a list, a tuple, a set, a dictionary  to python variables
+ * ### we can change the value of a variable multiple times in our code
+ * ### while we assign a value to the variables, if it is the same value, we can do this in one line
+ * ### variables can be overwritten
+ * ### data types are properties of variables, functions or methods that instruct the system about the stored value (for variables) or the returned result (for functions and    methods)
  
  
  <picture>
@@ -363,10 +363,10 @@ If you consider that I am a candidate who meets the requirements for the positio
  
 ## Basic rules for naming variables:
 
-* it must start with a lowercase letter
-* it must not have spaces - if the variable name consists of several words, then the variable name can follow the camelCase or snake_case format
-* it must not start with numbers
-* it must not start with special characters
+* ### it must start with a lowercase letter
+* ### it must not have spaces - if the variable name consists of several words, then the variable name can follow the camelCase or snake_case format
+* ### it must not start with numbers
+* ### it must not start with special characters
  
   
  <picture>
@@ -393,13 +393,13 @@ If you consider that I am a candidate who meets the requirements for the positio
  ## There are different python operators. We can divide them into seven categories like below:
  
   
- * Arithmetic operators
- * Assignment operators
- * Comparison operators
- * Logical operators
- * Identity operators
- * Membership operators
- * Bitwise operators
+ * ### Arithmetic operators
+ * ### Assignment operators
+ * ### Comparison operators
+ * ### Logical operators
+ * ### Identity operators
+ * ### Membership operators
+ * ### Bitwise operators
  
  ##  Arithmetic operators
  <picture>
@@ -474,9 +474,9 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  # Conditionals
  
- * in Python one of the most used statements is Python If Else or Python Else If statements
- * with these statements we check special conditions and according to this condition, we do something
- * the usage of this statements can be differently like below
+ * ### in Python one of the most used statements is Python If Else or Python Else If statements
+ * ### with these statements we check special conditions and according to this condition, we do something
+ * ### the usage of this statements can be differently like below
  
  ## Indentation
  
@@ -555,9 +555,9 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Using And / Or Operators with Python If Else 
  
- * sometimes we need to check one more condition in the if statements(there are two operators that we us efor this purposes, one of them is “and”, the other one is “or”)
- * with “and” operator, we check the given conditions and if both the conditions are provided, then the body of the if statement runs
- * with “or” operator, we check the given conditions and if one of them is provided, then the body of the if statament runs
+ * ### sometimes we need to check one more condition in the if statements(there are two operators that we us efor this purposes, one of them is “and”, the other one is “or”)
+ * ### with “and” operator, we check the given conditions and if both the conditions are provided, then the body of the if statement runs
+ * ### with “or” operator, we check the given conditions and if one of them is provided, then the body of the if statament runs
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vHg9HRPC/Screenshot-3.png">
@@ -572,8 +572,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Nested If Statements
  
- * nested If Statements are the if statemetns used in another if statements
- * we can use multiple if statements inside another if statements
+ * ### nested If Statements are the if statemetns used in another if statements
+ * ### we can use multiple if statements inside another if statements
  
  
   <picture>
@@ -628,12 +628,12 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Basics
  
- * list is created with a Square Brackets []
- * the items belong to this list is added into these square brackets with commas (,)
- * list items are ordered(items have a defined order, and that order will not change) 
- * list items are changeable(we can change, add, and remove items in a list after it has been created)
- * allow duplicate values(since lists are indexed, lists can have items with the same value)
- * list items are indexed, the first item has index [0], the second item has index [1] etc.
+ * ### list is created with a Square Brackets []
+ * ### the items belong to this list is added into these square brackets with commas (,)
+ * ### list items are ordered(items have a defined order, and that order will not change) 
+ * ### list items are changeable(we can change, add, and remove items in a list after it has been created)
+ * ### allow duplicate values(since lists are indexed, lists can have items with the same value)
+ * ### list items are indexed, the first item has index [0], the second item has index [1] etc.
  
  ## Methods
  
@@ -880,12 +880,12 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Basics
  
- * can be created with round brackets
- * are used to store multiple items in a single variable
- * items are ordered(means that the items have a defined order, and that order will not change)
- * are unchangeable(meaning that we cannot change, add or remove items after the tuple has been created)
- * items are indexed, the first item has index [0], the second item has index [1] etc.
- * allow duplicates values
+ * ### can be created with round brackets
+ * ### are used to store multiple items in a single variable
+ * ### items are ordered(means that the items have a defined order, and that order will not change)
+ * ### are unchangeable(meaning that we cannot change, add or remove items after the tuple has been created)
+ * ### items are indexed, the first item has index [0], the second item has index [1] etc.
+ * ### allow duplicates values
  
 ##  Creation
  
@@ -945,8 +945,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Update
  
- * once a tuple is created, you cannot change its values. Tuples are unchangeable, or immutable as it also is called
- * but there is a workaround. You can convert the tuple into a list, change the list, and convert the list back into a tuple
+ * ### once a tuple is created, you cannot change its values. Tuples are unchangeable, or immutable as it also is called
+ * ### but there is a workaround. You can convert the tuple into a list, change the list, and convert the list back into a tuple
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4dkRNLwk/Screenshot-1.png">
@@ -976,8 +976,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Unpack
  
- * when we create a tuple, we normally assign values to it. This is called "packing" a tuple
- * but, in Python, we are also allowed to extract the values back into variables. This is called "unpacking"
+ * ### when we create a tuple, we normally assign values to it. This is called "packing" a tuple
+ * ### but, in Python, we are also allowed to extract the values back into variables. This is called "unpacking"
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/3wRpt9HG/Screenshot-5.png">
@@ -1027,12 +1027,12 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Basics
  
- * are written with curly brackets
- * are used to store multiple items in a single variable
- * are unordered(items in a set do not have a defined order, so we cannot be sure in which order the items will appear)
- * items can appear in a different order every time you use them, and cannot be referred to by index or key
- * are unchangeable(that we cannot change the items after the set has been created, but we can remove items and add new items)
- * duplicates not allowed(cannot have two items with the same value, duplicate values will be ignored)
+ * ### are written with curly brackets
+ * ### are used to store multiple items in a single variable
+ * ### are unordered(items in a set do not have a defined order, so we cannot be sure in which order the items will appear)
+ * ### items can appear in a different order every time you use them, and cannot be referred to by index or key
+ * ### are unchangeable(that we cannot change the items after the set has been created, but we can remove items and add new items)
+ * ### duplicates not allowed(cannot have two items with the same value, duplicate values will be ignored)
  
  
  ## Creation
@@ -1062,7 +1062,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Add Items
  
- * once a set is created, we cannot change its items, but you can add new items
+ * ### once a set is created, we cannot change its items, but you can add new items
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/h4dwTcZR/Screenshot-4.png">
@@ -1144,9 +1144,9 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Basics
  
- * are written with curly brackets, and have keys and values
- * items are ordered, changeable, and does not allow duplicates
- * items are presented in key:value pairs, and can be referred to by using the key name
+ * ### are written with curly brackets, and have keys and values
+ * ### items are ordered, changeable, and does not allow duplicates
+ * ### items are presented in key:value pairs, and can be referred to by using the key name
  
  
  ## Creation
@@ -1291,26 +1291,141 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fyJZ5sm4/Screenshot-1.png">
  </picture>
  
+ 
+ # Functions
+ 
+ ## Basics
+ 
+ * ### a function is a block of code which only runs when it is called
+ * ### we can pass data, known as parameters, into a function
+ * ### a function can return data as a result
+ * ### the advantage of using functions is given by code economy(we write them once and use them several times)
+ * ### in the definition, what is between the brackets are called parameters
+ * ### a parameter is the variable listed inside the parentheses in the function definition
+ * ### when calling, what is between the brackets are called arguments
+ * ### an argument is the value that is sent to the function when it is called
+
+ ### The components of a function
+ 
+ * def -> marking the beginning of a function declaration
+ * name of the function -> free text, it is recommended to be a suggestive name
+ * function body -> instructions that will be executed once the function is called
+ * parameters -> external information that the function may or may not need (optional)
+ * return -> keyword through which we send the results of the function to the outsid
+ * the body of the function is marked by indentation against the edge of the file
+ 
+* ### in the definition, what is between the brackets are called parameters
+* ### a parameter is the variable listed inside the parentheses in the function definition
+* ### when calling, what is between the brackets are called arguments
+* ### an argument is the value that is sent to the function when it is called
+
+ ## Creating 
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zfPgqXfc/Screenshot-1.png">
+ </picture>
+ 
+ ## Calling
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/qMkMZHJh/Screenshot-2.png">
+ </picture>
+ 
+ ## Arguments/Parameters
+ 
+ * ### information can be passed into functions as arguments
+ * ### arguments are specified after the function name, inside the parentheses. You can add as many arguments as you want, just separate them with a comma
+
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/FRz35kgq/Screenshot-3.png">
+ </picture>
+ 
+ 
+ * ### by default, a function must be called with the correct number of arguments. Meaning that if your function expects 2 arguments, you have to call the function with 2 arguments, not more, and not less
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/0yB19LpN/Screenshot-4.png">
+ </picture>
+ 
+ ### Arbitrary Arguments, *args
+ 
+ * ### if you do not know how many arguments that will be passed into your function, add a * before the parameter name in the function definition
+ * ### this way the function will receive a tuple of arguments, and can access the items accordingly
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/ZR3BhGMk/Screenshot-5.png">
+ </picture>
+ 
+ ### Keyword Arguments
+ 
+ * ### we can also send arguments with the key = value syntax
+ * ### this way the order of the arguments does not matter
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/50wBmQ1F/Screenshot-6.png">
+ </picture>
+ 
+  ### Arbitrary Keyword Arguments, **kwargs
+  
+  * ### if we do not know how many keyword arguments that will be passed into your function, add two asterisk: ** before the parameter name in the function definition
+  * ### this way the function will receive a dictionary of arguments, and can access the items accordingly
+  
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/yxR8R0zw/Screenshot-7.png">
+ </picture>
+ 
+  ### Passing a List as an Argument
+ 
+ * we can send any data types of argument to a function (string, number, list, dictionary etc.), and it will be treated as the same data type inside the function
+  
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zDkJsDGw/Screenshot-9.png">
+ </picture>
+ 
+ ### Default Parameter Value
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/2ygBRzzf/Screenshot-8.png">
+ </picture>
+ 
+ 
+ ## Return 
+  
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zDkJsDGw/Screenshot-9.png">
+ </picture>
+ 
+ 
+ ## The pass Statement
+ 
+ * ### function definitions cannot be empty, but if you for some reason have a function definition with no content, put in the pass statement to avoid getting an error.
+  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
+  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
+  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
+  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
+  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
+  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
