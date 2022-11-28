@@ -1402,7 +1402,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  * ### function definitions cannot be empty, but if you for some reason have a function definition with no content, put in the pass statement to avoid getting an error.
   
   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/t4VSZ57X/Screenshot-10.png">
  </picture>
  
   
