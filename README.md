@@ -282,6 +282,20 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [Loop](https://github.com/PopaGeorgianVictor/PORTOFOLIO#loop-1)
    * [Join](https://github.com/PopaGeorgianVictor/PORTOFOLIO#join-2)
    * [Methods](https://github.com/PopaGeorgianVictor/PORTOFOLIO#methods-2)
+ 
+ 
+  [Dictionaries](https://github.com/PopaGeorgianVictor/PORTOFOLIO#dictionaries)
+   * [Basics](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basics-3)
+   * [Creation](https://github.com/PopaGeorgianVictor/PORTOFOLIO#creation-3)
+   * [Length](https://github.com/PopaGeorgianVictor/PORTOFOLIO#length-3)
+   * [Access Items](https://github.com/PopaGeorgianVictor/PORTOFOLIO#accessing-items)
+   * [Change](https://github.com/PopaGeorgianVictor/PORTOFOLIO#change)
+   * [Add](https://github.com/PopaGeorgianVictor/PORTOFOLIO#add)
+   * [Remove](https://github.com/PopaGeorgianVictor/PORTOFOLIO#remove-2)
+   * [Loop](https://github.com/PopaGeorgianVictor/PORTOFOLIO#loop-2)
+   * [Copy](https://github.com/PopaGeorgianVictor/PORTOFOLIO#copy-1)
+   * [Nested](https://github.com/PopaGeorgianVictor/PORTOFOLIO#nested)
+   * [Methods](https://github.com/PopaGeorgianVictor/PORTOFOLIO#methods-3)
    
  
  
