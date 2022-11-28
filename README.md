@@ -67,15 +67,15 @@ If you consider that I am a candidate who meets the requirements for the positio
  
 [CHECK IT OUT](https://docs.google.com/spreadsheets/d/1HIpymEp777sx4xhyFXULMb06Nswx47x6xFSXpTJRZws/edit#gid=960777853)
 
-  * can create test planning 
-  * can create bug report
-  * can perform manual functional and usability testing of web applications
-  * can create test cases and execute them in a test management tool
-  * can create bug reports for the defects found and link them with the appropriate requirement
-  * can analyze efficiently functional documentation and point out the right questions to ensure that defects are found early
-  * can apply test design techniques such as boundary value analisys, equivalence paritioning to derive test cases
-  * gained hands-on experience by web testing applications 
-  * familiar with Agile Methodology
+  * ### can create test planning 
+  * ### can create bug report
+  * ### can perform manual functional and usability testing of web applications
+  * ### can create test cases and execute them in a test management tool
+  * ### can create bug reports for the defects found and link them with the appropriate requirement
+  * ### can analyze efficiently functional documentation and point out the right questions to ensure that defects are found early
+  * ### can apply test design techniques such as boundary value analisys, equivalence paritioning to derive test cases
+  * ### gained hands-on experience by web testing applications 
+  * ### familiar with Agile Methodology
  
  
  ## Test Planning
@@ -298,6 +298,15 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [Copy](https://github.com/PopaGeorgianVictor/PORTOFOLIO#copy-1)
    * [Nested](https://github.com/PopaGeorgianVictor/PORTOFOLIO#nested)
    * [Methods](https://github.com/PopaGeorgianVictor/PORTOFOLIO#methods-3)
+ 
+  [Functions](https://github.com/PopaGeorgianVictor/PORTOFOLIO#functions)
+   * [Basics](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basics-4)
+   * [Creating](https://github.com/PopaGeorgianVictor/PORTOFOLIO#creating)
+   * [Calling](https://github.com/PopaGeorgianVictor/PORTOFOLIO#calling)
+   * [Arguments/Parameters](https://github.com/PopaGeorgianVictor/PORTOFOLIO#argumentsparameters)
+   * [Return](https://github.com/PopaGeorgianVictor/PORTOFOLIO#return)
+   * [The pass Statement](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-pass-statement)
+   
    
  
  
@@ -1313,11 +1322,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  * parameters -> external information that the function may or may not need (optional)
  * return -> keyword through which we send the results of the function to the outsid
  * the body of the function is marked by indentation against the edge of the file
- 
-* ### in the definition, what is between the brackets are called parameters
-* ### a parameter is the variable listed inside the parentheses in the function definition
-* ### when calling, what is between the brackets are called arguments
-* ### an argument is the value that is sent to the function when it is called
+
 
  ## Creating 
  
