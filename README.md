@@ -1410,30 +1410,126 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/t4VSZ57X/Screenshot-10.png">
  </picture>
  
+  # Classes/Objects
   
+  ## Create a Class
+  
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/tRwCdXwG/Screenshot-1.png">
+ </picture>
+ 
+  ## Create Object
+  
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Y0B7VxFN/Screenshot-2.png">
+ </picture>
+ 
+  ## The __init__() Function
+  
+* ### the examples above are classes and objects in their simplest form, and are not really useful in real life applications
+* ### to understand the meaning of classes we have to understand the built-in __init__() function
+* ### all classes have a function called __init__(), which is always executed when the class is being initiated
+* ### use the __init__() function to assign values to object properties, or other operations that are necessary to do when the object is being created
+* ### this function also called constructor  
+  
+    <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/76n4F2np/Screenshot-3.png">
+ </picture>
+ 
+ ### Note: The __init__() function is called automatically every time the class is being used to create a new object
+ 
+  ## The __str__() Function
+  
+  * ### the __str__() function controls what should be returned when the class object is represented as a string
+  * ### if the __str__() function is not set, the string representation of the object is returned
+  
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4x1V88DG/Screenshot-4.png">
+ </picture>
+ 
+  ## Object Methods
+  
+  * ### objects can also contain methods. Methods in objects are functions that belong to the object
+  * ### let's go and create a method in the Person class
+  
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/L5z3mmbY/Screenshot-5.png">
+ </picture>
+ 
+ ### Note: The self parameter is a reference to the current instance of the class, and is used to access variables that belong to the class
+ 
+ ## The self Parameter
+ 
+ * ### the self parameter is a reference to the current instance of the class, and is used to access variables that belongs to the class
+ * ### it does not have to be named self , you can call it whatever you like, but it has to be the first parameter of any function in the class
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/gJpv4CJG/Screenshot-6.png">
+ </picture>
+ 
+ ## Modify Object Properties
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/KzKRPQ7m/Screenshot-7.png">
+ </picture>
+ 
   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
-  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
-  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
-  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
-  
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+ 
  
 </details>
 
