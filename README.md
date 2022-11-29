@@ -1473,6 +1473,12 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/KzKRPQ7m/Screenshot-7.png">
  </picture>
  
+ # Inheritance
+ 
+ * ### inheritance allows us to define a class that inherits all the methods and properties from another class
+ * ### parent class is the class being inherited from, also called base class
+ * ### child class is the class that inherits from another class, also called derived class
+ 
   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
