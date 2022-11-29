@@ -308,7 +308,14 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [The pass Statement](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-pass-statement)
    
    
- 
+  
+  [Classes/Objects](https://github.com/PopaGeorgianVictor/PORTOFOLIO#classesobjects)
+   * [Basics](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basics-4)
+   * [Creating](https://github.com/PopaGeorgianVictor/PORTOFOLIO#creating)
+   * [Calling](https://github.com/PopaGeorgianVictor/PORTOFOLIO#calling)
+   * [Arguments/Parameters](https://github.com/PopaGeorgianVictor/PORTOFOLIO#argumentsparameters)
+   * [Return](https://github.com/PopaGeorgianVictor/PORTOFOLIO#return)
+   * [The pass Statement](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-pass-statement)
  
    
   
@@ -1410,7 +1417,20 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/t4VSZ57X/Screenshot-10.png">
  </picture>
  
-  # Classes/Objects
+  # Classes/Objects 
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/902PLrW8/Screenshot-1.png">
+ </picture>
+ 
+  ## Basics
+ 
+  * ### object-oriented programming (OOP) is a method of structuring a program by bundling related properties and behaviors into individual objects
+  * ### a class is a blueprint(sketch) for the object
+  * ### an object (instance) is an instantiation of a class(when class is defined, only the description for the object is defined. Therefore, no memory or storage is allocated)
+  * ### an object has two characteristics : attributes(for examples name,age,color) and methods(for examples singing, dancing)
+  
+  
   
   ## Create a Class
   
@@ -1473,7 +1493,14 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/KzKRPQ7m/Screenshot-7.png">
  </picture>
  
- # Inheritance
+ # The Four Pillars
+ 
+  
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/50bq3X9P/Screenshot-2.png">
+ </picture>
+ 
+ ## Inheritance
  
  * ### inheritance allows us to define a class that inherits all the methods and properties from another class
  * ### parent class is the class being inherited from, also called base class
