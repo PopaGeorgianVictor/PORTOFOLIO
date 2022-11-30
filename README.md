@@ -353,13 +353,13 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/28KSLy6T/Screenshot-1.png">
  </picture>
  
- * ### python variables are the containers that we store data values in them
- * ### when we assing this value, the variable is automatically created
- * ### we can assign a number, a string, a list, a tuple, a set, a dictionary  to python variables
- * ### we can change the value of a variable multiple times in our code
- * ### while we assign a value to the variables, if it is the same value, we can do this in one line
- * ### variables can be overwritten
- * ### data types are properties of variables, functions or methods that instruct the system about the stored value (for variables) or the returned result (for functions and    methods)
+ * python variables are the containers that we store data values in them
+ * when we assing this value, the variable is automatically created
+ * we can assign a number, a string, a list, a tuple, a set, a dictionary  to python variables
+ * we can change the value of a variable multiple times in our code
+ * while we assign a value to the variables, if it is the same value, we can do this in one line
+ * variables can be overwritten
+ * data types are properties of variables, functions or methods that instruct the system about the stored value (for variables) or the returned result (for functions and    methods)
  
  
  <picture>
@@ -383,10 +383,10 @@ If you consider that I am a candidate who meets the requirements for the positio
  
 ## Basic rules for naming variables:
 
-* ### it must start with a lowercase letter
-* ### it must not have spaces - if the variable name consists of several words, then the variable name can follow the camelCase or snake_case format
-* ### it must not start with numbers
-* ### it must not start with special characters
+* it must start with a lowercase letter
+* it must not have spaces - if the variable name consists of several words, then the variable name can follow the camelCase or snake_case format
+* it must not start with numbers
+* it must not start with special characters
  
   
  <picture>
@@ -494,9 +494,9 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  # Conditionals
  
- * ### in Python one of the most used statements is Python If Else or Python Else If statements
- * ### with these statements we check special conditions and according to this condition, we do something
- * ### the usage of this statements can be differently like below
+ * in Python one of the most used statements is Python If Else or Python Else If statements
+ * with these statements we check special conditions and according to this condition, we do something
+ * the usage of this statements can be differently like below
  
  ## Indentation
  
@@ -575,9 +575,9 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Using And / Or Operators with Python If Else 
  
- * ### sometimes we need to check one more condition in the if statements(there are two operators that we us efor this purposes, one of them is “and”, the other one is “or”)
- * ### with “and” operator, we check the given conditions and if both the conditions are provided, then the body of the if statement runs
- * ### with “or” operator, we check the given conditions and if one of them is provided, then the body of the if statament runs
+ * sometimes we need to check one more condition in the if statements(there are two operators that we us efor this purposes, one of them is “and”, the other one is “or”)
+ * with “and” operator, we check the given conditions and if both the conditions are provided, then the body of the if statement runs
+ * with “or” operator, we check the given conditions and if one of them is provided, then the body of the if statament runs
  
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vHg9HRPC/Screenshot-3.png">
@@ -592,8 +592,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Nested If Statements
  
- * ### nested If Statements are the if statemetns used in another if statements
- * ### we can use multiple if statements inside another if statements
+ * nested If Statements are the if statemetns used in another if statements
+ * we can use multiple if statements inside another if statements
  
  
   <picture>
@@ -648,12 +648,12 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Basics
  
- * ### list is created with a Square Brackets []
- * ### the items belong to this list is added into these square brackets with commas (,)
- * ### list items are ordered(items have a defined order, and that order will not change) 
- * ### list items are changeable(we can change, add, and remove items in a list after it has been created)
- * ### allow duplicate values(since lists are indexed, lists can have items with the same value)
- * ### list items are indexed, the first item has index [0], the second item has index [1] etc.
+ * list is created with a Square Brackets []
+ * the items belong to this list is added into these square brackets with commas (,)
+ * list items are ordered(items have a defined order, and that order will not change) 
+ * list items are changeable(we can change, add, and remove items in a list after it has been created)
+ * allow duplicate values(since lists are indexed, lists can have items with the same value)
+ * list items are indexed, the first item has index [0], the second item has index [1] etc.
  
  ## Methods
  
@@ -900,12 +900,12 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Basics
  
- * ### can be created with round brackets
- * ### are used to store multiple items in a single variable
- * ### items are ordered(means that the items have a defined order, and that order will not change)
- * ### are unchangeable(meaning that we cannot change, add or remove items after the tuple has been created)
- * ### items are indexed, the first item has index [0], the second item has index [1] etc.
- * ### allow duplicates values
+ * can be created with round brackets
+ * are used to store multiple items in a single variable
+ * items are ordered(means that the items have a defined order, and that order will not change)
+ * are unchangeable(meaning that we cannot change, add or remove items after the tuple has been created)
+ * items are indexed, the first item has index [0], the second item has index [1] etc.
+ * allow duplicates values
  
 ##  Creation
  
@@ -965,8 +965,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Update
  
- * ### once a tuple is created, you cannot change its values. Tuples are unchangeable, or immutable as it also is called
- * ### but there is a workaround. You can convert the tuple into a list, change the list, and convert the list back into a tuple
+ * once a tuple is created, you cannot change its values. Tuples are unchangeable, or immutable as it also is called
+ * but there is a workaround. You can convert the tuple into a list, change the list, and convert the list back into a tuple
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4dkRNLwk/Screenshot-1.png">
@@ -996,8 +996,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Unpack
  
- * ### when we create a tuple, we normally assign values to it. This is called "packing" a tuple
- * ### but, in Python, we are also allowed to extract the values back into variables. This is called "unpacking"
+ * when we create a tuple, we normally assign values to it. This is called "packing" a tuple
+ * but, in Python, we are also allowed to extract the values back into variables. This is called "unpacking"
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/3wRpt9HG/Screenshot-5.png">
@@ -1047,12 +1047,12 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Basics
  
- * ### are written with curly brackets
- * ### are used to store multiple items in a single variable
- * ### are unordered(items in a set do not have a defined order, so we cannot be sure in which order the items will appear)
- * ### items can appear in a different order every time you use them, and cannot be referred to by index or key
- * ### are unchangeable(that we cannot change the items after the set has been created, but we can remove items and add new items)
- * ### duplicates not allowed(cannot have two items with the same value, duplicate values will be ignored)
+ * are written with curly brackets
+ * are used to store multiple items in a single variable
+ * are unordered(items in a set do not have a defined order, so we cannot be sure in which order the items will appear)
+ * items can appear in a different order every time you use them, and cannot be referred to by index or key
+ * are unchangeable(that we cannot change the items after the set has been created, but we can remove items and add new items)
+ * duplicates not allowed(cannot have two items with the same value, duplicate values will be ignored)
  
  
  ## Creation
@@ -1082,7 +1082,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Add Items
  
- * ### once a set is created, we cannot change its items, but you can add new items
+ * once a set is created, we cannot change its items, but you can add new items
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/h4dwTcZR/Screenshot-4.png">
@@ -1164,9 +1164,9 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Basics
  
- * ### are written with curly brackets, and have keys and values
- * ### items are ordered, changeable, and does not allow duplicates
- * ### items are presented in key:value pairs, and can be referred to by using the key name
+ * are written with curly brackets, and have keys and values
+ * items are ordered, changeable, and does not allow duplicates
+ * items are presented in key:value pairs, and can be referred to by using the key name
  
  
  ## Creation
@@ -1316,14 +1316,14 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Basics
  
- * ### a function is a block of code which only runs when it is called
- * ### we can pass data, known as parameters, into a function
- * ### a function can return data as a result
- * ### the advantage of using functions is given by code economy(we write them once and use them several times)
- * ### in the definition, what is between the brackets are called parameters
- * ### a parameter is the variable listed inside the parentheses in the function definition
- * ### when calling, what is between the brackets are called arguments
- * ### an argument is the value that is sent to the function when it is called
+ * a function is a block of code which only runs when it is called
+ * we can pass data, known as parameters, into a function
+ * a function can return data as a result
+ * the advantage of using functions is given by code economy(we write them once and use them several times)
+ * in the definition, what is between the brackets are called parameters
+ * a parameter is the variable listed inside the parentheses in the function definition
+ * when calling, what is between the brackets are called arguments
+ * an argument is the value that is sent to the function when it is called
 
  ### The components of a function
  
@@ -1349,8 +1349,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Arguments/Parameters
  
- * ### information can be passed into functions as arguments
- * ### arguments are specified after the function name, inside the parentheses. You can add as many arguments as you want, just separate them with a comma
+ * information can be passed into functions as arguments
+ * arguments are specified after the function name, inside the parentheses. You can add as many arguments as you want, just separate them with a comma
 
  
   <picture>
@@ -1366,8 +1366,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ### Arbitrary Arguments, *args
  
- * ### if you do not know how many arguments that will be passed into your function, add a * before the parameter name in the function definition
- * ### this way the function will receive a tuple of arguments, and can access the items accordingly
+ * if you do not know how many arguments that will be passed into your function, add a * before the parameter name in the function definition
+ * this way the function will receive a tuple of arguments, and can access the items accordingly
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/ZR3BhGMk/Screenshot-5.png">
@@ -1375,8 +1375,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ### Keyword Arguments
  
- * ### we can also send arguments with the key = value syntax
- * ### this way the order of the arguments does not matter
+ * we can also send arguments with the key = value syntax
+ * this way the order of the arguments does not matter
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/50wBmQ1F/Screenshot-6.png">
@@ -1384,8 +1384,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  
   ### Arbitrary Keyword Arguments, **kwargs
   
-  * ### if we do not know how many keyword arguments that will be passed into your function, add two asterisk: ** before the parameter name in the function definition
-  * ### this way the function will receive a dictionary of arguments, and can access the items accordingly
+  * if we do not know how many keyword arguments that will be passed into your function, add two asterisk: ** before the parameter name in the function definition
+  * this way the function will receive a dictionary of arguments, and can access the items accordingly
   
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/yxR8R0zw/Screenshot-7.png">
@@ -1415,7 +1415,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## The pass Statement
  
- * ### function definitions cannot be empty, but if you for some reason have a function definition with no content, put in the pass statement to avoid getting an error.
+ * function definitions cannot be empty, but if you for some reason have a function definition with no content, put in the pass statement to avoid getting an error.
   
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/t4VSZ57X/Screenshot-10.png">
@@ -1429,11 +1429,11 @@ If you consider that I am a candidate who meets the requirements for the positio
  
   ## Basics
  
-  * ### object-oriented programming (OOP) is a method of structuring a program by bundling related properties and behaviors into individual objects
-  * ### a class is a blueprint(sketch) for the object
-  * ### an object (instance) is an instantiation of a class(when class is defined, only the description for the object is defined. Therefore, no memory or storage is allocated)
-  * ### an object has two characteristics : attributes(for examples name,age,color) and methods(for examples singing, dancing)
-  * ### the central pillar of OOPs - data Abstraction, Encapsulation, Inheritance, and Polymorphism
+  * object-oriented programming (OOP) is a method of structuring a program by bundling related properties and behaviors into individual objects
+  * a class is a blueprint(sketch) for the object
+  * an object (instance) is an instantiation of a class(when class is defined, only the description for the object is defined. Therefore, no memory or storage is allocated)
+  * an object has two characteristics : attributes(for examples name,age,color) and methods(for examples singing, dancing)
+  * the central pillar of OOPs - data Abstraction, Encapsulation, Inheritance, and Polymorphism
   
   
   ## Create a Class
@@ -1450,11 +1450,11 @@ If you consider that I am a candidate who meets the requirements for the positio
  
   ## The __init__() Function
   
-* ### the examples above are classes and objects in their simplest form, and are not really useful in real life applications
-* ### to understand the meaning of classes we have to understand the built-in __init__() function
-* ### all classes have a function called __init__(), which is always executed when the class is being initiated
-* ### use the __init__() function to assign values to object properties, or other operations that are necessary to do when the object is being created
-* ### this function also called constructor  
+* the examples above are classes and objects in their simplest form, and are not really useful in real life applications
+* o understand the meaning of classes we have to understand the built-in __init__() function
+* all classes have a function called __init__(), which is always executed when the class is being initiated
+* use the __init__() function to assign values to object properties, or other operations that are necessary to do when the object is being created
+* this function also called constructor  
   
     <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/76n4F2np/Screenshot-3.png">
@@ -1464,8 +1464,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  
   ## The __str__() Function
   
-  * ### the __str__() function controls what should be returned when the class object is represented as a string
-  * ### if the __str__() function is not set, the string representation of the object is returned
+  * the __str__() function controls what should be returned when the class object is represented as a string
+  * if the __str__() function is not set, the string representation of the object is returned
   
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4x1V88DG/Screenshot-4.png">
@@ -1473,8 +1473,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  
   ## Object Methods
   
-  * ### objects can also contain methods. Methods in objects are functions that belong to the object
-  * ### let's go and create a method in the Person class
+  * objects can also contain methods. Methods in objects are functions that belong to the object
+  * let's go and create a method in the Person class
   
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/L5z3mmbY/Screenshot-5.png">
@@ -1484,8 +1484,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## The self Parameter
  
- * ### the self parameter is a reference to the current instance of the class, and is used to access variables that belongs to the class
- * ### it does not have to be named self , you can call it whatever you like, but it has to be the first parameter of any function in the class
+ * the self parameter is a reference to the current instance of the class, and is used to access variables that belongs to the class
+ * it does not have to be named self , you can call it whatever you like, but it has to be the first parameter of any function in the class
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/gJpv4CJG/Screenshot-6.png">
@@ -1506,9 +1506,9 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Inheritance
  
- * ### inheritance allows us to define a class that inherits all the methods and properties from another class
- * ### parent class is the class being inherited from, also called base class
- * ### child class is the class that inherits from another class, also called derived class
+ * inheritance allows us to define a class that inherits all the methods and properties from another class
+ * parent class is the class being inherited from, also called base class
+ * child class is the class that inherits from another class, also called derived class
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/PxPRtqc5/Screenshot-1.png">
@@ -1549,14 +1549,14 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/WzT6NG2V/Screenshot-6.png">
  </picture>
  
- * #### if we add a method in the child class with the same name as a function in the parent class, the inheritance of the parent method will be overridden
+ * if we add a method in the child class with the same name as a function in the parent class, the inheritance of the parent method will be overridden
  
  ### Types of Inheritance
  
-  * #### Single Inheritance : enables a derived class to inherit characteristics from a single-parent class
-  * #### Multilevel Inheritance : enables a derived class to inherit properties from an immediate parent class which in turn inherits properties from his parent class
-  * #### Hierarchical Inheritance  : enables more than one derived class to inherit properties from a parent class
-  * #### Multiple Inheritance : enables one derived class to inherit properties from more than one base class
+  * Single Inheritance : enables a derived class to inherit characteristics from a single-parent class
+  * Multilevel Inheritance : enables a derived class to inherit properties from an immediate parent class which in turn inherits properties from his parent class
+  * Hierarchical Inheritance  : enables more than one derived class to inherit properties from a parent class
+  * Multiple Inheritance : enables one derived class to inherit properties from more than one base class
  
  
   <picture>
