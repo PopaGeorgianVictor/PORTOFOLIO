@@ -1511,28 +1511,45 @@ If you consider that I am a candidate who meets the requirements for the positio
  * ### child class is the class that inherits from another class, also called derived class
  
   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/PxPRtqc5/Screenshot-1.png">
+ </picture>
+ 
+ #### Create a Child Class
+ 
+ * to create a class that inherits the functionality from another class, send the parent class as a parameter when creating the child class
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nzq20Q9g/Screenshot-2.png">
+ </picture>
+ 
+ #### Add the __init__() Function
+ 
+ * so far we have created a child class that inherits the properties and methods from its parent
+ * we want to add the __init__() function to the child class (instead of the pass keyword)
+ * the __init__() function is called automatically every time the class is being used to create a new object
+ 
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/SKh4NHbM/Screenshot-3.png">
  </picture>
  
   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/sgtYB9TS/Screenshot-4.png">
  </picture>
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="">
- </picture>
+ #### Add properties
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NfnJ4XNG/Screenshot-5.png">
  </picture>
  
+ #### Add methods
+ 
   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/WzT6NG2V/Screenshot-6.png">
  </picture>
+ 
+ * #### if we add a method in the child class with the same name as a function in the parent class, the inheritance of the parent method will be overridden
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
