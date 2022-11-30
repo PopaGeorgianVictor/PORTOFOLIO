@@ -210,7 +210,9 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  [CHECK IT OUT](https://github.com/PopaGeorgianVictor/PORTOFOLIO#check-it-out)
  
-
+ 
+ [PYTHON](https://github.com/PopaGeorgianVictor/PORTOFOLIO#python)
+ 
  [Variables. Data Types](https://github.com/PopaGeorgianVictor/PORTOFOLIO#variables-data-types)
    * [Basic rules for naming variables](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basic-rules-for-naming-variables)
    * [Type() Function](https://github.com/PopaGeorgianVictor/PORTOFOLIO#type-function)
