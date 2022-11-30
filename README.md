@@ -321,8 +321,10 @@ If you consider that I am a candidate who meets the requirements for the positio
  
   [The Four Pillars](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-four-pillars)
    * [Inheritance](https://github.com/PopaGeorgianVictor/PORTOFOLIO#inheritance)
-   * [Object Methods](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-pass-statement)
-   * [Object Methods](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-pass-statement)
+   * [Polymorphism](https://github.com/PopaGeorgianVictor/PORTOFOLIO#polymorphism)
+   * [Encapsulation](https://github.com/PopaGeorgianVictor/PORTOFOLIO#encapsulation)
+   * [Abstraction](https://github.com/PopaGeorgianVictor/PORTOFOLIO#abstraction)
+   
         
         
  
