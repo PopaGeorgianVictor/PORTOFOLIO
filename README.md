@@ -310,7 +310,7 @@ If you consider that I am a candidate who meets the requirements for the positio
    
   
   [Classes/Objects](https://github.com/PopaGeorgianVictor/PORTOFOLIO#classesobjects)
-   * [Basics](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basics-4)
+   * [Basics](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basics-5)
    * [Creating](https://github.com/PopaGeorgianVictor/PORTOFOLIO#creating)
    * [Calling](https://github.com/PopaGeorgianVictor/PORTOFOLIO#calling)
    * [Arguments/Parameters](https://github.com/PopaGeorgianVictor/PORTOFOLIO#argumentsparameters)
@@ -1429,7 +1429,7 @@ If you consider that I am a candidate who meets the requirements for the positio
   * ### a class is a blueprint(sketch) for the object
   * ### an object (instance) is an instantiation of a class(when class is defined, only the description for the object is defined. Therefore, no memory or storage is allocated)
   * ### an object has two characteristics : attributes(for examples name,age,color) and methods(for examples singing, dancing)
-  
+  * ### the central pillar of OOPs - data Abstraction, Encapsulation, Inheritance, and Polymorphism
   
   
   ## Create a Class
