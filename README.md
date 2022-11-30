@@ -1644,17 +1644,56 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/cJfcbMyZ/Screenshot-11.png">
  </picture>
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
- </picture>
+ # SELENIUM
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/26hNCd22/Screenshot-12.png">
  </picture>
  
+ # Locating Elements
+ 
+ 
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/2SDsxBjZ/Screenshot-1.png">
  </picture>
+ 
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/YShjtVck/Screenshot-2.png">
+ </picture>
+ 
+
+ ### ID locator
+ 
+* the most popular way to identify web element is to use ID. ID’s are considered as the safest and fastest locator option and should always be the first priority among the multiple locators
+ 
+ 
+ ### Name locator
+ 
+ * this is also an effective way to locate an element which has a name attribute. With this strategy, the first element with the value of the name attribute will be returned. If no element has a matching name attribute, then a  NoSuchElementException will be raised
+ 
+ 
+ ### LinkText & ParialLinkText
+ 
+ * you can identify the hyperlinks on a web page using this linkText. It can be determined with the help of an anchor tag (<a>). In order to create the hyperlinks on a web page, you can use the anchor tags followed by the link text. In some cases, you may need to find links by a portion of the text in a linkText element. In such situations, you can use Partial Link Text to locate elements
+ 
+ 
+ ### CSS Selectors
+ 
+ * CSS is mainly used to provide style rules for the web pages and you can use it for identifying one or more elements in the web page. The CSS selector is always the best possible way to locate complex elements in the page. We’ll talk more about CSS selectors in the next topic
+ 
+ 
+### XPath
+ 
+* XPath is a language to query XML documents. XPath is an important strategy to locate elements in selenium. It also consists of a path expression along with some conditions. Here, you can easily write an XPath script/query to locate any element in the webpage
+ 
+ ### To find an element:
+ 
+ * find_element
+ 
+ ### To find multiple elements (these methods will return a list):
+ 
+ * find_elements
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="">
