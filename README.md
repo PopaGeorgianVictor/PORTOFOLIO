@@ -208,8 +208,7 @@ If you consider that I am a candidate who meets the requirements for the positio
 
  # CONTENT
  
- [CHECK IT OUT](https://github.com/PopaGeorgianVictor/PORTOFOLIO#check-it-out)
- 
+ [CHECK IT OUT](https://github.com/PopaGeorgianVictor/PORTOFOLIO#check-it-out-1)
  
  [PYTHON](https://github.com/PopaGeorgianVictor/PORTOFOLIO#python)
  
