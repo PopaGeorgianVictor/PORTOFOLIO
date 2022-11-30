@@ -214,10 +214,6 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  [SELENIUM](https://github.com/PopaGeorgianVictor/PORTOFOLIO#selenium)
  
- 
- 
- 
- 
  [Variables. Data Types](https://github.com/PopaGeorgianVictor/PORTOFOLIO#variables-data-types)
    * [Basic rules for naming variables](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basic-rules-for-naming-variables)
    * [Type() Function](https://github.com/PopaGeorgianVictor/PORTOFOLIO#type-function)
@@ -333,7 +329,12 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [Abstraction](https://github.com/PopaGeorgianVictor/PORTOFOLIO#abstraction)
    
         
-        
+  [Locating Elements](https://github.com/PopaGeorgianVictor/PORTOFOLIO#locating-elements)
+   * [Inheritance](https://github.com/PopaGeorgianVictor/PORTOFOLIO#inheritance)
+   * [Polymorphism](https://github.com/PopaGeorgianVictor/PORTOFOLIO#polymorphism)
+   * [Encapsulation](https://github.com/PopaGeorgianVictor/PORTOFOLIO#encapsulation)
+   * [Abstraction](https://github.com/PopaGeorgianVictor/PORTOFOLIO#abstraction)
+    
  
  
   
