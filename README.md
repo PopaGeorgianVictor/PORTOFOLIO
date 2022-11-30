@@ -311,14 +311,18 @@ If you consider that I am a candidate who meets the requirements for the positio
   
   [Classes/Objects](https://github.com/PopaGeorgianVictor/PORTOFOLIO#classesobjects)
    * [Basics](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basics-5)
-   * [Creating](https://github.com/PopaGeorgianVictor/PORTOFOLIO#creating)
-   * [Calling](https://github.com/PopaGeorgianVictor/PORTOFOLIO#calling)
-   * [Arguments/Parameters](https://github.com/PopaGeorgianVictor/PORTOFOLIO#argumentsparameters)
-   * [Return](https://github.com/PopaGeorgianVictor/PORTOFOLIO#return)
-   * [The pass Statement](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-pass-statement)
+   * [Create a Class](https://github.com/PopaGeorgianVictor/PORTOFOLIO#create-a-class)
+   * [Create Object](https://github.com/PopaGeorgianVictor/PORTOFOLIO#create-object)
+   * [The init() Function](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-init-function)
+   * [The str() Function](https://github.com/PopaGeorgianVictor/PORTOFOLIO#object-methods)
+   * [Object Methods](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-pass-statement)
+   * [The self Parameter](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-self-parameter)
+   * [Modify Object Properties](https://github.com/PopaGeorgianVictor/PORTOFOLIO#modify-object-properties)
  
-   
-  
+  [The Four Pillars](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-four-pillars)
+   * [Inheritance](https://github.com/PopaGeorgianVictor/PORTOFOLIO#inheritance)
+   * [Object Methods](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-pass-statement)
+   * [Object Methods](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-pass-statement)
         
         
  
