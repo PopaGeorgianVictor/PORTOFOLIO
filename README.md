@@ -1514,7 +1514,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/PxPRtqc5/Screenshot-1.png">
  </picture>
  
- #### Create a Child Class
+ ### Create a Child Class
  
  * to create a class that inherits the functionality from another class, send the parent class as a parameter when creating the child class
  
@@ -1522,7 +1522,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nzq20Q9g/Screenshot-2.png">
  </picture>
  
- #### Add the __init__() Function
+ ### Add the __init__() Function
  
  * so far we have created a child class that inherits the properties and methods from its parent
  * we want to add the __init__() function to the child class (instead of the pass keyword)
@@ -1537,13 +1537,13 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/sgtYB9TS/Screenshot-4.png">
  </picture>
  
- #### Add properties
+ ### Add properties
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NfnJ4XNG/Screenshot-5.png">
  </picture>
  
- #### Add methods
+ ### Add methods
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/WzT6NG2V/Screenshot-6.png">
@@ -1551,7 +1551,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  * #### if we add a method in the child class with the same name as a function in the parent class, the inheritance of the parent method will be overridden
  
- #### Types of Inheritance
+ ### Types of Inheritance
  
   * #### Single Inheritance : enables a derived class to inherit characteristics from a single-parent class
   * #### Multilevel Inheritance : enables a derived class to inherit properties from an immediate parent class which in turn inherits properties from his parent class
@@ -1573,7 +1573,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  * #### defines methods in the child class that have the same name as the methods in the parent class
  * #### it means that the same function name can be used for different types
  
- #### With Function and Objects
+ ### With Function and Objects
  
  * we can create a function that can take any object, allowing for polymorphism
  
@@ -1582,7 +1582,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/5t6Y5MdY/Screenshot-1.png">
  </picture>
  
- #### With Class Methods
+ ### With Class Methods
  
  * we have to create a for loop that iterates through a tuple of objects
  * next, you have to call the methods without being concerned about which class type each object is. We assume that these methods actually exist in each class
@@ -1591,7 +1591,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/65hfYRqk/Screenshot-2.png">
  </picture>
  
- #### With Inheritance
+ ### With Inheritance
  
  * in inheritance, the child class inherits the methods from the parent class. Also, it is possible to modify a method in a child class that it has inherited from the parent class
  * this is mostly used in cases where the method inherited from the parent class doesn’t fit the child class. This process of re-implementing a method in the child class is known as Method Overriding
@@ -1604,11 +1604,70 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nVTSd6XV/Screenshot-4.png">
  </picture>
  
+ ## Encapsulation
+ 
+ * it describes the idea of wrapping data and the methods that work on data within one unit
+ * this puts restrictions on accessing variables and methods directly and can prevent the accidental modification of data
+ * prevent accidental change, an object’s variable can only be changed by an object’s method
+ * the access modifiers : public(is accessible from inside or outside the class), private(is accessible only inside class, prefixing the member name with two underscores), protected(is accessible from inside the class and its sub-class, prefixing the member name with an underscore)
+ 
   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/qM7pL1Vf/Screenshot-8.png">
  </picture>
  
   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/SswNYq5y/Screenshot-6.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/2S8T3BZ7/Screenshot-9.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+   <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
