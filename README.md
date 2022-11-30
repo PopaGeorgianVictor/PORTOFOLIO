@@ -1569,9 +1569,9 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Polymorphism
  
- * #### means having many forms
- * #### defines methods in the child class that have the same name as the methods in the parent class
- * #### it means that the same function name can be used for different types
+ * means having many forms
+ * defines methods in the child class that have the same name as the methods in the parent class
+ * it means that the same function name can be used for different types
  
  ### With Function and Objects
  
@@ -1623,12 +1623,19 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/2S8T3BZ7/Screenshot-9.png">
  </picture>
  
+  ## Abstraction
+ 
+ * is used to hide the irrelevant data/class in order to reduce the complexity
+ * is essential to hide the core functionality from the users
+ * an Abstract class can contain the both method normal and abstract method
+ * an Abstract cannot be instantiated; we cannot create objects for the abstract class
+ 
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/15zJ3q6c/Screenshot-10.png">
  </picture>
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/cJfcbMyZ/Screenshot-11.png">
  </picture>
  
    <picture>
