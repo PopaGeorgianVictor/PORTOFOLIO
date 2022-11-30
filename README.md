@@ -314,7 +314,7 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [Create a Class](https://github.com/PopaGeorgianVictor/PORTOFOLIO#create-a-class)
    * [Create Object](https://github.com/PopaGeorgianVictor/PORTOFOLIO#create-object)
    * [The init() Function](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-init-function)
-   * [The str() Function](https://github.com/PopaGeorgianVictor/PORTOFOLIO#object-methods)
+   * [The str() Function](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-str-function)
    * [Object Methods](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-pass-statement)
    * [The self Parameter](https://github.com/PopaGeorgianVictor/PORTOFOLIO#the-self-parameter)
    * [Modify Object Properties](https://github.com/PopaGeorgianVictor/PORTOFOLIO#modify-object-properties)
