@@ -1551,12 +1551,20 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  * #### if we add a method in the child class with the same name as a function in the parent class, the inheritance of the parent method will be overridden
  
+ #### Types of Inheritance
+ 
+  * #### Single Inheritance : enables a derived class to inherit characteristics from a single-parent class
+  * #### Multilevel Inheritance : enables a derived class to inherit properties from an immediate parent class which in turn inherits properties from his parent class
+  * #### Hierarchical Inheritance  : enables more than one derived class to inherit properties from a parent class
+  * #### Multiple Inheritance : enables one derived class to inherit properties from more than one base class
+ 
+ 
   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Gh6b8qyb/Screenshot-1.png">
  </picture>
  
   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Z5Z4x0VQ/Screenshot-2.png">
  </picture>
  
   <picture>
