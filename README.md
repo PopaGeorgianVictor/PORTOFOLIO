@@ -344,6 +344,8 @@ If you consider that I am a candidate who meets the requirements for the positio
  * ### develop framework for automated testing
  * ### working with PyCharm IDE
  
+ # PYTHON
+ 
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/s2z3dhx6/Screenshot-1.png">
  </picture>
