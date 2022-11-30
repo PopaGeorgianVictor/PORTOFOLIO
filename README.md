@@ -1567,20 +1567,41 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Z5Z4x0VQ/Screenshot-2.png">
  </picture>
  
+ ## Polymorphism
+ 
+ * #### means having many forms
+ * #### defines methods in the child class that have the same name as the methods in the parent class
+ * #### it means that the same function name can be used for different types
+ 
+ #### With Function and Objects
+ 
+ * we can create a function that can take any object, allowing for polymorphism
+ 
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/5t6Y5MdY/Screenshot-1.png">
+ </picture>
+ 
+ #### With Class Methods
+ 
+ * we have to create a for loop that iterates through a tuple of objects
+ * next, you have to call the methods without being concerned about which class type each object is. We assume that these methods actually exist in each class
+ 
   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/65hfYRqk/Screenshot-2.png">
+ </picture>
+ 
+ #### With Inheritance
+ 
+ * in inheritance, the child class inherits the methods from the parent class. Also, it is possible to modify a method in a child class that it has inherited from the parent class
+ * this is mostly used in cases where the method inherited from the parent class doesn’t fit the child class. This process of re-implementing a method in the child class is known as Method Overriding
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/sgnVsnH3/Screenshot-3.png">
  </picture>
  
   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nVTSd6XV/Screenshot-4.png">
  </picture>
  
   <picture>
