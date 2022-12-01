@@ -1699,27 +1699,31 @@ If you consider that I am a candidate who meets the requirements for the positio
  
   
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Wpdq5Tg7/Screenshot-3.png">
  </picture>
  
   
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
- </picture>
- 
-  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
- </picture>
+
  
  ### Name locator
  
  * this is also an effective way to locate an element which has a name attribute. With this strategy, the first element with the value of the name attribute will be returned. If no element has a matching name attribute, then a  NoSuchElementException will be raised
  
+    <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/634hCRhk/Screenshot-1.png">
+ </picture>
+ 
+  
+
  
  ### LinkText & ParialLinkText
  
  * you can identify the hyperlinks on a web page using this linkText. It can be determined with the help of an anchor tag (<a>). In order to create the hyperlinks on a web page, you can use the anchor tags followed by the link text. In some cases, you may need to find links by a portion of the text in a linkText element. In such situations, you can use Partial Link Text to locate elements
+ 
+    <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/GhmRFJN8/Screenshot-2.png">
+ </picture>
+ 
  
  
  ### CSS Selectors
