@@ -1668,11 +1668,32 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/YShjtVck/Screenshot-2.png">
  </picture>
  
-
+ ### To find an element:
+ 
+ * find_element
+ 
+ ### To find multiple elements (these methods will return a list):
+ 
+ * find_elements
+ 
  ### ID locator
  
 * the most popular way to identify web element is to use ID. ID’s are considered as the safest and fastest locator option and should always be the first priority among the multiple locators
  
+  
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+  
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
+ 
+  
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="">
+ </picture>
  
  ### Name locator
  
@@ -1693,13 +1714,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
 * XPath is a language to query XML documents. XPath is an important strategy to locate elements in selenium. It also consists of a path expression along with some conditions. Here, you can easily write an XPath script/query to locate any element in the webpage
  
- ### To find an element:
- 
- * find_element
- 
- ### To find multiple elements (these methods will return a list):
- 
- * find_elements
+
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="">
