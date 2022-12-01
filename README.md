@@ -335,7 +335,6 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [Abstraction](https://github.com/PopaGeorgianVictor/PORTOFOLIO#abstraction)
    
  
-  [SELENIUM](https://github.com/PopaGeorgianVictor/PORTOFOLIO#selenium)
  
   [Navigating](https://github.com/PopaGeorgianVictor/PORTOFOLIO#navigating)
  
