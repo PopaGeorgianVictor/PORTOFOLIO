@@ -1713,8 +1713,6 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/634hCRhk/Screenshot-1.png">
  </picture>
  
-  
-
  
  ### LinkText & ParialLinkText
  
@@ -1724,8 +1722,24 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/GhmRFJN8/Screenshot-2.png">
  </picture>
  
+ ### Tag Name
  
+ * use this when you want to locate an element by tag name. With this strategy, the first element with the given tag name will be returned. If no element has a matching tag name, a NoSuchElementException will be raised
  
+    <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/QCphS1WB/Screenshot-3.png">
+ </picture>
+ 
+ ### Class Name
+ 
+ * use this when you want to locate an element by class name. With this strategy, the first element with the matching class name attribute will be returned. If no element has a matching class name attribute, a NoSuchElementException will be raised
+ 
+  
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vmFr1dtG/Screenshot-4.png">
+ </picture>
+ 
+
  ### CSS Selectors
  
  * CSS is mainly used to provide style rules for the web pages and you can use it for identifying one or more elements in the web page. The CSS selector is always the best possible way to locate complex elements in the page. We’ll talk more about CSS selectors in the next topic
