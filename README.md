@@ -1758,16 +1758,23 @@ If you consider that I am a candidate who meets the requirements for the positio
  
 ### XPath
  
-* XPath is the language used for locating nodes in an XML document. As HTML can be an implementation of XML (XHTML), Selenium users can leverage this powerful language to target elements in their web applications. XPath supports the simple methods of locating by id or name attributes and extends them by opening up all sorts of new possibilities such as locating the third checkbox on the page.
+* XPath is the language used for locating nodes in an XML document. As HTML can be an implementation of XML (XHTML), Selenium users can leverage this powerful language to target elements in their web applications. XPath supports the simple methods of locating by id or name attributes and extends them by opening up all sorts of new possibilities such as locating the third checkbox on the page
 
-* one of the main reasons for using XPath is when you don’t have a suitable id or name attribute for the element you wish to locate. You can use XPath to either locate the element in absolute terms (not advised), or relative to an element that does have an id or name attribute. XPath locators can also be used to specify elements via attributes other than id and name.
+* one of the main reasons for using XPath is when you don’t have a suitable id or name attribute for the element you wish to locate. You can use XPath to either locate the element in absolute terms (not advised), or relative to an element that does have an id or name attribute. XPath locators can also be used to specify elements via attributes other than id and name
 
-* absolute XPaths contain the location of all elements from the root (html) and as a result are likely to fail with only the slightest adjustment to the application. By finding a nearby element with an id or name attribute (ideally a parent element) you can locate your target element based on the relationship. This is much less likely to change and can make your tests more robust.
+* absolute XPaths contain the location of all elements from the root (html) and as a result are likely to fail with only the slightest adjustment to the application. By finding a nearby element with an id or name attribute (ideally a parent element) you can locate your target element based on the relationship. This is much less likely to change and can make your tests more robust
 
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NjVm63hP/Screenshot-6.png">
  </picture>
+ 
+ ## Interacting with Webpage
+ 
+ * performing click event : the click() method is used to perform click operation on any web element
+ * sending inputs : the send.keys('text') method is used to  enter text into a field
+ * clearing inputs : the clear() method is used to clear the inputs from the text box
+ * navigating backward in browser history :  
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="">
