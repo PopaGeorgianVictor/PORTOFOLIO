@@ -376,7 +376,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  # Variables. Data Types 
  
  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/28KSLy6T/Screenshot-1.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/yNydXyPt/Screenshot-7.png">
  </picture>
  
  * python variables are the containers that we store data values in them
