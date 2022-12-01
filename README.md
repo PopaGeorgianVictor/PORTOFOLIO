@@ -1658,6 +1658,17 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/26hNCd22/Screenshot-12.png">
  </picture>
  
+ # Navigating 
+ 
+ The first thing we’ll want to do with WebDriver is navigate to a link. The normal way to do this is by calling get method:
+ 
+ * #### driver.get("url")
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Cx1CxPFJ/Screenshot-2.png">
+ </picture>
+ 
+ 
  # Locating Elements
  
  
