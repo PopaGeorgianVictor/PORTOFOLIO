@@ -336,10 +336,11 @@ If you consider that I am a candidate who meets the requirements for the positio
    
         
   [Locating Elements](https://github.com/PopaGeorgianVictor/PORTOFOLIO#locating-elements)
-   * [ID locator](https://github.com/PopaGeorgianVictor/PORTOFOLIO#id-locator)
-   * [Name locator](https://github.com/PopaGeorgianVictor/PORTOFOLIO#name-locator)
-   * [XPath](https://github.com/PopaGeorgianVictor/PORTOFOLIO#xpath)
+   * [ID](https://github.com/PopaGeorgianVictor/PORTOFOLIO#id)
+   * [Name](https://github.com/PopaGeorgianVictor/PORTOFOLIO#name)
    * [LinkText & ParialLinkText](https://github.com/PopaGeorgianVictor/PORTOFOLIO#linktext--pariallinktext)
+   * [Tag Name](https://github.com/PopaGeorgianVictor/PORTOFOLIO#tag-name)
+   * [Class Name](https://github.com/PopaGeorgianVictor/PORTOFOLIO#class-name)
    * [CSS Selectors](https://github.com/PopaGeorgianVictor/PORTOFOLIO#css-selectors)
    * [XPath](https://github.com/PopaGeorgianVictor/PORTOFOLIO#xpath)
  
