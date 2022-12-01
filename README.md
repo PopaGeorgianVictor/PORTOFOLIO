@@ -208,7 +208,7 @@ If you consider that I am a candidate who meets the requirements for the positio
 
  # CONTENT
  
- [CHECK IT OUT](https://github.com/PopaGeorgianVictor/PORTOFOLIO#check-it-out-1)
+ [CHECK IT OUT](https://github.com/PopaGeorgianVictor/HOMEWORK)
  
  [TEST SITE](https://popageorgianvictor.github.io/MyTestSite/)
  
