@@ -334,7 +334,11 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [Encapsulation](https://github.com/PopaGeorgianVictor/PORTOFOLIO#encapsulation)
    * [Abstraction](https://github.com/PopaGeorgianVictor/PORTOFOLIO#abstraction)
    
-        
+ 
+  [SELENIUM](https://github.com/PopaGeorgianVictor/PORTOFOLIO#selenium)
+ 
+  [Navigating](https://github.com/PopaGeorgianVictor/PORTOFOLIO#navigating)
+ 
   [Locating Elements](https://github.com/PopaGeorgianVictor/PORTOFOLIO#locating-elements)
    * [ID](https://github.com/PopaGeorgianVictor/PORTOFOLIO#id)
    * [Name](https://github.com/PopaGeorgianVictor/PORTOFOLIO#name)
