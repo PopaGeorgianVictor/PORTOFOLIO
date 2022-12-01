@@ -338,6 +338,7 @@ If you consider that I am a candidate who meets the requirements for the positio
   [Locating Elements](https://github.com/PopaGeorgianVictor/PORTOFOLIO#locating-elements)
    * [ID locator](https://github.com/PopaGeorgianVictor/PORTOFOLIO#id-locator)
    * [Name locator](https://github.com/PopaGeorgianVictor/PORTOFOLIO#name-locator)
+   * [XPath](https://github.com/PopaGeorgianVictor/PORTOFOLIO#xpath)
    * [LinkText & ParialLinkText](https://github.com/PopaGeorgianVictor/PORTOFOLIO#linktext--pariallinktext)
    * [CSS Selectors](https://github.com/PopaGeorgianVictor/PORTOFOLIO#css-selectors)
    * [XPath](https://github.com/PopaGeorgianVictor/PORTOFOLIO#xpath)
@@ -1693,7 +1694,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  * find_elements
  
- ### ID locator
+ ### ID
  
 * the most popular way to identify web element is to use ID. ID’s are considered as the safest and fastest locator option and should always be the first priority among the multiple locators
  
@@ -1705,7 +1706,7 @@ If you consider that I am a candidate who meets the requirements for the positio
   
 
  
- ### Name locator
+ ### Name 
  
  * this is also an effective way to locate an element which has a name attribute. With this strategy, the first element with the value of the name attribute will be returned. If no element has a matching name attribute, then a  NoSuchElementException will be raised
  
