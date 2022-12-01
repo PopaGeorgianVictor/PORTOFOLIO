@@ -1742,17 +1742,23 @@ If you consider that I am a candidate who meets the requirements for the positio
 
  ### CSS Selectors
  
- * CSS is mainly used to provide style rules for the web pages and you can use it for identifying one or more elements in the web page. The CSS selector is always the best possible way to locate complex elements in the page. We’ll talk more about CSS selectors in the next topic
+ * CSS is mainly used to provide style rules for the web pages and you can use it for identifying one or more elements in the web page. The CSS selector is always the best possible way to locate complex elements in the page. With this strategy, the first element matching the given CSS selector will be returned. If no element matches the provided CSS selector, a NoSuchElementException will be raised
  
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Nj4J4fGf/Screenshot-5.png">
+ </picture>
  
 ### XPath
  
-* XPath is a language to query XML documents. XPath is an important strategy to locate elements in selenium. It also consists of a path expression along with some conditions. Here, you can easily write an XPath script/query to locate any element in the webpage
- 
+* XPath is the language used for locating nodes in an XML document. As HTML can be an implementation of XML (XHTML), Selenium users can leverage this powerful language to target elements in their web applications. XPath supports the simple methods of locating by id or name attributes and extends them by opening up all sorts of new possibilities such as locating the third checkbox on the page.
+
+* one of the main reasons for using XPath is when you don’t have a suitable id or name attribute for the element you wish to locate. You can use XPath to either locate the element in absolute terms (not advised), or relative to an element that does have an id or name attribute. XPath locators can also be used to specify elements via attributes other than id and name.
+
+* absolute XPaths contain the location of all elements from the root (html) and as a result are likely to fail with only the slightest adjustment to the application. By finding a nearby element with an id or name attribute (ideally a parent element) you can locate your target element based on the relationship. This is much less likely to change and can make your tests more robust.
 
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NjVm63hP/Screenshot-6.png">
  </picture>
  
    <picture>
