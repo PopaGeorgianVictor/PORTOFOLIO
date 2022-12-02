@@ -350,6 +350,15 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [CSS Selectors](https://github.com/PopaGeorgianVictor/PORTOFOLIO#css-selectors)
    * [XPath](https://github.com/PopaGeorgianVictor/PORTOFOLIO#xpath)
  
+   [Interacting with Webpage](https://github.com/PopaGeorgianVictor/PORTOFOLIO#interacting-with-webpage)
+   * [Performing click event](https://github.com/PopaGeorgianVictor/PORTOFOLIO#performing-click-event-)
+   * [Sending inputs](https://github.com/PopaGeorgianVictor/PORTOFOLIO#sending-inputs-)
+   * [Clearing inputs](https://github.com/PopaGeorgianVictor/PORTOFOLIO#clearing-inputs-)
+   * [Navigating backward/forward in browser history](https://github.com/PopaGeorgianVictor/PORTOFOLIO#navigating-backwardforward-in-browser-history-)
+   * [Refresh/reload a web page](https://github.com/PopaGeorgianVictor/PORTOFOLIO#refreshreload-a-web-page-)
+   * [Closing browser](https://github.com/PopaGeorgianVictor/PORTOFOLIO#closing-browser-)
+   * [Maximize web window](https://github.com/PopaGeorgianVictor/PORTOFOLIO#maximize-web-window-)
+ 
  
   
  # CHECK IT OUT
