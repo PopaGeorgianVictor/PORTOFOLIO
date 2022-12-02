@@ -1771,54 +1771,55 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Interacting with Webpage
  
- #### Performing click event : 
+ ### Performing click event : 
  * the click() method is used to perform click operation on any web element
+ 
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NMCxZc5Z/Screenshot-1.png">
+ </picture>
+ 
    
- #### Sending inputs : 
+ ### Sending inputs : 
  * the send.keys('text') method is used to  enter text into a field
  
- #### Clearing inputs : 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/LsNkZpBh/Screenshot-2.png">
+ </picture>
+ 
+ ### Clearing inputs : 
  * the clear() method is used to clear the inputs from the text box
  
- #### Navigating backward in browser history : 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/rFxPRDdm/Screenshot-3.png">
+ </picture>
+ 
+ ### Navigating backward/forward in browser history : 
  * the back() method is used to return to previous page 
+ * the forward() method is used to go to the next page
  
- #### Navigating forward in browser history : 
- * the forward() method is used to go to the next page 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/j2ZCMx2J/Screenshot-4.png">
+ </picture>
  
- #### Refresh/reload a web page : 
+ 
+ ### Refresh/reload a web page : 
  * the refresh() method is used to reload page
  
- #### Closing browser : 
+ ### Closing browser : 
  * the close() method is used to close current tab and quit() is used to close all tabs
  
- #### Maximize web window maximize web window
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/HLgH7GsG/Screenshot-5.png">
+ </picture>
+ 
+ 
+ ### Maximize web window :
  * the maximize_window() method is used to
- 
- 
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zBvQypWZ/Screenshot-6.png">
  </picture>
  
  
