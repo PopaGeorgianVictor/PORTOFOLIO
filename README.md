@@ -1792,6 +1792,11 @@ If you consider that I am a candidate who meets the requirements for the positio
  #### Closing browser : 
  * the close() method is used to close current tab and quit() is used to close all tabs
  
+ #### Maximize web window maximize web window
+ * the maximize_window() method is used to
+ 
+ 
+ 
    <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
