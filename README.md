@@ -359,7 +359,9 @@ If you consider that I am a candidate who meets the requirements for the positio
    * [Closing browser](https://github.com/PopaGeorgianVictor/PORTOFOLIO#closing-browser-)
    * [Maximize web window](https://github.com/PopaGeorgianVictor/PORTOFOLIO#maximize-web-window-)
  
- 
+   [Waits](https://github.com/PopaGeorgianVictor/PORTOFOLIO#waits)
+   * [Implicit Waits](https://github.com/PopaGeorgianVictor/PORTOFOLIO#implicit-waits)
+   * [Explicit Waits](https://github.com/PopaGeorgianVictor/PORTOFOLIO#explicit-waits)
   
  # CHECK IT OUT
  
