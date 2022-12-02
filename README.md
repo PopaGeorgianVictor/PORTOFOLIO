@@ -30,7 +30,11 @@ If you consider that I am a candidate who meets the requirements for the positio
 
 
 <details>
-<summary>CV</summary>
+<summary>Linkedin Profile</summary>
+ 
+[CHECK IT OUT](https://www.linkedin.com/in/popa-georgian-victor-013775222/)
+ 
+ 
 </details>
 
 
