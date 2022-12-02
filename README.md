@@ -1771,13 +1771,26 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  ## Interacting with Webpage
  
- * performing click event : the click() method is used to perform click operation on any web element
- * sending inputs : the send.keys('text') method is used to  enter text into a field
- * clearing inputs : the clear() method is used to clear the inputs from the text box
- * navigating backward in browser history : the back() method is used to return to previous page 
- * navigating forward in browser history : the forward() method is used to go to the next page 
- * refresh/reload a web page : the refresh() method is used to reload page
- * closing browser : the close() method is used to close current tab and quit() is used to close all tabs
+ #### Performing click event : 
+ * the click() method is used to perform click operation on any web element
+   
+ #### Sending inputs : 
+ * the send.keys('text') method is used to  enter text into a field
+ 
+ #### Clearing inputs : 
+ * the clear() method is used to clear the inputs from the text box
+ 
+ #### Navigating backward in browser history : 
+ * the back() method is used to return to previous page 
+ 
+ #### Navigating forward in browser history : 
+ * the forward() method is used to go to the next page 
+ 
+ #### Refresh/reload a web page : 
+ * the refresh() method is used to reload page
+ 
+ #### Closing browser : 
+ * the close() method is used to close current tab and quit() is used to close all tabs
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="">
