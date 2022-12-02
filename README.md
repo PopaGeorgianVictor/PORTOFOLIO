@@ -1835,7 +1835,11 @@ If you consider that I am a candidate who meets the requirements for the positio
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zBvQypWZ/Screenshot-6.png">
  </picture>
  
+ # Waits 
  
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/hPmW99PW/Screenshot-2.png">
+ </picture>
  
 </details>
 
