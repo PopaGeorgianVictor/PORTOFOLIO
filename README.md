@@ -1838,7 +1838,7 @@ If you consider that I am a candidate who meets the requirements for the positio
  # Waits 
  
   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/hjhxw4fx/Screenshot-3.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/VkVf5wYs/Screenshot-4.png">
  </picture>
  
    <picture>
