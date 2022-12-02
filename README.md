@@ -1837,17 +1837,35 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  # Waits 
  
+ * most of the web apps are using AJAX techniques. When a page is loaded by the browser, the elements within that page may load at different time intervals. This makes locating elements difficult: if an element is not yet present in the DOM, a locate function will raise an ElementNotVisibleException exception. Using waits, we can solve this issue. Waiting provides some slack between actions performed - mostly locating an element or any other operation with the element
+ * selenium Webdriver provides two types of waits - implicit & explicit. An explicit wait makes WebDriver wait for a certain condition to occur before proceeding further with execution. An implicit wait makes WebDriver poll the DOM for a certain amount of time when trying to locate an element.
+ 
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/VkVf5wYs/Screenshot-4.png">
  </picture>
+ 
+ ## Implicit Waits
+ 
+ * an implicit wait tells WebDriver to poll the DOM(Document Object Model) for a certain amount of time when trying to find any element (or elements) not immediately available. The default setting is 0. Once set, the implicit wait is set for the life of the WebDriver object
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/bJSbJP41/Screenshot-5.png">
+ </picture>
+ 
+ ## Explicit Waits
+ 
+ * an explicit wait is a code you define to wait for a certain condition to occur before proceeding further in the code. The extreme case of this is time.sleep(), which sets the condition to an exact time period to wait. There are some convenience methods provided that help you write code that will wait only as long as required. WebDriverWait in combination with ExpectedCondition is one way this can be accomplished
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="">
  </picture>
  
+ 
+ 
+ 
+ 
+ 
 </details>
-
-
 
 
 <details>
