@@ -1815,6 +1815,10 @@ If you consider that I am a candidate who meets the requirements for the positio
  ### Refresh/reload a web page : 
  * the refresh() method is used to reload page
  
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/B61y30zL/Screenshot-1.png">
+ </picture>
+ 
  ### Closing browser : 
  * the close() method is used to close current tab and quit() is used to close all tabs
  
