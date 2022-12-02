@@ -1856,13 +1856,24 @@ If you consider that I am a candidate who meets the requirements for the positio
  
  * an explicit wait is a code you define to wait for a certain condition to occur before proceeding further in the code. The extreme case of this is time.sleep(), which sets the condition to an exact time period to wait. There are some convenience methods provided that help you write code that will wait only as long as required. WebDriverWait in combination with ExpectedCondition is one way this can be accomplished
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="">
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/2jFFMQNY/Screenshot-1.png">
  </picture>
  
+ #### This waits up to 10 seconds before throwing a TimeoutException unless it finds the element to return within 10 seconds. WebDriverWait by default calls the ExpectedCondition every 500 milliseconds until it returns successfully.
  
- 
- 
+#### Some of expected condition
+
+*  title_is
+*  title_contains
+*  presence_of_element_located
+*  visibility_of_element_located
+*  visibility_of
+*  presence_of_all_elements_located
+*  element_located_to_be_selected
+*  element_selection_state_to_be
+*  element_located_selection_state_to_be
+*  alert_is_present
  
  
 </details>
