@@ -1881,8 +1881,26 @@ If you consider that I am a candidate who meets the requirements for the positio
 *  element_located_selection_state_to_be
 *  alert_is_present
  
+ # Handling Complex Element
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/3xd51wMm/Screenshot-1.png">
+ </picture>
+ 
+ ## Checkboxes
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/mr5tQsjr/Screenshot-1.png">
+ </picture>
+ 
+ 
+ 
+ 
+ 
+ 
  
 </details>
+
 
 
 <details>
