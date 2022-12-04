@@ -365,6 +365,12 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
    [Waits](https://github.com/PopaGeorgianVictor/PORTOFOLIO#waits)
    * [Implicit Waits](https://github.com/PopaGeorgianVictor/PORTOFOLIO#implicit-waits)
    * [Explicit Waits](https://github.com/PopaGeorgianVictor/PORTOFOLIO#explicit-waits)
+ 
+  
+   [Handling Complex Element](https://github.com/PopaGeorgianVictor/PORTOFOLIO#handling-complex-element)
+   * [Radio Button](https://github.com/PopaGeorgianVictor/PORTOFOLIO#radio-button)
+   * [Checkboxes](https://github.com/PopaGeorgianVictor/PORTOFOLIO#checkboxes)
+   * [Dropdown](https://github.com/PopaGeorgianVictor/PORTOFOLIO#dropdown)
   
  # CHECK IT OUT
  
