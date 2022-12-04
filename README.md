@@ -1920,9 +1920,6 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
 *  element_located_selection_state_to_be
 *  alert_is_present
  
-
- 
- 
  
  # Handling Complex Element
  
@@ -1956,10 +1953,17 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Zq5hy33S/Screenshot-2.png">
  </picture>
  
+
+
+## Windows & Tabs
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/gjLYDyQf/Screenshot-1.png">
+ </picture>
+ 
+ 
 </details>
-
-
-
+ 
 <details>
 <summary>Courses</summary>
 
