@@ -1818,6 +1818,12 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
 
 * absolute XPaths contain the location of all elements from the root (html) and as a result are likely to fail with only the slightest adjustment to the application. By finding a nearby element with an id or name attribute (ideally a parent element) you can locate your target element based on the relationship. This is much less likely to change and can make your tests more robust
 
+ * // relative xpath
+ * / absolute xpath
+
+* //tag[@attribute='value']
+* //*[@attribute='value']
+ 
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NjVm63hP/Screenshot-6.png">
