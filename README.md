@@ -1968,6 +1968,27 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  </picture>
  
  
+ # Handling Complex User Gestures
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/7Yfxw58Q/Screenshot-2.png">
+ </picture>
+ 
+ 
+ ## Mouse Movement
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 </details>
  
 <details>
@@ -1977,6 +1998,5 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/ydb92Lqp/Screenshot-2.png">
  </picture>
  
-
 </details>
 
