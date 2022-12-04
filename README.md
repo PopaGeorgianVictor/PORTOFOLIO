@@ -1770,7 +1770,41 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
 
  ### CSS Selectors
  
- * CSS is mainly used to provide style rules for the web pages and you can use it for identifying one or more elements in the web page. The CSS selector is always the best possible way to locate complex elements in the page. With this strategy, the first element matching the given CSS selector will be returned. If no element matches the provided CSS selector, a NoSuchElementException will be raised
+ #### CSS is mainly used to provide style rules for the web pages and you can use it for identifying one or more elements in the web page. The CSS selector is always the best possible way to locate complex elements in the page. With this strategy, the first element matching the given CSS selector will be returned. If no element matches the provided CSS selector, a NoSuchElementException will be raised
+ 
+ * css selector best selector after ID
+ * fast for selenium next to ID
+ * easy to write
+ * better than xpath (even tho u hear the word so much more)
+ 
+ #### Simply use id or class as css locator
+ 
+ * '.' is for class
+ * '#' is for id
+ 
+ #### Example find the nav bar
+ 
+ * css using id = #site-navigation
+ * css using id = nav#site-navigation
+ * css using class = .main-navigation
+ * css using class = nav.main-navigation
+ 
+ #### CHILD ELEMENT 
+ 
+ * can chain css with '>' or ' ' (space) to find child elements.
+ * '>' for direct decendent
+ * '*' ' ' for any child/subchild
+ * next two should give same result
+ 
+ #### Multiple Classes 
+ 
+ * just connect all classes with '.'
+ 
+ #### Partialy matching attribute 
+ 
+ *  '*' contains word
+ *  ^ start with word
+ *  $ ends with word * 
  
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Nj4J4fGf/Screenshot-5.png">
@@ -1885,6 +1919,10 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
 *  element_selection_state_to_be
 *  element_located_selection_state_to_be
 *  alert_is_present
+ 
+
+ 
+ 
  
  # Handling Complex Element
  
