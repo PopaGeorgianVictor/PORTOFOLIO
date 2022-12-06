@@ -2017,6 +2017,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  </picture>
  
  
+ ## Sliders
  
  
  
