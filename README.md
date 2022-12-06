@@ -1982,8 +1982,12 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/VL8rpwq7/Screenshot-1.png">
  </picture>
  
-   <picture>
+  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/hPwdsYDs/Screenshot-2.png">
+ </picture>
+ 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/9F5NrLT4/Screenshot-3.png">
  </picture>
  
 
