@@ -371,6 +371,13 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
    * [Radio Button](https://github.com/PopaGeorgianVictor/PORTOFOLIO#radio-button)
    * [Checkboxes](https://github.com/PopaGeorgianVictor/PORTOFOLIO#checkboxes)
    * [Dropdown](https://github.com/PopaGeorgianVictor/PORTOFOLIO#dropdown)
+   * [Is Element Present ?](https://github.com/PopaGeorgianVictor/PORTOFOLIO#is-element-present-)
+   * [Windows & Tabs](https://github.com/PopaGeorgianVictor/PORTOFOLIO#windows--tabs)
+   * [iFrames](https://github.com/PopaGeorgianVictor/PORTOFOLIO#iframes)
+ 
+   [Handling Complex Element](https://github.com/PopaGeorgianVictor/PORTOFOLIO#handling-complex-element)
+   * [Mouse Movement](https://github.com/PopaGeorgianVictor/PORTOFOLIO#mouse-movement)
+
   
  # CHECK IT OUT
  
