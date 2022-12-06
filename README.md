@@ -2000,13 +2000,21 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  </picture>
  
  
- ## Mouse Movement
+ ## Mouse Over
  
  
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/B6YqH837/Screenshot-4.png">
+ </picture>
  
  
+ ## Right Click
  
  
+  
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/BvYk2dyC/Screenshot-1.png">
+ </picture>
  
  
  
