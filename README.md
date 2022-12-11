@@ -2017,10 +2017,16 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  </picture>
  
  
- ## Sliders
+ ## Alerts. Prompt. Confirm
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/pVSyjDT8/Screenshot-1.png">
+ </picture>
  
- 
- 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/RFFV6FxX/Screenshot-2.png">
+ </picture>
+
+
  
  
 </details>
