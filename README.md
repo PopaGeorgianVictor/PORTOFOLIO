@@ -221,7 +221,9 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  
  [SELENIUM](https://github.com/PopaGeorgianVictor/PORTOFOLIO#selenium)
  
- [WAY 2 AUTOMATION](https://github.com/PopaGeorgianVictor/WAY-2-AUTOMATION)
+ [WAY 2 AUTOMATION](https://github.com/PopaGeorgianVictor/SELENIUM-FRAMEWORK)
+ 
+ [SELENIUM FRAMEWORK](https://github.com/PopaGeorgianVictor/PORTOFOLIO#selenium)
  
 
  
@@ -377,8 +379,10 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
    * [Windows & Tabs](https://github.com/PopaGeorgianVictor/PORTOFOLIO#windows--tabs)
    * [iFrames](https://github.com/PopaGeorgianVictor/PORTOFOLIO#iframes)
  
-   [Handling Complex Element](https://github.com/PopaGeorgianVictor/PORTOFOLIO#handling-complex-element)
-   * [Mouse Movement](https://github.com/PopaGeorgianVictor/PORTOFOLIO#mouse-movement)
+   [Handling Complex User Gestures](https://github.com/PopaGeorgianVictor/PORTOFOLIO#handling-complex-user-gestures)
+   * [Mouse Over](https://github.com/PopaGeorgianVictor/PORTOFOLIO#mouse-over)
+   * [Right Click](https://github.com/PopaGeorgianVictor/PORTOFOLIO#right-click)
+   * [Alerts. Prompt. Confirm](https://github.com/PopaGeorgianVictor/PORTOFOLIO#alerts-prompt-confirm)
 
   
  # CHECK IT OUT
