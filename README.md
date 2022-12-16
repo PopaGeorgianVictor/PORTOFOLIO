@@ -211,7 +211,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
 
  # CONTENT
  
- [CHECK IT OUT](https://github.com/PopaGeorgianVictor/HOMEWORK)
+ [HOMEWORK](https://github.com/PopaGeorgianVictor/HOMEWORK)
  
  [PRESENTATION SITE](https://popageorgianvictor.github.io/PRESENTATION-SITE/)
  
