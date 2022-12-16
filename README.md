@@ -1995,6 +1995,15 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/9F5NrLT4/Screenshot-3.png">
  </picture>
  
+ 
+  ## Alerts. Prompt. Confirm
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/hvp7VSTT/Screenshot-4.png">
+ </picture>
+ 
+   <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/xCPkS0sh/Screenshot-5.png">
+ </picture>
 
  
  
@@ -2022,14 +2031,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  </picture>
  
  
- ## Alerts. Prompt. Confirm
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/hvp7VSTT/Screenshot-4.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/xCPkS0sh/Screenshot-5.png">
- </picture>
+
 
 
  
