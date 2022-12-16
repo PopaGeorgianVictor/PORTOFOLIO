@@ -1850,7 +1850,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NMCxZc5Z/Screenshot-1.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/RhQxdQ6c/Screenshot-1.png">
  </picture>
  
    
@@ -1858,14 +1858,14 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  * the send.keys('text') method is used to  enter text into a field
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/LsNkZpBh/Screenshot-2.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/YqZz8K7z/Screenshot-2.png">
  </picture>
  
  ### Clearing inputs : 
  * the clear() method is used to clear the inputs from the text box
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/rFxPRDdm/Screenshot-3.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/SQXr9xFx/Screenshot-3.png">
  </picture>
  
  ### Navigating backward/forward in browser history : 
@@ -1873,7 +1873,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  * the forward() method is used to go to the next page
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/j2ZCMx2J/Screenshot-4.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/FRkLY1dt/Screenshot-4.png">
  </picture>
  
  
@@ -1881,7 +1881,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  * the refresh() method is used to reload page
  
   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/B61y30zL/Screenshot-1.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/0yr2kFKF/Screenshot-5.png">
  </picture>
  
  ### Closing browser : 
@@ -1889,15 +1889,15 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/HLgH7GsG/Screenshot-5.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/hjnBd5hS/Screenshot-6.png">
  </picture>
  
  
  ### Maximize web window :
- * the maximize_window() method is used to
+ * the maximize_window() method is used to maximize web window
 
   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zBvQypWZ/Screenshot-6.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/44MW2hbc/Screenshot-7.png">
  </picture>
  
  # Waits 
