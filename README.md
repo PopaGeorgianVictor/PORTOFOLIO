@@ -1906,7 +1906,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  * selenium Webdriver provides two types of waits - implicit & explicit. An explicit wait makes WebDriver wait for a certain condition to occur before proceeding further with execution. An implicit wait makes WebDriver poll the DOM for a certain amount of time when trying to locate an element.
  
   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/t4PRnPDN/Screenshot-8.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vZx4YBvF/Screenshot-1.png">
  </picture>
  
  ## Implicit Waits
@@ -1914,7 +1914,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  * an implicit wait tells WebDriver to poll the DOM(Document Object Model) for a certain amount of time when trying to find any element (or elements) not immediately available. The default setting is 0. Once set, the implicit wait is set for the life of the WebDriver object
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/bJSbJP41/Screenshot-5.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/t4PRnPDN/Screenshot-8.png">
  </picture>
  
  ## Explicit Waits
@@ -1922,7 +1922,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  * an explicit wait is a code you define to wait for a certain condition to occur before proceeding further in the code. The extreme case of this is time.sleep(), which sets the condition to an exact time period to wait. There are some convenience methods provided that help you write code that will wait only as long as required. WebDriverWait in combination with ExpectedCondition is one way this can be accomplished
  
   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/t4PRnPDN/Screenshot-8.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/brxCbpPm/Screenshot-1.png">
  </picture>
  
  #### This waits up to 10 seconds before throwing a TimeoutException unless it finds the element to return within 10 seconds. WebDriverWait by default calls the ExpectedCondition every 500 milliseconds until it returns successfully.
