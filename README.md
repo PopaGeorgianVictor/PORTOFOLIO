@@ -211,15 +211,16 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
 
  # CONTENT
  
+ 
+ [PYTHON](https://github.com/PopaGeorgianVictor/PORTOFOLIO#python)
+ 
+ [SELENIUM](https://github.com/PopaGeorgianVictor/PORTOFOLIO#selenium)
+ 
  [HOMEWORK](https://github.com/PopaGeorgianVictor/HOMEWORK)
  
  [PRESENTATION SITE](https://popageorgianvictor.github.io/PRESENTATION-SITE/)
  
  [TESTING WEBPAGES](https://github.com/PopaGeorgianVictor/PUBLISHED-WEBPAGES)
- 
- [PYTHON](https://github.com/PopaGeorgianVictor/PORTOFOLIO#python)
- 
- [SELENIUM](https://github.com/PopaGeorgianVictor/PORTOFOLIO#selenium)
  
  [WAY 2 AUTOMATION](https://github.com/PopaGeorgianVictor/WAY-2-AUTOMATION)
  
