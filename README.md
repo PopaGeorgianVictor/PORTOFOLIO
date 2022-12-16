@@ -1906,7 +1906,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  * selenium Webdriver provides two types of waits - implicit & explicit. An explicit wait makes WebDriver wait for a certain condition to occur before proceeding further with execution. An implicit wait makes WebDriver poll the DOM for a certain amount of time when trying to locate an element.
  
   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/VkVf5wYs/Screenshot-4.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/t4PRnPDN/Screenshot-8.png">
  </picture>
  
  ## Implicit Waits
@@ -1922,7 +1922,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  * an explicit wait is a code you define to wait for a certain condition to occur before proceeding further in the code. The extreme case of this is time.sleep(), which sets the condition to an exact time period to wait. There are some convenience methods provided that help you write code that will wait only as long as required. WebDriverWait in combination with ExpectedCondition is one way this can be accomplished
  
   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/2jFFMQNY/Screenshot-1.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/t4PRnPDN/Screenshot-8.png">
  </picture>
  
  #### This waits up to 10 seconds before throwing a TimeoutException unless it finds the element to return within 10 seconds. WebDriverWait by default calls the ExpectedCondition every 500 milliseconds until it returns successfully.
