@@ -221,9 +221,9 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  
  [SELENIUM](https://github.com/PopaGeorgianVictor/PORTOFOLIO#selenium)
  
- [WAY 2 AUTOMATION](https://github.com/PopaGeorgianVictor/SELENIUM-FRAMEWORK)
+ [WAY 2 AUTOMATION](https://github.com/PopaGeorgianVictor/WAY-2-AUTOMATION)
  
- [SELENIUM FRAMEWORK](https://github.com/PopaGeorgianVictor/PORTOFOLIO#selenium)
+ [SELENIUM UnitTest](https://github.com/PopaGeorgianVictor/SELENIUM-UnitTest)
  
 
  
