@@ -1741,7 +1741,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  
   
    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Wpdq5Tg7/Screenshot-3.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/MTkt9k8Q/Screenshot-1.png">
  </picture>
  
   
@@ -1752,7 +1752,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  * this is also an effective way to locate an element which has a name attribute. With this strategy, the first element with the value of the name attribute will be returned. If no element has a matching name attribute, then a  NoSuchElementException will be raised
  
     <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/634hCRhk/Screenshot-1.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/MH0Wn8zb/Screenshot-2.png">
  </picture>
  
  
@@ -1761,7 +1761,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  * you can identify the hyperlinks on a web page using this linkText. It can be determined with the help of an anchor tag (<a>). In order to create the hyperlinks on a web page, you can use the anchor tags followed by the link text. In some cases, you may need to find links by a portion of the text in a linkText element. In such situations, you can use Partial Link Text to locate elements
  
     <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/GhmRFJN8/Screenshot-2.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/0NJ16qfM/Screenshot-3.png">
  </picture>
  
  ### Tag Name
@@ -1769,7 +1769,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  * use this when you want to locate an element by tag name. With this strategy, the first element with the given tag name will be returned. If no element has a matching tag name, a NoSuchElementException will be raised
  
     <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/QCphS1WB/Screenshot-3.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/bJHMbY2J/Screenshot-4.png">
  </picture>
  
  ### Class Name
@@ -1778,7 +1778,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  
   
    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vmFr1dtG/Screenshot-4.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Bb7mcjZq/Screenshot-5.png">
  </picture>
  
 
@@ -1789,7 +1789,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  * css selector best selector after ID
  * fast for selenium next to ID
  * easy to write
- * better than xpath (even tho u hear the word so much more)
+ * better than xpath (even tho u hear the word so much more !!!)
  
  #### Simply use id or class as css locator
  
@@ -1821,7 +1821,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  *  $ ends with word * 
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Nj4J4fGf/Screenshot-5.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/YCCWBdxy/Screenshot-6.png">
  </picture>
  
 ### XPath
@@ -1840,7 +1840,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NjVm63hP/Screenshot-6.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/WzzBvLh1/Screenshot-7.png">
  </picture>
  
  ## Interacting with Webpage
