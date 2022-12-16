@@ -2005,11 +2005,11 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  </picture>
  
  
- ## Mouse Over
+ ## Mouse Hover
  
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/B6YqH837/Screenshot-4.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/sDrncKS2/Screenshot-2.png">
  </picture>
  
  
@@ -2018,17 +2018,17 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  
   
    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/BvYk2dyC/Screenshot-1.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/25MGBxrr/Screenshot-3.png">
  </picture>
  
  
  ## Alerts. Prompt. Confirm
    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/pVSyjDT8/Screenshot-1.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/hvp7VSTT/Screenshot-4.png">
  </picture>
  
    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/RFFV6FxX/Screenshot-2.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/xCPkS0sh/Screenshot-5.png">
  </picture>
 
 
