@@ -2037,7 +2037,11 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/7hX0VTbZ/Screenshot-1.png">
  </picture>
 
+## Sliders
 
+  <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/90V3PQQL/Screenshot-1.png">
+ </picture>
 
  
  
