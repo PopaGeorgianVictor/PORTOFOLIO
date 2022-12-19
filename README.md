@@ -379,11 +379,14 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
    * [Is Element Present ?](https://github.com/PopaGeorgianVictor/PORTOFOLIO#is-element-present-)
    * [Windows & Tabs](https://github.com/PopaGeorgianVictor/PORTOFOLIO#windows--tabs)
    * [iFrames](https://github.com/PopaGeorgianVictor/PORTOFOLIO#iframes)
+   * [Alerts. Prompt. Confirm](https://github.com/PopaGeorgianVictor/PORTOFOLIO#alerts-prompt-confirm)
  
    [Handling Complex User Gestures](https://github.com/PopaGeorgianVictor/PORTOFOLIO#handling-complex-user-gestures)
    * [Mouse Over](https://github.com/PopaGeorgianVictor/PORTOFOLIO#mouse-over)
    * [Right Click](https://github.com/PopaGeorgianVictor/PORTOFOLIO#right-click)
-   * [Alerts. Prompt. Confirm](https://github.com/PopaGeorgianVictor/PORTOFOLIO#alerts-prompt-confirm)
+   * [Resizable](https://github.com/PopaGeorgianVictor/PORTOFOLIO#resizable)
+   * [Sliders](https://github.com/PopaGeorgianVictor/PORTOFOLIO#sliders)
+  
 
   
  # CHECK IT OUT
