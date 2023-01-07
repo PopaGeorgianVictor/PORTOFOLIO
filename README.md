@@ -315,6 +315,17 @@ b) the test conditions (what we are testing) are defined starting from the previ
  
  ## Test Implementations
  
+ It is an administrative stage, preparatory to the execution stage in which we make sure that we have all the necessary information to be able to start the execution of the tests
+
+In this stage we make sure that we have credentials (user and password), access, a prepared and functional test environment, the business requirements are analyzed and broken down in test conditions and tests, the tests are grouped into test suites, the identified test data is created in the previous stage (eg: if during the design test I identified that I have a user filtering test, in the implementation stage I will either create my users for filtering, or I will import them from an external file)
+
+
+Test suite = a grouping of tests that have the same objective (functional tests, regression tests, non-functional tests, blackbox tests, whitebox tests, tests specific to a release, etc.)
+
+The test suites have a different name depending on the application we use for testing (zephyr - test cycle, testrail - test suite, testlink - test plan, practitest - test library)
+
+
+ 
  * ensuring that the test environment is in place
  * ensuring every test case is well documented and reviewed
  * putting test environment in a state of readiness
