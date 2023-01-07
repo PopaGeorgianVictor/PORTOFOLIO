@@ -277,11 +277,11 @@ An administrative, preparatory stage of the entire testing process, which involv
  
  ####  Entry Criteria - definition on done
        
-       * conditions that must be met in order to start the testing process (all risks - or at least the major ones - have been mitigated, business requirements are defined, roles have been assigned, the test plan has been written and agreed upon by everyone)
+* conditions that must be met in order to start the testing process (all risks - or at least the major ones - have been mitigated, business requirements are defined, roles have been assigned, the test plan has been written and agreed upon by everyone)
  
  ####  Exit Criteria - definition on ready
  
-       * conditions that must be met in order to complete the testing process (let's run all the tests or a specific percentage, we've reached the deadline, we've finished the budget, we haven't found any bugs of high or very high severity in a certain interval of time, I haven't found any bugs at all in a certain period of time)
+* conditions that must be met in order to complete the testing process (let's run all the tests or a specific percentage, we've reached the deadline, we've finished the budget, we haven't found any bugs of high or very high severity in a certain interval of time, I haven't found any bugs at all in a certain period of time)
 
 
  
