@@ -245,6 +245,23 @@ b) the test conditions (what we are testing) are defined starting from the previ
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NFq08YnV/Screenshot-2.png">
 </picture>
  
+ Test levels
+
+1. Unit testing = the smallest functional piece of code (usually a function, a function that tests another function). It is usually done by developers
+
+2. Component testing = checking the functionality of individual components in an application, not necessarily connected with other components (eX: checkout page). If a component depends on certain important functionalities that are not implemented, then it is possible to use some simulators (stubs / drivers)
+
+3. Integration testing = checking how several components or systems communicate with each other
+
+* Component integration testing (linking the product page with the checkout page)
+* System integration testing (linking the e-commerce site with paypal)
+
+4. System testing = checking the correctness of a complete functionality (end to end - e2e)
+
+5. Acceptance testing = verification of the application from the point of view of the user and, respectively, of the fulfillment of his needs
+
+* alpha testing = done at the supplier's headquarters by the testing team
+* beta testing = it is done at the client's headquarters in a real environment or in an environment similar to the real one
  
  #### 3. Document Risk & Issues
  
