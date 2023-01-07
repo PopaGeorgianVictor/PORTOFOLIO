@@ -310,7 +310,7 @@ b) the test conditions (what we are testing) are defined starting from the previ
    * creating bi-directional traceability between test basis and test cases
  
   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/rpfGwTcX/Screenshot-2.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/SKSG1tM1/test-analysis-v-model.webp">
  </picture>
  
  ## Test Implementations
