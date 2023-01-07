@@ -86,9 +86,16 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  
  There are several software development methodologies:
  
- * ### agile
  * ### waterfall
- * ### V - model
+ * ### agile
+ * ### v - model
+ 
+ ### Waterfall
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/mkQD8Knt/Screenshot-1.png">
+</picture>
+ 
  
  ## Test Planning
  
