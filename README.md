@@ -103,6 +103,19 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
 * we finished the testing
 * we launch the product
  
+ Disadvantages:
+
+* if we want to change something in the middle of the development / testing process (that is, we changed our mind and want something else, or we want something additional) then a new project must be created that follows all the previous stages, with a separate budget and timeline
+* the feedback from the client is received at the end and we will not have much time for adjustment
+
+
+Benefits:
+
+* we have an exact budget and we know from the beginning how much we will pay
+* we know exactly how the product will look from the beginning
+* we know when we have to finish creating / testing the product
+
+
  ## Test Planning
  
  
