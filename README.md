@@ -96,6 +96,12 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/mkQD8Knt/Screenshot-1.png">
 </picture>
  
+ It is a more rigid methodology that requires the completion of a stage completely before starting the next stage
+
+* we finish the business requirements
+* we finished the development
+* we finished the testing
+* we launch the product
  
  ## Test Planning
  
