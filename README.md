@@ -121,9 +121,23 @@ Benefits:
  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zvCd8SvV/agile-777x437.png">
 </picture>
- 
- A software development methodology that involves developing the product in pieces in a series of mini-development projects.A software development methodology that involves the development of activities in the cascade (that is, the result of one stage represents input data for the next stage)
 
+ 
+A software development methodology that involves developing the product in pieces in a series of mini-development projects.It is a more flexible methodology that allows changes and provides early feedback.
+
+ Disadvantages:
+
+* we don't know exactly how the product will look at the beginning (we have a sketch but we don't know exactly)
+* if we don't know how the product will look, we don't even know how much it will cost us
+* if we don't know how complex the product will be, we don't know exactly how long it will last
+* if the team does not communicate well and there are conflicts in the team, the chances of the product failing increase considerably
+* documentation is created, but briefer and only for essential things, which makes the need for essential communication
+* it is not recommended when we have projects with a tight deadline or a limited budget
+
+ Benefits:
+
+* it is more flexible and allows making changes during the software development / testing process
+* we receive early feedback related to the functionality of the product and have greater certainty about the final quality of the product from the point of view of the customer's needs
 
  
  ## Test Planning
