@@ -210,6 +210,11 @@ g) Completion test
 
  
  ### Analize the product
+ 
+ It is a stage in which:
+
+a) the business requirements are analyzed to evaluate if they are correct, complete and if we can do testing following those business requirements. The purpose of this analysis (static testing) is to ensure the early detection of bugs and ensure a qualitative testing process
+b) the test conditions (what we are testing) are defined starting from the previously defined business requirements
        
  * Who will use the website ?
  * What is it used for ?
