@@ -154,6 +154,35 @@ A software development methodology that involves developing the product in piece
 Sprint = A period of time in which we undertake to implement a series of functionalities. As a rule, it is defined at an interval of two weeks, but it is at the discretion of the team
 A project implemented in Agile consists of a sequence of sprints that each implement a piece of the product. The result of a sprint is called product increment (because it increases the number of functionalities ready to be used for our product)
  
+ ## All about testing
+ 
+### SDLC = Software Development Lifecycle
+### STLC = Software Testing Lifecycle
+
+
+SDLC stages:
+
+1. Concept
+2. Creation of business requirements
+3. Development
+4. STLC
+ 
+a) Test planning
+ 
+b) Test monitoring and control
+ 
+c) Test analysis
+ 
+d) Test design
+ 
+e) Test implementation
+ 
+f) Test execution
+ 
+g) Completion test
+ 
+5. Release
+ 
  ## Test Planning
  
  
