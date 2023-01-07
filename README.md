@@ -355,6 +355,16 @@ The test suites have a different name depending on the application we use for te
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/gcZBZQq3/030e341-continuous-testing.jpg">
  </picture>
  
+ ## Test Completion
+ 
+ * the exit criteria are evaluated
+ * unclosed residual bugs are closed
+ * the test materials are archived (in practice this stage does not really exist)
+ * test closing reports (test summary report / test completion report) are generated and sent to stakeholders
+ * a test report is created = a document that contains the results of all the activities carried out during the testing process (who were the testers involved, what were the business requirements covered, the functionalities that were in scope / not in scope, how many tests we performed , how many were passed and how many were failed, how many bugs we found, how many are still open, if PRODUCT risks were identified, lessons learned, good practices)
+
+
+ 
  
   ## Bug Life Cycle
  
