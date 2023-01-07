@@ -2254,6 +2254,49 @@ When we develop an application with BDD, things will unfold as follows:
 
 5. Repeat step 4 until all tests are passed
 
+Benefits:
+
+1. Anyone who looks over our suite of automated tests will easily understand what we tested and which functionalities of the application were covered
+2. The focus / attention shifts to test scenarios, so the chances of ensuring the quality of the application increase
+
+BDD is an approach derived from TDD (Test Driven Development)
+TDD = A software development approach centered on automated tests written for application testing
+ 
+When we develop an application with BDD, things will unfold as follows:
+ 
+ 1. We define the automatic tests to cover the business functionalities requested by the client. We run the tests, and the expectation is that they will fail, because the code has not been written yet
+
+2. We write the code to implement the application starting from the automatic tests written previously, we run the tests again and this time the expectation is that those tests will be passed
+
+3. If there are failed tests, then we will report bugs, which will later be fixed, and then we will resume the process of running the tests
+
+4. Repeat step 3 until all tests are passed
+ 
+The difference between TDD and BDD is that in BDD the emphasis is on scenarios (that is, starting from scenarios), in TDD the emphasis is on tests (that is, starting from tests).
+* in addition to TDD, BDD has the description of business scenarios in the Gherkin language saved in some files called feature files
+* in python, the BDD is implemented through the behave library
+* in Java (possibly also other languages) the BDD is implemented through the cucumber library
+
+A feature file consists of the following components:
+
+1. Feature to be tested = A larger functionality composed of several sub-functionalities
+2. Scenario = A use case / an action or set of actions that the user does and that lead to a certain result
+3. Scenario steps = Instructions / individual actions that the user does to obtain a certain result
+ 
+ Gherkin = A descriptive language that is used to map automated tests with an easy-to-understand business description by all project participants, even if they have no    technical knowledge
+
+It is based on several keywords:
+
+ * feature = a major functionality that can be tested
+ * scenario = a specific scenario / an action or series of actions that the user does to obtain a benefit
+ * scenario outline = a more complex scenario with several input options
+ * given = the context in which the action takes place
+ * when = the actions that the user does
+ * then = the result we expected to receive when performing the above actions
+ * background = steps of type given that are valid for several scenarios (to avoid code duplication)
+
+
+
 
  
 </details>
