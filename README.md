@@ -226,7 +226,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  
  [SELENIUM UnitTest](https://github.com/PopaGeorgianVictor/SELENIUM-UnitTest)
  
-
+ [BDD-POM](https://github.com/PopaGeorgianVictor/SELENIUM-UnitTest)
  
  ### PYTHON
 
@@ -388,7 +388,10 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
    * [Sliders](https://github.com/PopaGeorgianVictor/PORTOFOLIO#sliders)
   
  
-  
+  ### BDD-POM
+ 
+  [BDD-POM Theory](https://github.com/PopaGeorgianVictor/PORTOFOLIO#bdd-pom)
+
  # CHECK IT OUT
  
 [CHECK IT OUT](https://github.com/PopaGeorgianVictor/HOMEWORK)
