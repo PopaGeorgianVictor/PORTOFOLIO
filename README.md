@@ -151,7 +151,9 @@ A software development methodology that involves developing the product in piece
 * Sprint review = An analysis of all the functionalities that have been implemented and, respectively, moving the unimplemented functionalities to another sprint
 * Retrospective sprints = Analysis of the progress of the sprint from the point of view of the things that were ok and must be kept and respectively from the point of view of the things that were not ok and must be improved.
 
-
+Sprint = A period of time in which we undertake to implement a series of functionalities. As a rule, it is defined at an interval of two weeks, but it is at the discretion of the team
+A project implemented in Agile consists of a sequence of sprints that each implement a piece of the product. The result of a sprint is called product increment (because it increases the number of functionalities ready to be used for our product)
+ 
  ## Test Planning
  
  
