@@ -116,6 +116,13 @@ Benefits:
 * we know when we have to finish creating / testing the product
 
 
+ ### Agile
+ 
+ <picture>
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zvCd8SvV/agile-777x437.png">
+</picture>
+ 
+ 
  ## Test Planning
  
  
