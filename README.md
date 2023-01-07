@@ -80,6 +80,15 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
   * ### gained hands-on experience by web testing applications 
   * ### familiar with Agile Methodology
  
+ ## Methodologies
+ 
+ A software development methodology is a series of procedures that describe how the team organizes itself in order to create a software product.
+ 
+ There are several software development methodologies:
+ 
+ * ### agile
+ * ### waterfall
+ * ### V - model
  
  ## Test Planning
  
