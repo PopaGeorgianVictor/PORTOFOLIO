@@ -336,6 +336,14 @@ The test suites have a different name depending on the application we use for te
  
   ## Test Executation
  
+ * the tests defined in the analysis stage are executed
+ * test results are reported in a testing management tool (zephyr, alm, testrail, practitest, testlink, asana, bugzilla, mantis)
+ * bug reports are opened for tests for which the expected result does not coincide with the current one
+ * after fixing the bugs, retesting and regression testing is done
+ * status reports are generated (daily status reports) which are periodically sent to the team leader and project manager
+
+
+ 
   * PASS: test procedure is executed and the expected result is satisfied
   * FAIL: test procedure is executed and the expected result is not satisfied
   * INCONCLUSIVE: test procedure is executed and requires further analysis to have a clear result
