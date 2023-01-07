@@ -53,9 +53,9 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
     
  [Test Planning](https://github.com/PopaGeorgianVictor/PORTOFOLIO#test-planning)
  
-    * [Define Test Criteria](https://github.com/PopaGeorgianVictor/PORTOFOLIO#define-test-criteria)
-        - [Entry Criteria - definition on done](https://github.com/PopaGeorgianVictor/PORTOFOLIO#entry-criteria---definition-on-done)
-        - [Exit Criteria - definition on ready](https://github.com/PopaGeorgianVictor/PORTOFOLIO#exit-criteria---definition-on-ready)
+   * [Define Test Criteria](https://github.com/PopaGeorgianVictor/PORTOFOLIO#define-test-criteria)
+       - [Entry Criteria - definition on done](https://github.com/PopaGeorgianVictor/PORTOFOLIO#entry-criteria---definition-on-done)
+       - [Exit Criteria - definition on ready](https://github.com/PopaGeorgianVictor/PORTOFOLIO#exit-criteria---definition-on-ready)
  
    * [Analize the product](https://github.com/PopaGeorgianVictor/PORTOFOLIO#analize-the-product)
    * [Develop Test Strategy](https://github.com/PopaGeorgianVictor/PORTOFOLIO#develop-test-strategy)
