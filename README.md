@@ -160,8 +160,6 @@ A project implemented in Agile consists of a sequence of sprints that each imple
 ### STLC = Software Testing Lifecycle
 
 
-#### SDLC stages:
-
 1. Concept
 2. Creation of business requirements
 3. Development
@@ -183,17 +181,6 @@ g) Completion test
  
 5. Release
  
-#### STLC stages:
-
-1. Test planning
-
-An administrative, preparatory stage of the entire testing process, which involves planning the testing activities and the testing process
-
-* assigning roles (who will do the testing?)
-* test plan (a document that describes how the testing will be carried out)
-* we define the entry criteria and the exit criteria
-* PROJECT risks are evaluated and mitigated if necessary
-* the entry criteria are evaluated to check if we can go to the next stage of testing
  
  ## Test Planning
  
@@ -210,7 +197,18 @@ An administrative, preparatory stage of the entire testing process, which involv
 * PROJECT risks are evaluated and mitigated if necessary
 * the entry criteria are evaluated to check if we can go to the next stage of testing
 
+### Define Test Criteria
+ 
+ ####  Entry Criteria - definition on done
+       
+* conditions that must be met in order to start the testing process (all risks - or at least the major ones - have been mitigated, business requirements are defined, roles have been assigned, the test plan has been written and agreed upon by everyone)
+ 
+ ####  Exit Criteria - definition on ready
+ 
+* conditions that must be met in order to complete the testing process (let's run all the tests or a specific percentage, we've reached the deadline, we've finished the budget, we haven't found any bugs of high or very high severity in a certain interval of time, I haven't found any bugs at all in a certain period of time)
 
+
+ 
  ### Analize the product
        
  * Who will use the website ?
@@ -273,17 +271,6 @@ An administrative, preparatory stage of the entire testing process, which involv
   * check that the external interface of the website such as UI is working as expected and & meet the customer need
   * verify the usability of the website
  
- ### Define Test Criteria
- 
- ####  Entry Criteria - definition on done
-       
-* conditions that must be met in order to start the testing process (all risks - or at least the major ones - have been mitigated, business requirements are defined, roles have been assigned, the test plan has been written and agreed upon by everyone)
- 
- ####  Exit Criteria - definition on ready
- 
-* conditions that must be met in order to complete the testing process (let's run all the tests or a specific percentage, we've reached the deadline, we've finished the budget, we haven't found any bugs of high or very high severity in a certain interval of time, I haven't found any bugs at all in a certain period of time)
-
-
  
   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/WzXTQDjJ/Screenshot-1.png">
