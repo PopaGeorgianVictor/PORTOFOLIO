@@ -190,7 +190,15 @@ g) Completion test
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/qR27LLFQ/Screenshot-2.png">
 </picture>
  
- 
+ An administrative, preparatory stage of the entire testing process, which involves planning the testing activities and the testing process
+
+* assigning roles (who will do the testing?)
+* test plan (a document that describes how the testing will be carried out)
+* we define the entry criteria and the exit criteria
+* PROJECT risks are evaluated and mitigated if necessary
+* the entry criteria are evaluated to check if we can go to the next stage of testing
+
+
  ### Analize the product
        
  * Who will use the website ?
