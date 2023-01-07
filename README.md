@@ -96,7 +96,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/mkQD8Knt/Screenshot-1.png">
 </picture>
  
- It is a more rigid methodology that requires the completion of a stage completely before starting the next stage
+ A software development methodology that involves the development of activities in the cascade (that is, the result of one stage represents input data for the next stage).It is a more rigid methodology that requires the completion of a stage completely before starting the next stage
 
 * we finish the business requirements
 * we finished the development
@@ -122,6 +122,9 @@ Benefits:
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zvCd8SvV/agile-777x437.png">
 </picture>
  
+ A software development methodology that involves developing the product in pieces in a series of mini-development projects.A software development methodology that involves the development of activities in the cascade (that is, the result of one stage represents input data for the next stage)
+
+
  
  ## Test Planning
  
