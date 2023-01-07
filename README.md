@@ -44,8 +44,17 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  # CONTENT
  
  [CHECK IT OUT](https://github.com/PopaGeorgianVictor/PORTOFOLIO#check-it-out)
+ 
+ [Methodologies](https://github.com/PopaGeorgianVictor/PORTOFOLIO#methodologies)
+   * [Waterfall](https://github.com/PopaGeorgianVictor/PORTOFOLIO#waterfall-1)
+   * [Agile](https://github.com/PopaGeorgianVictor/PORTOFOLIO#agile-1)
+ 
+ [All about testing](https://github.com/PopaGeorgianVictor/PORTOFOLIO#all-about-testing)
     
  [Test Planning](https://github.com/PopaGeorgianVictor/PORTOFOLIO#test-planning)
+    * [Define Test Criteria](https://github.com/PopaGeorgianVictor/PORTOFOLIO#define-test-criteria)
+        - [Entry Criteria - definition on done](https://github.com/PopaGeorgianVictor/PORTOFOLIO#entry-criteria---definition-on-done)
+        - [Exit Criteria - definition on ready](https://github.com/PopaGeorgianVictor/PORTOFOLIO#exit-criteria---definition-on-ready)
    * [Analize the product](https://github.com/PopaGeorgianVictor/PORTOFOLIO#analize-the-product)
    * [Develop Test Strategy](https://github.com/PopaGeorgianVictor/PORTOFOLIO#develop-test-strategy)
         - [Evaluate Situation](https://github.com/PopaGeorgianVictor/PORTOFOLIO#1-evaluate-situation)
@@ -53,15 +62,15 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
         - [Document Risk & Issues](https://github.com/PopaGeorgianVictor/PORTOFOLIO#3-document-risk--issues)
         - [Create Test Logistics](https://github.com/PopaGeorgianVictor/PORTOFOLIO#4-create-test-logistics)
    * [Define Test Objective](https://github.com/PopaGeorgianVictor/PORTOFOLIO#define-test-objective) 
-   * [Define Test Criteria](https://github.com/PopaGeorgianVictor/PORTOFOLIO#define-test-criteria)
-        - [Entry Criteria - definition on done](https://github.com/PopaGeorgianVictor/PORTOFOLIO#entry-criteria---definition-on-done)
-        - [Exit Criteria - definition on ready](https://github.com/PopaGeorgianVictor/PORTOFOLIO#exit-criteria---definition-on-ready)
+
  
  [Test Analysis & Design](https://github.com/PopaGeorgianVictor/PORTOFOLIO#test-analysis--design)  
  
  [Test Implementations](https://github.com/PopaGeorgianVictor/PORTOFOLIO#test-implementations) 
  
  [Test Executation](https://github.com/PopaGeorgianVictor/PORTOFOLIO#test-executation) 
+ 
+ [Test Completion](https://github.com/PopaGeorgianVictor/PORTOFOLIO#test-completion) 
  
  [Bug Life Cycle](https://github.com/PopaGeorgianVictor/PORTOFOLIO#bug-life-cycle) 
  
