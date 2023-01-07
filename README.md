@@ -160,7 +160,7 @@ A project implemented in Agile consists of a sequence of sprints that each imple
 ### STLC = Software Testing Lifecycle
 
 
-SDLC stages:
+#### SDLC stages:
 
 1. Concept
 2. Creation of business requirements
@@ -182,6 +182,18 @@ f) Test execution
 g) Completion test
  
 5. Release
+ 
+#### STLC stages:
+
+1. Test planning
+
+An administrative, preparatory stage of the entire testing process, which involves planning the testing activities and the testing process
+
+* assigning roles (who will do the testing?)
+* test plan (a document that describes how the testing will be carried out)
+* we define the entry criteria and the exit criteria
+* PROJECT risks are evaluated and mitigated if necessary
+* the entry criteria are evaluated to check if we can go to the next stage of testing
  
  ## Test Planning
  
