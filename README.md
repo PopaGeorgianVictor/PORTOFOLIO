@@ -139,7 +139,19 @@ A software development methodology that involves developing the product in piece
 * it is more flexible and allows making changes during the software development / testing process
 * we receive early feedback related to the functionality of the product and have greater certainty about the final quality of the product from the point of view of the customer's needs
 
- 
+ Elements of the Agile methodology:
+
+ * Backlog = All the elements that want to be implemented within a project
+ * Backlog refinement = Filtering the functionalities that are not urgent or that are more difficult to implement for the benefit they bring and respectively the       clarification and detailing of the functionalities that remain to be implemented
+* Sprint planning = Definition of all the functionalities that want to be implemented in a sprint
+* Daizy Standup Meeting = Daily meetings that aim to identify:
+* what was worked on the previous day
+* what is being worked on now / today
+* if there are blockers that prevent us from completing our tasks
+* Sprint review = An analysis of all the functionalities that have been implemented and, respectively, moving the unimplemented functionalities to another sprint
+* Retrospective sprints = Analysis of the progress of the sprint from the point of view of the things that were ok and must be kept and respectively from the point of view of the things that were not ok and must be improved.
+
+
  ## Test Planning
  
  
