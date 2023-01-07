@@ -344,7 +344,7 @@ The test suites have a different name depending on the application we use for te
   * IN PROGRESS: test procedure is currently being executed
   
  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/1XK5ntkR/Screenshot-1.png">
+ <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/gcZBZQq3/030e341-continuous-testing.jpg">
  </picture>
  
  
