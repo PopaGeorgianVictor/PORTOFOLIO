@@ -2238,6 +2238,22 @@ The test suites have a different name depending on the application we use for te
  </picture>
 
 
+BDD = Behavior Driven Development
+
+A software development approach centered on test scenarios based on the client's functional expectations for the application
+
+When we develop an application with BDD, things will unfold as follows:
+
+1. We define the test scenarios in a common language, usually English, to be understood by all participants and people involved in the project. The test scenarios will be written in a language called Gherkin
+
+2. We define the automatic tests to cover the scenarios defined above. We run the tests, and the expectation is that they will fail, because the code has not been written yet
+
+3. We write the code to implement the application starting from the automatic tests written previously, we run the tests again and this time the expectation is that those tests will be passed
+
+4. If there are failed tests, then we will report bugs, which will later be fixed, and then we will resume the process of running the tests
+
+5. Repeat step 4 until all tests are passed
+
 
  
 </details>
