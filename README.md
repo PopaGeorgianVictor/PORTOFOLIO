@@ -571,6 +571,9 @@ The test suites have a different name depending on the application we use for te
  
   ### BDD-POM
  
+  [BDD](https://github.com/PopaGeorgianVictor/PORTOFOLIO#bdd-behavior-driven-development)
+ 
+  [POM](https://github.com/PopaGeorgianVictor/PORTOFOLIO#pom-page-object-model)
 
 
  # CHECK IT OUT
@@ -2311,6 +2314,7 @@ Examples of design patterns:
 * key-driven testing
 * singleton
 
+ 
  
 </details>
  
