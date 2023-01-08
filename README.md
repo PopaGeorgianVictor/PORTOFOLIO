@@ -2299,8 +2299,17 @@ It is based on several keywords:
 
 ### POM: Page Object Model
 
-Page Object Model = a design pattern that has the role of structuring the elements that want to be searched in a web page depending on the page they are on, with the aim of organizing them better and being easier to identify.Any page in a website will have a correspondent in a python file mapping the elements and actions to be tested
+Page Object Model = a design pattern that has the role of structuring the elements that want to be searched in a web page depending on the page they are on, with the aim of organizing them better and being easier to identify.Any page in a website will have a correspondent in a python file mapping the elements and actions to be tested.
+Any mapped page will be embodied in a class that will contain attributes for elements and methods for actions.
+ 
+#### Design pattern = a generally valid structure that was defined to solve a specific and generally encountered problem
 
+Examples of design patterns:
+
+* page object model
+* data-driven testing
+* key-driven testing
+* singleton
 
  
 </details>
