@@ -2238,7 +2238,7 @@ The test suites have a different name depending on the application we use for te
  </picture>
 
 
-BDD = Behavior Driven Development
+### BDD: Behavior Driven Development
 
 A software development approach centered on test scenarios based on the client's functional expectations for the application
 
@@ -2283,7 +2283,7 @@ A feature file consists of the following components:
 2. Scenario = A use case / an action or set of actions that the user does and that lead to a certain result
 3. Scenario steps = Instructions / individual actions that the user does to obtain a certain result
  
- Gherkin = A descriptive language that is used to map automated tests with an easy-to-understand business description by all project participants, even if they have no    technical knowledge
+ #### Gherkin = A descriptive language that is used to map automated tests with an easy-to-understand business description by all project participants, even if they have no    technical knowledge
 
 It is based on several keywords:
 
@@ -2296,6 +2296,10 @@ It is based on several keywords:
  * background = steps of type given that are valid for several scenarios (to avoid code duplication)
 
 
+
+### POM: Page Object Model
+
+Page Object Model = a design pattern that has the role of structuring the elements that want to be searched in a web page depending on the page they are on, with the aim of organizing them better and being easier to identify.Any page in a website will have a correspondent in a python file mapping the elements and actions to be tested
 
 
  
