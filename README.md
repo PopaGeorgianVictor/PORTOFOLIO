@@ -19,10 +19,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  
 [CHECK IT OUT](https://www.linkedin.com/in/popa-georgian-victor-013775222/)
  
- 
 </details>
-
-
 
 <details>
 <summary>Manual Testing</summary>
@@ -79,7 +76,6 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  
  ## Methodologies
 
-
  A software development methodology is a series of procedures that describe how the team organizes itself in order to create a software product.
  
  There are several software development methodologies:
@@ -90,9 +86,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  
  ### Waterfall
  
- <picture>
 <img src = "https://i.postimg.cc/CLY0ZSL2/Screenshot-1.png" width = "90%" >
-</picture>
  
  A software development methodology that involves the development of activities in the cascade (that is, the result of one stage represents input data for the next stage).It is a more rigid methodology that requires the completion of a stage completely before starting the next stage
 
@@ -116,9 +110,7 @@ Benefits:
 
  ### Agile
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zvCd8SvV/agile-777x437.png">
-</picture>
+ <img src="https://i.postimg.cc/zvCd8SvV/agile-777x437.png" width = "70%">
 
  
 A software development methodology that involves developing the product in pieces in a series of mini-development projects.It is a more flexible methodology that allows changes and provides early feedback.
@@ -181,12 +173,9 @@ g) Completion test
  
  
  ### Test Planning
- 
- 
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/qR27LLFQ/Screenshot-2.png">
-</picture>
- 
+
+ <img src="https://i.postimg.cc/qR27LLFQ/Screenshot-2.png">
+
  An administrative, preparatory stage of the entire testing process, which involves planning the testing activities and the testing process
 
 * assigning roles (who will do the testing?)
@@ -220,18 +209,13 @@ b) the test conditions (what we are testing) are defined starting from the previ
  * How will it work ?
  * What are software/ hardware the product uses ?
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Bvz0KKQp/Screenshot-3.png">
-</picture>
- 
+ <img src="https://i.postimg.cc/Bvz0KKQp/Screenshot-3.png">
+
  
  ###  Develop Test Strategy
- 
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/L63gBCpX/Screenshot-1.png">
-</picture>
- 
- 
+
+ <img src="https://i.postimg.cc/L63gBCpX/Screenshot-1.png">
+
  #### 1. Evaluate Situation
   
  * the components of the system to be tested are defined as “in scope“ -  Functional Testing, Api Testing
@@ -239,9 +223,7 @@ b) the test conditions (what we are testing) are defined starting from the previ
  
  #### 2.  Identify Testing Type
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NFq08YnV/Screenshot-2.png">
-</picture>
+ <img src="https://i.postimg.cc/NFq08YnV/Screenshot-2.png">
  
  #### Test levels
 
@@ -281,21 +263,18 @@ b) the test conditions (what we are testing) are defined starting from the previ
  
  ##### 4.2 When will the test occur ?
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/P5kW4p9X/Screenshot-3.png">
- </picture>
- 
- 
+ <img src="https://i.postimg.cc/P5kW4p9X/Screenshot-3.png">
+
+
   ###  Define Test Objective
   
   * checking that whether website  functionality is working as expected without any error or bugs in real business environment
   * check that the external interface of the website such as UI is working as expected and & meet the customer need
   * verify the usability of the website
  
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/WzXTQDjJ/Screenshot-1.png">
- </picture>
+
+ <img src="https://i.postimg.cc/WzXTQDjJ/Screenshot-1.png">
+
  
  ## Test Analysis & Design
   
@@ -307,9 +286,9 @@ b) the test conditions (what we are testing) are defined starting from the previ
    * designing the test environment setup and identifying any required infrastructure and tools
    * creating bi-directional traceability between test basis and test cases
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/SKSG1tM1/test-analysis-v-model.webp">
- </picture>
+
+ <img src="https://i.postimg.cc/SKSG1tM1/test-analysis-v-model.webp" width = "70%">
+
  
  ## Test Implementations
  
@@ -349,9 +328,9 @@ The test suites have a different name depending on the application we use for te
   * DEFERED: test procedure is not executed yet and deferred for a future test cycle/release for execution
   * IN PROGRESS: test procedure is currently being executed
   
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/gcZBZQq3/030e341-continuous-testing.jpg">
- </picture>
+
+ <img src="https://i.postimg.cc/gcZBZQq3/030e341-continuous-testing.jpg">
+
  
  ## Test Completion
  
@@ -360,16 +339,13 @@ The test suites have a different name depending on the application we use for te
  * the test materials are archived (in practice this stage does not really exist)
  * test closing reports (test summary report / test completion report) are generated and sent to stakeholders
  * a test report is created = a document that contains the results of all the activities carried out during the testing process (who were the testers involved, what were the business requirements covered, the functionalities that were in scope / not in scope, how many tests we performed , how many were passed and how many were failed, how many bugs we found, how many are still open, if PRODUCT risks were identified, lessons learned, good practices)
-
-
  
  
   ## Bug Life Cycle
  
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Wbqz2N3Z/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/Wbqz2N3Z/Screenshot-2.png">
+
 </details>
 
 <details>
