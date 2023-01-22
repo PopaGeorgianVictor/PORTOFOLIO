@@ -2314,7 +2314,11 @@ Examples of design patterns:
 * key-driven testing
 * singleton
 
+ # SQL 
  
+ ## WHAT IS A DATABASE
+ 
+ A database is an integrated collection of logically related records or files consolidated into a common pool that provides data for one or more multiple uses.The data in a database is organized according to a database model.
  
 </details>
  
