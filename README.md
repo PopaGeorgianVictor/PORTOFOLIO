@@ -4,7 +4,7 @@ Step By Step Toward The Goal
 
 
 <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/dVdnF4s2/Screenshot-1.png">
+ <img src="https://i.postimg.cc/dVdnF4s2/Screenshot-1.png" width="70%">
 </picture>
 
 
@@ -15,7 +15,7 @@ Step By Step Toward The Goal
  
  
 <picture>
-<img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/PrrBtXz4/Screenshot-4.png">
+<img src="https://i.postimg.cc/PrrBtXz4/Screenshot-4.png"  width="70%">
 </picture>
 
  
@@ -2340,7 +2340,7 @@ THE BASIC DATA STRUCTURE OF THE RELATIONAL MODEL IS THE TABLE, WHERE INFORMATION
 <summary>Courses</summary>
 
   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/ydb92Lqp/Screenshot-2.png">
+ <img src="https://i.postimg.cc/ydb92Lqp/Screenshot-2.png">
  </picture>
  
 </details>
