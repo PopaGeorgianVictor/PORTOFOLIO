@@ -2320,6 +2320,20 @@ Examples of design patterns:
  
  A database is an integrated collection of logically related records or files consolidated into a common pool that provides data for one or more multiple uses.The data in a database is organized according to a database model.
  
+## RELATIONAL DATABASES
+ 
+ THREE KEY TERMS ARE USED EXTENSIVELY IN RELATIONAL DATABASE MODELS: RELATIONS,ATTRIBUTES, AND DOMAINS.
+* a relation is a table with columns and rows
+* the named columns of the relation are called attributes
+* The domain is the set of values the attributes are allowed to take
+ 
+THE BASIC DATA STRUCTURE OF THE RELATIONAL MODEL IS THE TABLE, WHERE INFORMATION ABOUT A PARTICULAR ENTITY (SAY, AN EMPLOYEE) IS REPRESENTED IN ROWS (ALSO CALLED TUPLES) AND COLUMNS
+* the "relation" in "relational database" refers to the various tables in the database
+* a relation is a set of rows
+* the columns enumerate the various attributes of the entity (the employee's name, address or phone number, for example).
+* a row is an actual instance of the entity (a specific employee) that is represented by the relation
+* as a result, each tuple of the employee table represents various attributes of a single employee
+ 
 </details>
  
 <details>
