@@ -15,11 +15,10 @@ Step By Step Toward The Goal
  
  
 <picture>
-<img src="https://i.postimg.cc/PrrBtXz4/Screenshot-4.png"  width="70%">
+<img src="https://i.postimg.cc/PrrBtXz4/Screenshot-4.png" >
 </picture>
 
  
-
 I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as electronic enginner and manual tester. And on the other, due to my personality, I love to communicate with people and solve problems.I believe that so far I have formed a knowledge base, a way of thinking, which will help me to progress in my career in the future.
 I am a punctual person with good communication skills, as a result I integrate extremely easily in a group. I like to learn different new things, to apply them and I can say that I am one of the people oriented towards evolution, progress, everything acquired through the accumulation of knowledge and skills.
 I like to respond to the challenge of new situations because I am a dynamic, creative person, with a strategic and  communicative thinking.
@@ -93,6 +92,10 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  
  ## Methodologies
  
+ 
+<img src = "https://i.postimg.cc/CLY0ZSL2/Screenshot-1.png" width = "90%" >
+
+
  A software development methodology is a series of procedures that describe how the team organizes itself in order to create a software product.
  
  There are several software development methodologies:
@@ -104,7 +107,7 @@ I like to respond to the challenge of new situations because I am a dynamic, cre
  ### Waterfall
  
  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/mkQD8Knt/Screenshot-1.png">
+ <img src="https://i.postimg.cc/mkQD8Knt/Screenshot-1.png" width = "50%">
 </picture>
  
  A software development methodology that involves the development of activities in the cascade (that is, the result of one stage represents input data for the next stage).It is a more rigid methodology that requires the completion of a stage completely before starting the next stage
