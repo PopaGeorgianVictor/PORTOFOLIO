@@ -1811,13 +1811,19 @@ order to optimize access or limit the visibility of some information
 * 1:n - a department has a number of employees
 * m:n - each employee has a number of children
  
-<img src="https://i.postimg.cc/qMfSrpgz/Screenshot-1.png" width="70%">
+  <img src="https://i.postimg.cc/6qHhyLtW/1.png" width="70%">
  
- <img src="https://i.postimg.cc/mrhF8fYS/Screenshot-5.png" width="70%">
+ <img src="https://i.postimg.cc/7YGz3yNM/2.png" width="70%">
  
- <img src="https://i.postimg.cc/9QQ4Q5nj/Screenshot-6.png" width="70%">
+ <img src="https://i.postimg.cc/xdYbVNVt/3.png" width="70%">
  
- <img src="https://i.postimg.cc/k4KGpnBW/Screenshot-7.png" width="70%">
+ <img src="https://i.postimg.cc/90vYdXRK/4.png" width="70%">
+ 
+ <img src="https://i.postimg.cc/Hk09Mgpv/5.png" width="70%">
+ 
+ <img src="https://i.postimg.cc/76R34PVh/6.png" width="70%">
+ 
+ <img src="">
  
  <img src="">
  
