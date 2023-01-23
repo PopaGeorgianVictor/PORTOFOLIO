@@ -1787,6 +1787,8 @@ Examples of design patterns:
  
   <img src="https://i.postimg.cc/59BsWLzF/Screenshot-3.png" width = "70%">
  
+ ### RELATIONAL DATABASE STRUCTURE
+ 
  #### THREE KEY TERMS ARE USED EXTENSIVELY IN RELATIONAL DATABASE MODELS: RELATIONS,ATTRIBUTES, AND DOMAINS.
 * a relation is a table with columns and rows
 * the named columns of the relation are called attributes
@@ -1799,6 +1801,8 @@ Examples of design patterns:
 * a row is an actual instance of the entity (a specific employee) that is represented by the relation
 * as a result, each tuple of the employee table represents various attributes of a single employee
  
+ ### TABLES, RELATIONSHIPS,CARDINALITY
+ 
  #### ALL RELATIONS (AND, THUS, TABLES) IN A RELATIONAL DATABASE HAVE TO ADHERE TO SOME BASIC RULES TO QUALIFY AS RELATIONS.
 * the ordering of columns is immaterial in a table.
 * there can't be identical tuples or rows in a table.
@@ -1809,6 +1813,8 @@ Examples of design patterns:
 order to optimize access or limit the visibility of some information
 * 1:n - a department has a number of employees
 * m:n - each employee has a number of children
+ 
+ ### KEYS
  
  #### TABLES CAN ALSO HAVE A DESIGNATED SINGLE ATTRIBUTE OR A SET OF ATTRIBUTES THAT CAN ACT AS A "KEY", WHICH CAN BE USED TO UNIQUELY IDENTIFY EACH TUPLE IN THETABLE.A KEY THAT CAN BE USED TO UNIQUELY IDENTIFY A ROW IN A TABLE IS CALLED A PRIMARY KEY. KEYS ARE COMMONLY USED TO JOIN OR COMBINE DATA FROM TWO OR MORE TABLES. A KEY THAT HAS AN EXTERNAL, REAL-WORLD MEANING (SUCH AS A PERSON'S CNP, A BOOK'S ISBN, OR A CAR'S SERIAL NUMBER) IS SOMETIMES CALLED A "NATURAL" KEY. IN PRACTICE, MOST DATABASES HAVE BOTH GENERATED AND NATURAL KEYS:
 * generated keys can be used internally to create links between rows that cannot break
