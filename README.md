@@ -935,125 +935,88 @@ The test suites have a different name depending on the application we use for te
  
 ##  Creation
  
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/TPvcmdr4/Screenshot-7.png">
+ <img src="https://i.postimg.cc/TPvcmdr4/Screenshot-7.png">
  
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/CLzGZBfN/Screenshot-1.png">
+ <img src="https://i.postimg.cc/CLzGZBfN/Screenshot-1.png">
 
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/ZRWfJ7Z8/Screenshot-2.png">
+ <img src="https://i.postimg.cc/ZRWfJ7Z8/Screenshot-2.png">
 
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/PqFJtdnN/Screenshot-4.png">
+ <img src="https://i.postimg.cc/PqFJtdnN/Screenshot-4.png">
  
  ## Length
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/6q1TQwvM/Screenshot-1.png">
- </picture>
+
+ <img src="https://i.postimg.cc/6q1TQwvM/Screenshot-1.png">
  
  ## Access Tuple Items
  
  ### We can access tuple items by referring to the index number, inside square brackets
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Xv8sDDFV/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/Xv8sDDFV/Screenshot-2.png">
+
+ <img src="https://i.postimg.cc/63812f2t/Screenshot-3.png">
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/63812f2t/Screenshot-3.png">
- </picture>
+ <img src="https://i.postimg.cc/rFsC8w42/Screenshot-4.png">
+
+ <img src="https://i.postimg.cc/kXN6Pr1P/Screenshot-5.png">
+
+ <img src="https://i.postimg.cc/TwQ74NzV/Screenshot-6.png">
+
+ <img src="https://i.postimg.cc/NFDY56Ps/Screenshot-1.png">
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/rFsC8w42/Screenshot-4.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/kXN6Pr1P/Screenshot-5.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/TwQ74NzV/Screenshot-6.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NFDY56Ps/Screenshot-1.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/QxFnBgzf/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/QxFnBgzf/Screenshot-2.png">
+
  
  ## Update
  
  * once a tuple is created, you cannot change its values. Tuples are unchangeable, or immutable as it also is called
  * but there is a workaround. You can convert the tuple into a list, change the list, and convert the list back into a tuple
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4dkRNLwk/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/4dkRNLwk/Screenshot-1.png">
  
  ### Since tuples are immutable, they do not have a build-in append() method, but there are other ways to add items to a tuple
    - convert into a list: Just like the workaround for changing a tuple, you can convert it into a list, add your item(s), and convert it back into a tuple
    - add tuple to a tuple. We are allowed to add tuples to tuples, so if you want to add one item, (or many), create a new tuple with the item(s), and add it to the existing tuple
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/htvX9vn4/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/htvX9vn4/Screenshot-2.png">
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4dg4FND9/Screenshot-3.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/4dg4FND9/Screenshot-3.png">
+
  ### When creating a tuple with only one item, remember to include a comma after the item, otherwise it will not be identified as a tuple
  
  ## Remove
  
  ### Tuples are unchangeable, so you cannot remove items from it, but you can use the same workaround as we used for changing and adding tuple items
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nhFPT8Sh/Screenshot-4.png">
- </picture>
+
+ <img src="https://i.postimg.cc/nhFPT8Sh/Screenshot-4.png">
  
  ## Unpack
  
  * when we create a tuple, we normally assign values to it. This is called "packing" a tuple
  * but, in Python, we are also allowed to extract the values back into variables. This is called "unpacking"
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/3wRpt9HG/Screenshot-5.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/8c5zSXtd/Screenshot-6.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/0QNsMMDP/Screenshot-7.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/3wRpt9HG/Screenshot-5.png">
+
+ <img src="https://i.postimg.cc/8c5zSXtd/Screenshot-6.png">
+
+ <img src="https://i.postimg.cc/0QNsMMDP/Screenshot-7.png">
+
   
  ## Loop 
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/1Xm8vh4s/Screenshot-1.png">
- </picture>
+
+ <img src="https://i.postimg.cc/1Xm8vh4s/Screenshot-1.png">
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/q7G0jtK6/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/q7G0jtK6/Screenshot-2.png">
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/xT41rbqw/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/xT41rbqw/Screenshot-1.png">
+
  
  ## Join 
- 
-   <picture>
+
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/LXCrqjdR/Screenshot-2.png">
- </picture>
- 
-   <picture>
+
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/yxWW9hkT/Screenshot-3.png">
- </picture>
- 
+
  ## Methods
  
    <picture>
