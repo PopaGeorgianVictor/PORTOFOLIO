@@ -780,244 +780,147 @@ The test suites have a different name depending on the application we use for te
  
  ## Methods
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/MZy3Y6xV/Screenshot-3.png">
- </picture>
+ <img src="https://i.postimg.cc/MZy3Y6xV/Screenshot-3.png">
  
  ## Creation
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/g2Hzq93B/Screenshot-7.png">
- </picture>
+ <img src="https://i.postimg.cc/g2Hzq93B/Screenshot-7.png">
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4xWS6wFT/Screenshot-8.png">
- </picture>
+ <img src="https://i.postimg.cc/4xWS6wFT/Screenshot-8.png">
  
  ## Type Function
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/HWrGzrqy/Screenshot-1.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/HWrGzrqy/Screenshot-1.png">
+
  ## The list() Constructor
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/dtqJBs9P/Screenshot-2.png">
- </picture>
- 
+ <img  src="https://i.postimg.cc/dtqJBs9P/Screenshot-2.png">
  
  ## Length 
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/bYSbBMjp/Screenshot-1.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/bYSbBMjp/Screenshot-1.png">
+
  ## Access List Items
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/132XWBMg/Screenshot-3.png">
- </picture>
+ <img src="https://i.postimg.cc/132XWBMg/Screenshot-3.png">
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/DfrCnYXT/Screenshot-4.png">
- </picture>
+ <img src="https://i.postimg.cc/DfrCnYXT/Screenshot-4.png">
+
+ <img src="https://i.postimg.cc/xCMS0yK4/Screenshot-1.png">
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/xCMS0yK4/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/rm1FhLYs/Screenshot-2.png">
+
+ <img src="https://i.postimg.cc/LXDh9pk7/Screenshot-3.png">
+
+ <img src="https://i.postimg.cc/LXDh9pk7/Screenshot-3.png">
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/rm1FhLYs/Screenshot-2.png">
- </picture>
- 
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/LXDh9pk7/Screenshot-3.png">
- </picture>
- 
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/LXDh9pk7/Screenshot-3.png">
- </picture>
  
  ## Check if Item Exists
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/d0v4p25B/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/d0v4p25B/Screenshot-1.png">
  
  ## Change Item Value
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/7YSxN4d2/Screenshot-2.png">
- </picture>
+  
+ <img src="https://i.postimg.cc/7YSxN4d2/Screenshot-2.png">
  
  ## Change a Range of Item Values
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/7YSxN4d2/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/7YSxN4d2/Screenshot-2.png">
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/GhnBRX1v/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/GhnBRX1v/Screenshot-1.png">
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/QMf5x1qh/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/QMf5x1qh/Screenshot-2.png">
+
  
  ## Insert Items
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fTxNdhgg/Screenshot-3.png">
- </picture>
- 
- 
+
+ <img src="https://i.postimg.cc/fTxNdhgg/Screenshot-3.png">
  
   ## Add Item
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Qx4FNJD0/Screenshot-1.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/Qx4FNJD0/Screenshot-1.png">
+
  ## Remove Item
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/J4fWQs5R/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/J4fWQs5R/Screenshot-2.png">
  
  ## Remove Specified Index
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nLdjtm47/Screenshot-4.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/nLdjtm47/Screenshot-4.png">
+
  ## Delete 
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/26cKv046/Screenshot-5.png">
- </picture>
+ <img src="https://i.postimg.cc/26cKv046/Screenshot-5.png">
  
  ## Clear 
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/j5bmRGcp/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/j5bmRGcp/Screenshot-1.png">
  
  ## Loop Through a List
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/3x2Z3Wqw/Screenshot-2.png">
- </picture>
- 
+ <img  src="https://i.postimg.cc/3x2Z3Wqw/Screenshot-2.png">
+
  ## Loop Through the Index Numbers
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/tCx3zYpz/Screenshot-3.png">
- </picture>
+
+ <img src="https://i.postimg.cc/tCx3zYpz/Screenshot-3.png">
  
  ## Using a While Loop
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/prGPh21h/Screenshot-4.png">
- </picture>
+ <img src="https://i.postimg.cc/prGPh21h/Screenshot-4.png">
  
  ## Looping Using List Comprehension
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/8zg0d8Qj/Screenshot-5.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/8zg0d8Qj/Screenshot-5.png">
+
  ## List Comprehension
  
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nLb9ckm8/Screenshot-6.png">
- </picture>
+ <img src="https://i.postimg.cc/nLb9ckm8/Screenshot-6.png">
 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NGDX7Syp/Screenshot-7.png">
- </picture>
+ <img src="https://i.postimg.cc/NGDX7Syp/Screenshot-7.png">
+
+ <img src="https://i.postimg.cc/mrWhGyzP/Screenshot-1.png">
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/mrWhGyzP/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/SNpyRxQP/Screenshot-2.png">
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/SNpyRxQP/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/137hGmPs/Screenshot-3.png">
+
+ <img src="https://i.postimg.cc/tC9L8Z49/Screenshot-4.png">
+
+ <img src="https://i.postimg.cc/7PnR1HMd/Screenshot-5.png">
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/137hGmPs/Screenshot-3.png">
- </picture>
+ <img src="https://i.postimg.cc/SxM7rVbR/Screenshot-6.png">
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/tC9L8Z49/Screenshot-4.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/7PnR1HMd/Screenshot-5.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/SxM7rVbR/Screenshot-6.png">
- </picture>
  
  ## Sorting
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/5ywNB8QQ/Screenshot-3.png">
- </picture>
+ <img src="https://i.postimg.cc/5ywNB8QQ/Screenshot-3.png">
+
+ <img src="https://i.postimg.cc/wB6J7TPk/Screenshot-4.png">
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/wB6J7TPk/Screenshot-4.png">
- </picture>
- 
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/PrWQxcJT/Screenshot-5.png">
- </picture>
- 
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/DzgNX0zf/Screenshot-6.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/PrWQxcJT/Screenshot-5.png">
+
+ <img src="https://i.postimg.cc/DzgNX0zf/Screenshot-6.png">
+
  ## Copy 
  
  ### We cannot copy a list simply by typing list2 = list1, because: list2 will only be a reference to list1, and changes made in list1 will automatically also be made in list2
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/pryhGV4x/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/pryhGV4x/Screenshot-1.png">
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/C5j16Z73/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/C5j16Z73/Screenshot-2.png">
  
  ## Join
  
 ### There are several ways to join, or concatenate, two or more lists in Python
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/8Pck60g8/Screenshot-1.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/65tnxwZr/Screenshot-3.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/bJwWB4Tp/Screenshot-1.png">
- </picture>
- 
-   <picture>     
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/F15PN6jf/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/8Pck60g8/Screenshot-1.png">
 
- 
- 
+ <img src="https://i.postimg.cc/65tnxwZr/Screenshot-3.png">
+
+ <img src="https://i.postimg.cc/bJwWB4Tp/Screenshot-1.png">
+    
+ <img src="https://i.postimg.cc/F15PN6jf/Screenshot-2.png">
  
  # Tuples
  
@@ -1032,21 +935,13 @@ The test suites have a different name depending on the application we use for te
  
 ##  Creation
  
-   <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/TPvcmdr4/Screenshot-7.png">
- </picture>
  
-  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/CLzGZBfN/Screenshot-1.png">
- </picture>
- 
-   <picture>
+
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/ZRWfJ7Z8/Screenshot-2.png">
- </picture>
- 
-   <picture>
+
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/PqFJtdnN/Screenshot-4.png">
- </picture>
  
  ## Length
  
