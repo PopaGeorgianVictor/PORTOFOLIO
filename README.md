@@ -1013,17 +1013,14 @@ The test suites have a different name depending on the application we use for te
  
  ## Join 
 
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/LXCrqjdR/Screenshot-2.png">
+ <img src="https://i.postimg.cc/LXCrqjdR/Screenshot-2.png">
 
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/yxWW9hkT/Screenshot-3.png">
+ <img src="https://i.postimg.cc/yxWW9hkT/Screenshot-3.png">
 
  ## Methods
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/br6CVPYh/Screenshot-4.png">
- </picture>
- 
- 
+ <img src="https://i.postimg.cc/br6CVPYh/Screenshot-4.png">
+
  # Sets
  
  ## Basics
@@ -1038,109 +1035,67 @@ The test suites have a different name depending on the application we use for te
  
  ## Creation
  
-  <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/76P0b2Dx/Screenshot-5.png">
- </picture>
- 
- 
-   <picture>
+   
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/bYBXHZLr/Screenshot-1.png">
- </picture>
- 
- 
+
  ## Length
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/wvY5dQ6M/Screenshot-2.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/wvY5dQ6M/Screenshot-2.png">
  
  ## Access Set Items
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NfGMLJbT/Screenshot-3.png">
- </picture>
+ <img src="https://i.postimg.cc/NfGMLJbT/Screenshot-3.png">
  
  ## Add Items
  
  * once a set is created, we cannot change its items, but you can add new items
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/h4dwTcZR/Screenshot-4.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/rpqcYzb4/Screenshot-5.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/x8LN3chZ/Screenshot-6.png">
- </picture>
+
+ <img src="https://i.postimg.cc/h4dwTcZR/Screenshot-4.png">
+
+ <img src="https://i.postimg.cc/rpqcYzb4/Screenshot-5.png">
+
+ <img src="https://i.postimg.cc/x8LN3chZ/Screenshot-6.png">
  
  ## Remove
  
  ### To remove an item in a set, use the remove(), or the discard() method
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/633hcLfm/Screenshot-7.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vBf53q6X/Screenshot-8.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/cC60djMB/Screenshot-9.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/0NQsYFhR/Screenshot-10.png">
- </picture>
+ <img src="https://i.postimg.cc/633hcLfm/Screenshot-7.png">
+
+ <img src="https://i.postimg.cc/vBf53q6X/Screenshot-8.png">
+
+ <img src="https://i.postimg.cc/cC60djMB/Screenshot-9.png">
+
+ <img src="https://i.postimg.cc/0NQsYFhR/Screenshot-10.png">
  
  ## Loop
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/MKTNrVdV/Screenshot-11.png">
- </picture>
- 
+ <img  src="https://i.postimg.cc/MKTNrVdV/Screenshot-11.png">
+
  ## Join
  
  ### We can use the union() method that returns a new set containing all items from both sets, or the update() method that inserts all the items from one set into another
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fW34C15D/Screenshot-12.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/CKfDmhZb/Screenshot-1.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/fW34C15D/Screenshot-12.png">
+
+ <img src="https://i.postimg.cc/CKfDmhZb/Screenshot-1.png">
+
  ### Both union() and update() will exclude any duplicate items
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vHMJyDbH/Screenshot-2.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/0NdSLtfN/Screenshot-3.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/QMx5ZQnk/Screenshot-4.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/2j45Tq0z/Screenshot-5.png">
- </picture>
+ <img src="https://i.postimg.cc/vHMJyDbH/Screenshot-2.png">
+
+ <img src="https://i.postimg.cc/0NdSLtfN/Screenshot-3.png">
+
+ <img src="https://i.postimg.cc/QMx5ZQnk/Screenshot-4.png">
+
+ <img src="https://i.postimg.cc/2j45Tq0z/Screenshot-5.png">
+
  
  ## Methods
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/LX3rgMVM/Screenshot-6.png">
- </picture>
- 
- 
- 
+  
+ <img src="https://i.postimg.cc/LX3rgMVM/Screenshot-6.png">
+
  # Dictionaries
  
  ## Basics
@@ -1152,50 +1107,33 @@ The test suites have a different name depending on the application we use for te
  
  ## Creation
  
- 
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vHzgGPxg/Screenshot-7.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Px5hz4rc/Screenshot-1.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vZC3vH8d/Screenshot-2.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/vHzgGPxg/Screenshot-7.png">
+
+ <img src="https://i.postimg.cc/Px5hz4rc/Screenshot-1.png">
+
+ <img src="https://i.postimg.cc/vZC3vH8d/Screenshot-2.png">
+
  ## Length
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/CMj5hvnC/Screenshot-3.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/CMj5hvnC/Screenshot-3.png">
+
  ## Accessing Items
  
  ### We can access the items of a dictionary by referring to its key name, inside square brackets
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Y9SZSN7z/Screenshot-4.png">
- </picture>
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/3xnPQb5x/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/Y9SZSN7z/Screenshot-4.png">
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/gjHgqnG2/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/3xnPQb5x/Screenshot-1.png">
+
+ <img src="https://i.postimg.cc/gjHgqnG2/Screenshot-2.png">
+
  
  ### The list of the keys is a view of the dictionary, meaning that any changes done to the dictionary will be reflected in the keys list
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/VN5sxCh2/Screenshot-3.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/tCmMrnhs/Screenshot-4.png">
- </picture>
- 
+
+ <img src="https://i.postimg.cc/VN5sxCh2/Screenshot-3.png">
+
+ <img src="https://i.postimg.cc/tCmMrnhs/Screenshot-4.png">
+
  ### The list of the values is a view of the dictionary, meaning that any changes done to the dictionary will be reflected in the values list
    <picture>
  <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/VkQjLYw7/Screenshot-5.png">
