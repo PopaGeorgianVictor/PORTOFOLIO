@@ -1782,6 +1782,8 @@ Examples of design patterns:
  
 ## RELATIONAL DATABASES
  
+ <img src="https://i.postimg.cc/QtJRH5RV/Screenshot-1.png" width="50%">
+ 
  THREE KEY TERMS ARE USED EXTENSIVELY IN RELATIONAL DATABASE MODELS: RELATIONS,ATTRIBUTES, AND DOMAINS.
 * a relation is a table with columns and rows
 * the named columns of the relation are called attributes
