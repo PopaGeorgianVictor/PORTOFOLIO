@@ -1841,6 +1841,19 @@ CNP, except when the social security numbers are incorrect, missing, or have cha
 * THE REFERENCING AND REFERENCED TABLE MAY BE THE SAME TABLE. A TABLE MAY HAVE MULTIPLE FOREIGN KEYS, AND EACH FOREIGN KEY CAN HAVE A DIFFERENT REFERENCED TABLE.
 * <strong>CASCADING UPDATE AND CASCADING DELETE</strong> ENSURE THAT CHANGES MADE TO THE LINKED TABLE ARE REFLECTED IN THE PRIMARY TABLE.
  
+ ## DATA DEFINITION LANGUAGE
+ 
+ * SQL = STRUCTURED QUERY LANGUAGE
+ * SQL COMMANDS CAN BE DIVIDED INTO TWO MAIN SUBLANGUAGES.
+ <strong>The Data Definition Language (DDL) </strong> contains the commands used to create and destroy databases and database objects. After the database structure is defined with DDL,
+ database administrators and users can utilize the <strong>Data Manipulation Language</strong> to insert, retrieve and modify the data contained within it.
+ 
+#### THERE ARE THREE BASIC DDL COMMANDS:
+ 
+#### CREATE
+#### ALTER
+#### DROP
+ 
   <img src="https://i.postimg.cc/6qHhyLtW/1.png" width="70%">
  
  <img src="https://i.postimg.cc/7YGz3yNM/2.png" width="70%">
