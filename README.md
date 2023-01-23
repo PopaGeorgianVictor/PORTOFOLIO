@@ -1799,9 +1799,7 @@ THE BASIC DATA STRUCTURE OF THE RELATIONAL MODEL IS THE TABLE, WHERE INFORMATION
 <details>
 <summary>Courses</summary>
 
-  <picture>
  <img src="https://i.postimg.cc/ydb92Lqp/Screenshot-2.png">
- </picture>
- 
+
 </details>
 
