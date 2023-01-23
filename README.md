@@ -1782,7 +1782,7 @@ Examples of design patterns:
  
 ## RELATIONAL DATABASES
  
- <img src="https://i.postimg.cc/QtJRH5RV/Screenshot-1.png" width="50%">
+ <img src="https://i.postimg.cc/kGm96q1X/Screenshot-2.png" width = "70%">
  
  THREE KEY TERMS ARE USED EXTENSIVELY IN RELATIONAL DATABASE MODELS: RELATIONS,ATTRIBUTES, AND DOMAINS.
 * a relation is a table with columns and rows
@@ -1795,6 +1795,18 @@ THE BASIC DATA STRUCTURE OF THE RELATIONAL MODEL IS THE TABLE, WHERE INFORMATION
 * the columns enumerate the various attributes of the entity (the employee's name, address or phone number, for example).
 * a row is an actual instance of the entity (a specific employee) that is represented by the relation
 * as a result, each tuple of the employee table represents various attributes of a single employee
+ 
+ ALL RELATIONS (AND, THUS, TABLES) IN A RELATIONAL DATABASE HAVE TO ADHERE TO SOME BASIC RULES TO QUALIFY AS RELATIONS.
+* the ordering of columns is immaterial in a table.
+* there can't be identical tuples or rows in a table.
+* each tuple will contain a single value for each of its attributes.
+ 
+ A RELATIONAL DATABASE CONTAINS MULTIPLE TABLES, EACH SIMILAR TO THE ONE IN THE"FLAT" DATABASE MODEL.ANY VALUE OCCURRING IN TWO DIFFERENT RECORDS (BELONGING TO THE SAME TABLE OR TO DIFFERENT TABLES), IMPLIES A RELATIONSHIP AMONG THOSE TWO RECORDS.IN ORDER TO ENFORCE EXPLICIT INTEGRITY CONSTRAINTS, RELATIONSHIPS BETWEEN
+RECORDS IN TABLES CAN ALSO BE DEFINED EXPLICITLY, BY IDENTIFYING OR NON-IDENTIFYING PARENT-CHILD RELATIONSHIPS CHARACTERIZED BY ASSIGNING CARDINALITY.
+* 1:1 – usually when a table contains a lot of columns and is used to split is a table in two in
+order to optimize access or limit the visibility of some information
+* 1:n - a department has a number of employees
+* m:n - each employee has a number of children
  
 </details>
  
