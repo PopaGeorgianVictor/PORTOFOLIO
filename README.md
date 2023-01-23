@@ -1135,102 +1135,68 @@ The test suites have a different name depending on the application we use for te
  <img src="https://i.postimg.cc/tCmMrnhs/Screenshot-4.png">
 
  ### The list of the values is a view of the dictionary, meaning that any changes done to the dictionary will be reflected in the values list
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/VkQjLYw7/Screenshot-5.png">
- </picture>
- 
+  
+ <img src="https://i.postimg.cc/VkQjLYw7/Screenshot-5.png">
+
  ## Change 
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/pVkWLkt3/Screenshot-6.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/ZYQQHyPC/Screenshot-7.png">
- </picture>
- 
- 
+ <img src="https://i.postimg.cc/pVkWLkt3/Screenshot-6.png">
+
+ <img src="https://i.postimg.cc/ZYQQHyPC/Screenshot-7.png">
+
  ## Add 
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fy5mHdpk/Screenshot-1.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/h4CX5KhJ/Screenshot-2.png">
- </picture>
- 
+
+ <img src="https://i.postimg.cc/fy5mHdpk/Screenshot-1.png">
+
+ <img src="https://i.postimg.cc/h4CX5KhJ/Screenshot-2.png">
+
  ## Remove
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/HL2Y8tyJ/Screenshot-3.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/2STjVwv1/Screenshot-4.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/CLxS989Y/Screenshot-5.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/HL2Y8tyJ/Screenshot-3.png">
+
+ <img src="https://i.postimg.cc/2STjVwv1/Screenshot-4.png">
+
+ <img src="https://i.postimg.cc/CLxS989Y/Screenshot-5.png">
+
  ## Loop
  
  ### We can loop through a dictionary by using a for loop
  
  * when looping through a dictionary, the return value are the keys of the dictionary, but there are methods to return the values as well
  
+ <img src="https://i.postimg.cc/nrTyhCym/Screenshot-1.png">
 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nrTyhCym/Screenshot-1.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/cHvhn6tY/Screenshot-2.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/q7yMMxjC/Screenshot-3.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/g01XgK2M/Screenshot-4.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/2SptNsXm/Screenshot-5.png">
- </picture>
+ <img src="https://i.postimg.cc/cHvhn6tY/Screenshot-2.png">
+
+ <img src="https://i.postimg.cc/q7yMMxjC/Screenshot-3.png">
+
+ <img src="https://i.postimg.cc/g01XgK2M/Screenshot-4.png">
+
+ <img src="https://i.postimg.cc/2SptNsXm/Screenshot-5.png">
+
  
  ## Copy
  
  ### We cannot copy a dictionary simply by typing dict2 = dict1, because: dict2 will only be a reference to dict1, and changes made in dict1 will automatically also be made in dict2
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Gh2yDTft/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/Gh2yDTft/Screenshot-1.png">
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/7YmjBdXX/Screenshot-2.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/7YmjBdXX/Screenshot-2.png">
+
  ## Nested
  
  ### A dictionary can contain dictionaries, this is called nested dictionaries
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/YCJ73TqZ/Screenshot-3.png">
- </picture>
- 
+
+ <img src="https://i.postimg.cc/YCJ73TqZ/Screenshot-3.png">
+
  ### Or, if we want to add three dictionaries into a new dictionary
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/rwhj2LtZ/Screenshot-4.png">
- </picture>
- 
+
+ <img src="https://i.postimg.cc/rwhj2LtZ/Screenshot-4.png">
+
  ## Methods
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fyJZ5sm4/Screenshot-1.png">
- </picture>
- 
- 
+
+ <img src="https://i.postimg.cc/fyJZ5sm4/Screenshot-1.png">
+
  # Functions
  
  ## Basics
@@ -1256,96 +1222,69 @@ The test suites have a different name depending on the application we use for te
 
  ## Creating 
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zfPgqXfc/Screenshot-1.png">
- </picture>
  
+ <img src="https://i.postimg.cc/zfPgqXfc/Screenshot-1.png">
+
  ## Calling
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/qMkMZHJh/Screenshot-2.png">
- </picture>
+
+ <img  src="https://i.postimg.cc/qMkMZHJh/Screenshot-2.png">
  
  ## Arguments/Parameters
  
  * information can be passed into functions as arguments
  * arguments are specified after the function name, inside the parentheses. You can add as many arguments as you want, just separate them with a comma
 
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/FRz35kgq/Screenshot-3.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/FRz35kgq/Screenshot-3.png">
  
  * ### by default, a function must be called with the correct number of arguments. Meaning that if your function expects 2 arguments, you have to call the function with 2 arguments, not more, and not less
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/0yB19LpN/Screenshot-4.png">
- </picture>
- 
+
+ <img  src="https://i.postimg.cc/0yB19LpN/Screenshot-4.png">
+
  ### Arbitrary Arguments, *args
  
  * if you do not know how many arguments that will be passed into your function, add a * before the parameter name in the function definition
  * this way the function will receive a tuple of arguments, and can access the items accordingly
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/ZR3BhGMk/Screenshot-5.png">
- </picture>
- 
+
+ <img src="https://i.postimg.cc/ZR3BhGMk/Screenshot-5.png">
+
  ### Keyword Arguments
  
  * we can also send arguments with the key = value syntax
  * this way the order of the arguments does not matter
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/50wBmQ1F/Screenshot-6.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/50wBmQ1F/Screenshot-6.png">
+
   ### Arbitrary Keyword Arguments, **kwargs
   
   * if we do not know how many keyword arguments that will be passed into your function, add two asterisk: ** before the parameter name in the function definition
   * this way the function will receive a dictionary of arguments, and can access the items accordingly
   
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/yxR8R0zw/Screenshot-7.png">
- </picture>
+ <img src="https://i.postimg.cc/yxR8R0zw/Screenshot-7.png">
  
   ### Passing a List as an Argument
  
  * we can send any data types of argument to a function (string, number, list, dictionary etc.), and it will be treated as the same data type inside the function
   
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zDkJsDGw/Screenshot-9.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/zDkJsDGw/Screenshot-9.png">
+
  ### Default Parameter Value
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/2ygBRzzf/Screenshot-8.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/2ygBRzzf/Screenshot-8.png">
  
  ## Return 
-  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zDkJsDGw/Screenshot-9.png">
- </picture>
  
- 
+ <img src="https://i.postimg.cc/zDkJsDGw/Screenshot-9.png">
+
  ## The pass Statement
  
  * function definitions cannot be empty, but if you for some reason have a function definition with no content, put in the pass statement to avoid getting an error.
-  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/t4VSZ57X/Screenshot-10.png">
- </picture>
+ 
+ <img src="https://i.postimg.cc/t4VSZ57X/Screenshot-10.png">
  
   # Classes/Objects 
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/902PLrW8/Screenshot-1.png">
- </picture>
- 
+
+ <img src="https://i.postimg.cc/902PLrW8/Screenshot-1.png">
+
   ## Basics
  
   * object-oriented programming (OOP) is a method of structuring a program by bundling related properties and behaviors into individual objects
@@ -1357,16 +1296,12 @@ The test suites have a different name depending on the application we use for te
   
   ## Create a Class
   
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/tRwCdXwG/Screenshot-1.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/tRwCdXwG/Screenshot-1.png">
+
   ## Create Object
   
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Y0B7VxFN/Screenshot-2.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/Y0B7VxFN/Screenshot-2.png">
+
   ## The __init__() Function
   
 * the examples above are classes and objects in their simplest form, and are not really useful in real life applications
@@ -1375,29 +1310,23 @@ The test suites have a different name depending on the application we use for te
 * use the __init__() function to assign values to object properties, or other operations that are necessary to do when the object is being created
 * this function also called constructor  
   
-    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/76n4F2np/Screenshot-3.png">
- </picture>
+ <img src="https://i.postimg.cc/76n4F2np/Screenshot-3.png">
  
- ### Note: The __init__() function is called automatically every time the class is being used to create a new object
+ ### Note: Te __init__() function is called automatically every time the class is being used to create a new object
  
   ## The __str__() Function
   
   * the __str__() function controls what should be returned when the class object is represented as a string
   * if the __str__() function is not set, the string representation of the object is returned
   
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4x1V88DG/Screenshot-4.png">
- </picture>
+ <img src="https://i.postimg.cc/4x1V88DG/Screenshot-4.png">
  
   ## Object Methods
   
   * objects can also contain methods. Methods in objects are functions that belong to the object
   * let's go and create a method in the Person class
   
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/L5z3mmbY/Screenshot-5.png">
- </picture>
+ <img src="https://i.postimg.cc/L5z3mmbY/Screenshot-5.png">
  
  ### Note: The self parameter is a reference to the current instance of the class, and is used to access variables that belong to the class
  
@@ -1406,22 +1335,15 @@ The test suites have a different name depending on the application we use for te
  * the self parameter is a reference to the current instance of the class, and is used to access variables that belongs to the class
  * it does not have to be named self , you can call it whatever you like, but it has to be the first parameter of any function in the class
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/gJpv4CJG/Screenshot-6.png">
- </picture>
+ <img src="https://i.postimg.cc/gJpv4CJG/Screenshot-6.png">
  
  ## Modify Object Properties
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/KzKRPQ7m/Screenshot-7.png">
- </picture>
+
+ <img src="https://i.postimg.cc/KzKRPQ7m/Screenshot-7.png">
  
  # The Four Pillars
  
-  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/50bq3X9P/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/50bq3X9P/Screenshot-2.png">
  
  ## Inheritance
  
