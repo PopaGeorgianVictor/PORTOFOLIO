@@ -1495,19 +1495,13 @@ The test suites have a different name depending on the application we use for te
  
  * use this when you want to locate an element by tag name. With this strategy, the first element with the given tag name will be returned. If no element has a matching tag name, a NoSuchElementException will be raised
  
-    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/bJHMbY2J/Screenshot-4.png">
- </picture>
+ <img src="https://i.postimg.cc/bJHMbY2J/Screenshot-4.png">
  
  ### Class Name
  
  * use this when you want to locate an element by class name. With this strategy, the first element with the matching class name attribute will be returned. If no element has a matching class name attribute, a NoSuchElementException will be raised
- 
-  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Bb7mcjZq/Screenshot-5.png">
- </picture>
- 
+
+ <img src="https://i.postimg.cc/Bb7mcjZq/Screenshot-5.png">
 
  ### CSS Selectors
  
@@ -1547,9 +1541,7 @@ The test suites have a different name depending on the application we use for te
  *  ^ start with word
  *  $ ends with word * 
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/YCCWBdxy/Screenshot-6.png">
- </picture>
+ <img src="https://i.postimg.cc/YCCWBdxy/Screenshot-6.png">
  
 ### XPath
  
@@ -1564,94 +1556,69 @@ The test suites have a different name depending on the application we use for te
 
 * //tag[@attribute='value']
 * //*[@attribute='value']
- 
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/WzzBvLh1/Screenshot-7.png">
- </picture>
+
+ <img src="https://i.postimg.cc/WzzBvLh1/Screenshot-7.png">
  
  ## Interacting with Webpage
  
  ### Performing click event : 
+ 
  * the click() method is used to perform click operation on any web element
  
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/RhQxdQ6c/Screenshot-1.png">
- </picture>
- 
-   
+ <img src="https://i.postimg.cc/RhQxdQ6c/Screenshot-1.png">
+
  ### Sending inputs : 
+ 
  * the send.keys('text') method is used to  enter text into a field
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/YqZz8K7z/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/YqZz8K7z/Screenshot-2.png">
  
  ### Clearing inputs : 
+ 
  * the clear() method is used to clear the inputs from the text box
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/SQXr9xFx/Screenshot-3.png">
- </picture>
+ <img src="https://i.postimg.cc/SQXr9xFx/Screenshot-3.png">
  
  ### Navigating backward/forward in browser history : 
  * the back() method is used to return to previous page 
  * the forward() method is used to go to the next page
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/FRkLY1dt/Screenshot-4.png">
- </picture>
- 
- 
+ <img src="https://i.postimg.cc/FRkLY1dt/Screenshot-4.png">
+
  ### Refresh/reload a web page : 
  * the refresh() method is used to reload page
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/0yr2kFKF/Screenshot-5.png">
- </picture>
+ <img src="https://i.postimg.cc/0yr2kFKF/Screenshot-5.png">
  
  ### Closing browser : 
  * the close() method is used to close current tab and quit() is used to close all tabs
  
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/hjnBd5hS/Screenshot-6.png">
- </picture>
- 
- 
+ <img  src="https://i.postimg.cc/hjnBd5hS/Screenshot-6.png">
+
  ### Maximize web window :
  * the maximize_window() method is used to maximize web window
 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/44MW2hbc/Screenshot-7.png">
- </picture>
+ <img src="https://i.postimg.cc/44MW2hbc/Screenshot-7.png">
  
  # Waits 
  
  * most of the web apps are using AJAX techniques. When a page is loaded by the browser, the elements within that page may load at different time intervals. This makes locating elements difficult: if an element is not yet present in the DOM, a locate function will raise an ElementNotVisibleException exception. Using waits, we can solve this issue. Waiting provides some slack between actions performed - mostly locating an element or any other operation with the element
  * selenium Webdriver provides two types of waits - implicit & explicit. An explicit wait makes WebDriver wait for a certain condition to occur before proceeding further with execution. An implicit wait makes WebDriver poll the DOM for a certain amount of time when trying to locate an element.
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vZx4YBvF/Screenshot-1.png">
- </picture>
- 
+ <img  src="https://i.postimg.cc/vZx4YBvF/Screenshot-1.png">
+
  ## Implicit Waits
  
  * an implicit wait tells WebDriver to poll the DOM(Document Object Model) for a certain amount of time when trying to find any element (or elements) not immediately available. The default setting is 0. Once set, the implicit wait is set for the life of the WebDriver object
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/t4PRnPDN/Screenshot-8.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/t4PRnPDN/Screenshot-8.png">
+
  ## Explicit Waits
  
  * an explicit wait is a code you define to wait for a certain condition to occur before proceeding further in the code. The extreme case of this is time.sleep(), which sets the condition to an exact time period to wait. There are some convenience methods provided that help you write code that will wait only as long as required. WebDriverWait in combination with ExpectedCondition is one way this can be accomplished
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/brxCbpPm/Screenshot-1.png">
- </picture>
- 
+
+ <img src="https://i.postimg.cc/brxCbpPm/Screenshot-1.png">
+
  #### This waits up to 10 seconds before throwing a TimeoutException unless it finds the element to return within 10 seconds. WebDriverWait by default calls the ExpectedCondition every 500 milliseconds until it returns successfully.
  
 #### Some of expected condition
@@ -1670,113 +1637,69 @@ The test suites have a different name depending on the application we use for te
  
  # Handling Complex Element
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/3xd51wMm/Screenshot-1.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/3xd51wMm/Screenshot-1.png">
+
  ## Radio Button
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/KjFhRQWN/Screenshot-1.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/KjFhRQWN/Screenshot-1.png">
+
  ## Checkboxes
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/mr5tQsjr/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/mr5tQsjr/Screenshot-1.png">
  
  ## Dropdown
  
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vTqKfKs7/Screenshot-1.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/vTqKfKs7/Screenshot-1.png"> 
   
 ## Is Element Present ?
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Zq5hy33S/Screenshot-2.png">
- </picture>
- 
 
-
+ <img src="https://i.postimg.cc/Zq5hy33S/Screenshot-2.png">
+ 
 ## Windows & Tabs
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/gjLYDyQf/Screenshot-1.png">
- </picture>
+
+ <img  src="https://i.postimg.cc/gjLYDyQf/Screenshot-1.png">
  
  ## iFrames
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/VL8rpwq7/Screenshot-1.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/hPwdsYDs/Screenshot-2.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/9F5NrLT4/Screenshot-3.png">
- </picture>
+
+
+ <img src="https://i.postimg.cc/VL8rpwq7/Screenshot-1.png">
+
+ <img  src="https://i.postimg.cc/hPwdsYDs/Screenshot-2.png">
+
+ <img src="https://i.postimg.cc/9F5NrLT4/Screenshot-3.png">
  
  
   ## Alerts. Prompt. Confirm
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/hvp7VSTT/Screenshot-4.png">
- </picture>
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/xCPkS0sh/Screenshot-5.png">
- </picture>
+ <img  src="https://i.postimg.cc/hvp7VSTT/Screenshot-4.png">
+
+ <img  src="https://i.postimg.cc/xCPkS0sh/Screenshot-5.png">
 
  
- 
  # Handling Complex User Gestures
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/7Yfxw58Q/Screenshot-2.png">
- </picture>
- 
+
+ <img  src="https://i.postimg.cc/7Yfxw58Q/Screenshot-2.png">
  
  ## Mouse Hover
  
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/sDrncKS2/Screenshot-2.png">
- </picture>
- 
- 
+ <img  src="https://i.postimg.cc/sDrncKS2/Screenshot-2.png">
+
  ## Right Click
  
- 
-  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/25MGBxrr/Screenshot-3.png">
- </picture>
- 
+ <img  src="https://i.postimg.cc/25MGBxrr/Screenshot-3.png">
  
 ## Resizable
 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/7hX0VTbZ/Screenshot-1.png">
- </picture>
+ <img  src="https://i.postimg.cc/7hX0VTbZ/Screenshot-1.png">
 
 ## Sliders
 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/90V3PQQL/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/90V3PQQL/Screenshot-1.png">
 
 
 # BDD-POM
 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/bvqGjZp3/1-V3-Cy-C87v-5oj6icm-Weu-fg.jpg">
- </picture>
-
+ <img src="https://i.postimg.cc/bvqGjZp3/1-V3-Cy-C87v-5oj6icm-Weu-fg.jpg">
 
 ### BDD: Behavior Driven Development
 
