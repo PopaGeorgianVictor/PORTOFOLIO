@@ -1822,6 +1822,25 @@ order to optimize access or limit the visibility of some information
 * for example, records in two independently developed databases could be matched up by
 CNP, except when the social security numbers are incorrect, missing, or have changed
  
+ 
+ ### DATABASE INTEGRITY,CONSTRAINTS
+ 
+#### CONSTRAINTS ALLOW US TO DEFINE THE WAYS IN WHICH WE CAN AUTOMATICALLY ENFORCE THE INTEGRITY OF A DATABASE. CONSTRAINTS DEFINE RULES REGARDING PERMISSIBLE VALUES ALLOWED IN COLUMNS AND ARE THE STANDARD MECHANISM FOR ENFORCING INTEGRITY.
+ TYPES OF CONSTRAINTS: 
+* Domain Constraints: A Domain constraint deals with one or more columns. It is important to ensure that a particular column or a set of columns meets particular criteria. When you insert or update a row, the constraint is applied without respect to any other row in the table. The focus is on the data that is in the column(Check constraints, Default constraints).
+* Entity Constraints: Entity constraints are all about individual rows. This constraint ignores the column as a whole and focuses on a particular row. This can be best exemplified by a constraint that requires every row to have a unique value for a column or a combination of columns.This is to ensure that for a particular row, the same value does notalready exist in some other row (Primary key and Unique constraints).
+* Referential Integrity Constraints: Referential integrity constraints are created when a value in one column must match the value in another column. It can either be in the same table or more typically, a different table.
+ 
+ ### REFERENTIAL INTEGRITY
+ 
+ REFERENTIAL INTEGRITY IS A DATABASE CONCEPT THAT ENSURES THAT <strong> RELATIONSHIPS BETWEEN TABLES REMAIN CONSISTENT</strong>. WHEN ONE TABLE HAS A FOREIGN KEY TO ANOTHER TABLE, THE CONCEPT OF REFERENTIAL INTEGRITY STATES THAT YOU MAY NOT ADD A RECORD TO THE TABLE THAT CONTAINS THE FOREIGN KEY UNLESS THERE IS A CORRESPONDING RECORD IN THE LINKED TABLE.
+* A <strong>FOREIGN KEY</strong> IS A REFERENTIAL CONSTRAINT BETWEEN TWO TABLES.
+* THE FOREIGN KEY IDENTIFIES <i> A COLUMN OR A SET OF COLUMNS IN ONE (REFERENCING) TABLE THAT REFERS TO A COLUMN OR SET OF COLUMNS IN ANOTHER (REFERENCED)TABLE</i>.
+* THE COLUMNS IN THE REFERENCING TABLE MUST BE THE PRIMARY KEY OR OTHER CANDIDATE KEY IN THE REFERENCED TABLE. THE VALUES IN ONE ROW OF THE REFERENCING COLUMNS MUST OCCUR IN A SINGLE ROW IN THE REFERENCED TABLE.
+* A ROW IN THE REFERENCING TABLE CANNOT CONTAIN VALUES THAT DON'T EXIST IN THE REFERENCED TABLE (EXCEPT POTENTIALLY NULL).
+* THE REFERENCING AND REFERENCED TABLE MAY BE THE SAME TABLE. A TABLE MAY HAVE MULTIPLE FOREIGN KEYS, AND EACH FOREIGN KEY CAN HAVE A DIFFERENT REFERENCED TABLE.
+* <strong>CASCADING UPDATE AND CASCADING DELETE</strong> ENSURE THAT CHANGES MADE TO THE LINKED TABLE ARE REFLECTED IN THE PRIMARY TABLE.
+ 
   <img src="https://i.postimg.cc/6qHhyLtW/1.png" width="70%">
  
  <img src="https://i.postimg.cc/7YGz3yNM/2.png" width="70%">
