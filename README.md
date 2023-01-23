@@ -554,17 +554,15 @@ The test suites have a different name depending on the application we use for te
  * ### working with PyCharm IDE
  
  # PYTHON
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/s2z3dhx6/Screenshot-1.png">
- </picture>
- 
+
+ <img src="https://i.postimg.cc/s2z3dhx6/Screenshot-1.png">
+
  
  # Variables. Data Types 
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/yNydXyPt/Screenshot-7.png">
- </picture>
+
+ <img src="https://i.postimg.cc/yNydXyPt/Screenshot-7.png">
+
  
  * python variables are the containers that we store data values in them
  * when we assing this value, the variable is automatically created
@@ -574,25 +572,15 @@ The test suites have a different name depending on the application we use for te
  * variables can be overwritten
  * data types are properties of variables, functions or methods that instruct the system about the stored value (for variables) or the returned result (for functions and    methods)
  
+
+ <img src="https://i.postimg.cc/cLdPZyfW/Screenshot-1.png">
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/cLdPZyfW/Screenshot-1.png">
- </picture>
- 
- 
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/cLfPG1vX/Screenshot-1.png">
- </picture>
- 
- 
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Rh3c5FZF/Screenshot-3.png">
- </picture>
- 
- 
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zXwX0NJY/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/cLfPG1vX/Screenshot-1.png">
+
+ <img  src="https://i.postimg.cc/Rh3c5FZF/Screenshot-3.png">
+
+ <img src="https://i.postimg.cc/zXwX0NJY/Screenshot-1.png">
+
  
 ## Basic rules for naming variables:
 
@@ -601,25 +589,17 @@ The test suites have a different name depending on the application we use for te
 * it must not start with numbers
 * it must not start with special characters
  
-  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/pXMD1KFh/Screenshot-2.png">
- </picture>
+ 
+ <img src="https://i.postimg.cc/pXMD1KFh/Screenshot-2.png">
 
  
  ## Type() Function
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/fRN7rm1q/Screenshot-1.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/fRN7rm1q/Screenshot-1.png">
  
  ## String Format and Input Function
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/1tZRw0XP/Screenshot-1.png">
- </picture>
-
+ <img src="https://i.postimg.cc/1tZRw0XP/Screenshot-1.png">
 
 # Operators
  
@@ -635,22 +615,17 @@ The test suites have a different name depending on the application we use for te
  * ### Bitwise operators
  
  ##  Arithmetic operators
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/4NHJ40yS/Screenshot-1.png">
- </picture>
- 
+
+ <img  src="https://i.postimg.cc/4NHJ40yS/Screenshot-1.png">
+
  ## Assignment operators
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/pX81VNbr/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/pX81VNbr/Screenshot-1.png">
  
  ## Comparison operators
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Jtw63xJR/Screenshot-1.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/Jtw63xJR/Screenshot-1.png">
+
  ## Logical operators
  
  ### To combine conditional statements, we use python logical operators. There are three logical operators in python. These are:
@@ -659,16 +634,10 @@ The test suites have a different name depending on the application we use for te
  * or operator returns True, if one of the statements is true
  * not operator reverse the result, returns False if the result is true
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/437mh1J8/317014639-5554931907888785-2170159366802940526-n.jpg">
- </picture>
+ <img src="https://i.postimg.cc/437mh1J8/317014639-5554931907888785-2170159366802940526-n.jpg">
  
-   
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Dzn77dSJ/Screenshot-1.png">
- </picture>
- 
- 
+ <img  src="https://i.postimg.cc/Dzn77dSJ/Screenshot-1.png">
+
  ## Identity operators
  
  ### Python Identity Operators are the operators that are used to compare the objects. This is not only a comparison about their value, but also their location in the memory. These operators check that if they are the same object or not. Below, you can find these Python Identity Operators
@@ -676,10 +645,7 @@ The test suites have a different name depending on the application we use for te
  * is operator checks that if both objects are the same object. If yes, it returns True
  * is not operator checks that if both objects are different objects. If yes, it returns True
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/C1HNW8R4/Screenshot-1.png">
- </picture>
- 
+ <img  src="https://i.postimg.cc/C1HNW8R4/Screenshot-1.png">
  
  ## Membership operators
  
@@ -688,11 +654,8 @@ The test suites have a different name depending on the application we use for te
  * in operator returns True, if it finds the value as a member in the sequence
  * not in operator return True, if it do not find the value as a members in the sequence
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/htgRQkmy/Screenshot-1.png">
- </picture>
- 
- 
+ <img src="https://i.postimg.cc/htgRQkmy/Screenshot-1.png">
+
  ## Bitwise operators
  
  ### Lastly, we will talk about Bitwise operators of python. These operators are used to compare binary numbers in python programming
@@ -714,77 +677,45 @@ The test suites have a different name depending on the application we use for te
  ## Indentation
  
  ### Python relies on indentation (whitespace at the beginning of a line) to define scope in the code. Other programming languages often use curly-brackets for this purpose
- 
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/rpvMPYG0/Screenshot-1.png">
- </picture>
- 
+
+ <img src="https://i.postimg.cc/rpvMPYG0/Screenshot-1.png">
+
  ## We can only use if statement :
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/GtLbY9Hp/Screenshot-2.png">
- </picture>
+ <img  src="https://i.postimg.cc/GtLbY9Hp/Screenshot-2.png">
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/N0pRh2m6/Screenshot-2.png">
- </picture>
+ <img  src="https://i.postimg.cc/N0pRh2m6/Screenshot-2.png">
  
  ### We can use if and else statements together :
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/BnDRS4n7/Screenshot-1.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/J4Z7HwTv/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/BnDRS4n7/Screenshot-1.png">
 
+ <img src="https://i.postimg.cc/J4Z7HwTv/Screenshot-1.png">
+
+ <img src="https://i.postimg.cc/zGdf8C2G/Screenshot-2.png">
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zGdf8C2G/Screenshot-2.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/SxnBYcNs/Screenshot-1.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/SxnBYcNs/Screenshot-1.png">
  
  ## We can use one or more elif with if and else statements :
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/029Zb4qn/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/029Zb4qn/Screenshot-1.png">
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/d0WpQKfz/Screenshot-3.png">
- </picture>
- 
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NFvt6cx5/Screenshot-1.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zvYLV4bk/Screenshot-1.png">
- </picture>
- 
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/T1QRfsr1/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/d0WpQKfz/Screenshot-3.png">
+
+ <img src="https://i.postimg.cc/NFvt6cx5/Screenshot-1.png">
+
+ <img src="https://i.postimg.cc/zvYLV4bk/Screenshot-1.png">
+
+ <img src="https://i.postimg.cc/T1QRfsr1/Screenshot-2.png">
+
  
  ## For Loop With If Statement 
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Gm09hWDg/Screenshot-4.png">
- </picture>
- 
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/9FQsw0dr/Screenshot-1.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/c4ZtRKTM/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/Gm09hWDg/Screenshot-4.png">
+
+ <img src="https://i.postimg.cc/9FQsw0dr/Screenshot-1.png">
+
+ <img src="https://i.postimg.cc/c4ZtRKTM/Screenshot-2.png">
  
  ## Using And / Or Operators with Python If Else 
  
@@ -792,34 +723,21 @@ The test suites have a different name depending on the application we use for te
  * with “and” operator, we check the given conditions and if both the conditions are provided, then the body of the if statement runs
  * with “or” operator, we check the given conditions and if one of them is provided, then the body of the if statament runs
  
- <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/vHg9HRPC/Screenshot-3.png">
- </picture>
+ <img src="https://i.postimg.cc/vHg9HRPC/Screenshot-3.png">
 
-
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/ZRh2J9Gn/Screenshot-1.png">
- </picture>
- 
- 
+ <img src="https://i.postimg.cc/ZRh2J9Gn/Screenshot-1.png">
  
  ## Nested If Statements
  
  * nested If Statements are the if statemetns used in another if statements
  * we can use multiple if statements inside another if statements
  
+ <img src="https://i.postimg.cc/zBscxyj8/Screenshot-1.png">
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/zBscxyj8/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/FRNf3pt4/Screenshot-2.png">
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/FRNf3pt4/Screenshot-2.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/YqKSW8Qy/Screenshot-3.png">
- </picture>
+ <img src="https://i.postimg.cc/YqKSW8Qy/Screenshot-3.png">
+
  
  ## Loops
  
@@ -829,35 +747,27 @@ The test suites have a different name depending on the application we use for te
  * for loops
  
 ### With the while loop we can execute a set of statements as long as a condition is true
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/13XLprx8/Screenshot-2.png">
- </picture>
+
+ <img src="https://i.postimg.cc/13XLprx8/Screenshot-2.png">
  
 ### Note: remember to increment i, or else the loop will continue forever
  
  
  ### With the break statement we can stop the loop even if the while condition is true
 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/wBcZzfLb/Screenshot-3.png">
- </picture>
+ 
+ <img src="https://i.postimg.cc/wBcZzfLb/Screenshot-3.png">
+
  
  ### With the continue statement we can stop the current iteration, and continue with the next
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/8PvV3bKx/Screenshot-4.png">
- </picture>
- 
- 
+ <img src="https://i.postimg.cc/8PvV3bKx/Screenshot-4.png">
+
  ### With the else statement we can run a block of code once when the condition no longer is true
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/wT1hd1LC/Screenshot-5.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/wT1hd1LC/Screenshot-5.png">
+
  # Lists
- 
  
  ## Basics
  
