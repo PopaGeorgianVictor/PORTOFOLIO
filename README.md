@@ -1351,17 +1351,13 @@ The test suites have a different name depending on the application we use for te
  * parent class is the class being inherited from, also called base class
  * child class is the class that inherits from another class, also called derived class
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/PxPRtqc5/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/PxPRtqc5/Screenshot-1.png">
  
  ### Create a Child Class
  
  * to create a class that inherits the functionality from another class, send the parent class as a parameter when creating the child class
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nzq20Q9g/Screenshot-2.png">
- </picture>
+
+ <img src="https://i.postimg.cc/nzq20Q9g/Screenshot-2.png">
  
  ### Add the __init__() Function
  
@@ -1369,26 +1365,18 @@ The test suites have a different name depending on the application we use for te
  * we want to add the __init__() function to the child class (instead of the pass keyword)
  * the __init__() function is called automatically every time the class is being used to create a new object
  
+ <img src="https://i.postimg.cc/SKh4NHbM/Screenshot-3.png">
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/SKh4NHbM/Screenshot-3.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/sgtYB9TS/Screenshot-4.png">
- </picture>
+ <img src="https://i.postimg.cc/sgtYB9TS/Screenshot-4.png">
+
  
  ### Add properties
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/NfnJ4XNG/Screenshot-5.png">
- </picture>
+ <img src="https://i.postimg.cc/NfnJ4XNG/Screenshot-5.png">
  
  ### Add methods
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/WzT6NG2V/Screenshot-6.png">
- </picture>
+ <img src="https://i.postimg.cc/WzT6NG2V/Screenshot-6.png">
  
  * if we add a method in the child class with the same name as a function in the parent class, the inheritance of the parent method will be overridden
  
@@ -1399,14 +1387,9 @@ The test suites have a different name depending on the application we use for te
   * Hierarchical Inheritance  : enables more than one derived class to inherit properties from a parent class
   * Multiple Inheritance : enables one derived class to inherit properties from more than one base class
  
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Gh6b8qyb/Screenshot-1.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Z5Z4x0VQ/Screenshot-2.png">
- </picture>
+ <img src="https://i.postimg.cc/Gh6b8qyb/Screenshot-1.png">
+
+ <img src="https://i.postimg.cc/Z5Z4x0VQ/Screenshot-2.png">
  
  ## Polymorphism
  
@@ -1418,32 +1401,23 @@ The test suites have a different name depending on the application we use for te
  
  * we can create a function that can take any object, allowing for polymorphism
  
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/5t6Y5MdY/Screenshot-1.png">
- </picture>
+ <img src="https://i.postimg.cc/5t6Y5MdY/Screenshot-1.png">
  
  ### With Class Methods
  
  * we have to create a for loop that iterates through a tuple of objects
  * next, you have to call the methods without being concerned about which class type each object is. We assume that these methods actually exist in each class
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/65hfYRqk/Screenshot-2.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/65hfYRqk/Screenshot-2.png">
+
  ### With Inheritance
  
  * in inheritance, the child class inherits the methods from the parent class. Also, it is possible to modify a method in a child class that it has inherited from the parent class
  * this is mostly used in cases where the method inherited from the parent class doesn’t fit the child class. This process of re-implementing a method in the child class is known as Method Overriding
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/sgnVsnH3/Screenshot-3.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/nVTSd6XV/Screenshot-4.png">
- </picture>
+ <img src="https://i.postimg.cc/sgnVsnH3/Screenshot-3.png">
+
+ <img src="https://i.postimg.cc/nVTSd6XV/Screenshot-4.png">
  
  ## Encapsulation
  
@@ -1452,17 +1426,12 @@ The test suites have a different name depending on the application we use for te
  * prevent accidental change, an object’s variable can only be changed by an object’s method
  * the access modifiers : public(is accessible from inside or outside the class), private(is accessible only inside class, prefixing the member name with two underscores), protected(is accessible from inside the class and its sub-class, prefixing the member name with an underscore)
  
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/qM7pL1Vf/Screenshot-8.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/SswNYq5y/Screenshot-6.png">
- </picture>
- 
-  <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/2S8T3BZ7/Screenshot-9.png">
- </picture>
+ <img  src="https://i.postimg.cc/qM7pL1Vf/Screenshot-8.png">
+
+ <img  src="https://i.postimg.cc/SswNYq5y/Screenshot-6.png">
+
+ <img  src="https://i.postimg.cc/2S8T3BZ7/Screenshot-9.png">
+
  
   ## Abstraction
  
@@ -1470,20 +1439,14 @@ The test suites have a different name depending on the application we use for te
  * is essential to hide the core functionality from the users
  * an Abstract class can contain the both method normal and abstract method
  * an Abstract cannot be instantiated; we cannot create objects for the abstract class
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/15zJ3q6c/Screenshot-10.png">
- </picture>
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/cJfcbMyZ/Screenshot-11.png">
- </picture>
- 
+
+ <img src="https://i.postimg.cc/15zJ3q6c/Screenshot-10.png">
+
+ <img src="https://i.postimg.cc/cJfcbMyZ/Screenshot-11.png">
+
  # SELENIUM
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/26hNCd22/Screenshot-12.png">
- </picture>
+
+ <img  src="https://i.postimg.cc/26hNCd22/Screenshot-12.png">
  
  ## Navigating 
  
@@ -1491,23 +1454,14 @@ The test suites have a different name depending on the application we use for te
  
  * #### driver.get("url")
  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/Cx1CxPFJ/Screenshot-2.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/Cx1CxPFJ/Screenshot-2.png">
  
  ## Locating Elements
  
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/2SDsxBjZ/Screenshot-1.png">
- </picture>
- 
- 
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/YShjtVck/Screenshot-2.png">
- </picture>
- 
+ <img src="https://i.postimg.cc/2SDsxBjZ/Screenshot-1.png">
+
+ <img src="https://i.postimg.cc/YShjtVck/Screenshot-2.png">
+
  ### To find an element:
  
  * find_element
@@ -1520,31 +1474,23 @@ The test suites have a different name depending on the application we use for te
  
 * the most popular way to identify web element is to use ID. ID’s are considered as the safest and fastest locator option and should always be the first priority among the multiple locators
  
-  
-   <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/MTkt9k8Q/Screenshot-1.png">
- </picture>
- 
-  
+ <img src="https://i.postimg.cc/MTkt9k8Q/Screenshot-1.png">
 
- 
  ### Name 
  
  * this is also an effective way to locate an element which has a name attribute. With this strategy, the first element with the value of the name attribute will be returned. If no element has a matching name attribute, then a  NoSuchElementException will be raised
  
-    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/MH0Wn8zb/Screenshot-2.png">
- </picture>
- 
+  
+ <img src="https://i.postimg.cc/MH0Wn8zb/Screenshot-2.png">
+
  
  ### LinkText & ParialLinkText
  
  * you can identify the hyperlinks on a web page using this linkText. It can be determined with the help of an anchor tag (<a>). In order to create the hyperlinks on a web page, you can use the anchor tags followed by the link text. In some cases, you may need to find links by a portion of the text in a linkText element. In such situations, you can use Partial Link Text to locate elements
  
-    <picture>
- <img alt="Step By Step Toward The Goal"  src="https://i.postimg.cc/0NJ16qfM/Screenshot-3.png">
- </picture>
  
+ <img  src="https://i.postimg.cc/0NJ16qfM/Screenshot-3.png">
+
  ### Tag Name
  
  * use this when you want to locate an element by tag name. With this strategy, the first element with the given tag name will be returned. If no element has a matching tag name, a NoSuchElementException will be raised
