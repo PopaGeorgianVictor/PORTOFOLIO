@@ -1782,7 +1782,10 @@ Examples of design patterns:
  
 ## RELATIONAL DATABASES
  
+ 
  <img src="https://i.postimg.cc/kGm96q1X/Screenshot-2.png" width = "70%">
+ 
+  <img src="https://i.postimg.cc/59BsWLzF/Screenshot-3.png" width = "70%">
  
  THREE KEY TERMS ARE USED EXTENSIVELY IN RELATIONAL DATABASE MODELS: RELATIONS,ATTRIBUTES, AND DOMAINS.
 * a relation is a table with columns and rows
