@@ -1787,29 +1787,34 @@ Examples of design patterns:
  
   <img src="https://i.postimg.cc/59BsWLzF/Screenshot-3.png" width = "70%">
  
- THREE KEY TERMS ARE USED EXTENSIVELY IN RELATIONAL DATABASE MODELS: RELATIONS,ATTRIBUTES, AND DOMAINS.
+ #### THREE KEY TERMS ARE USED EXTENSIVELY IN RELATIONAL DATABASE MODELS: RELATIONS,ATTRIBUTES, AND DOMAINS.
 * a relation is a table with columns and rows
 * the named columns of the relation are called attributes
 * The domain is the set of values the attributes are allowed to take
  
-THE BASIC DATA STRUCTURE OF THE RELATIONAL MODEL IS THE TABLE, WHERE INFORMATION ABOUT A PARTICULAR ENTITY (SAY, AN EMPLOYEE) IS REPRESENTED IN ROWS (ALSO CALLED TUPLES) AND COLUMNS
+#### THE BASIC DATA STRUCTURE OF THE RELATIONAL MODEL IS THE TABLE, WHERE INFORMATION ABOUT A PARTICULAR ENTITY (SAY, AN EMPLOYEE) IS REPRESENTED IN ROWS (ALSO CALLED TUPLES) AND COLUMNS
 * the "relation" in "relational database" refers to the various tables in the database
 * a relation is a set of rows
 * the columns enumerate the various attributes of the entity (the employee's name, address or phone number, for example).
 * a row is an actual instance of the entity (a specific employee) that is represented by the relation
 * as a result, each tuple of the employee table represents various attributes of a single employee
  
- ALL RELATIONS (AND, THUS, TABLES) IN A RELATIONAL DATABASE HAVE TO ADHERE TO SOME BASIC RULES TO QUALIFY AS RELATIONS.
+ #### ALL RELATIONS (AND, THUS, TABLES) IN A RELATIONAL DATABASE HAVE TO ADHERE TO SOME BASIC RULES TO QUALIFY AS RELATIONS.
 * the ordering of columns is immaterial in a table.
 * there can't be identical tuples or rows in a table.
 * each tuple will contain a single value for each of its attributes.
  
- A RELATIONAL DATABASE CONTAINS MULTIPLE TABLES, EACH SIMILAR TO THE ONE IN THE"FLAT" DATABASE MODEL.ANY VALUE OCCURRING IN TWO DIFFERENT RECORDS (BELONGING TO THE SAME TABLE OR TO DIFFERENT TABLES), IMPLIES A RELATIONSHIP AMONG THOSE TWO RECORDS.IN ORDER TO ENFORCE EXPLICIT INTEGRITY CONSTRAINTS, RELATIONSHIPS BETWEEN
-RECORDS IN TABLES CAN ALSO BE DEFINED EXPLICITLY, BY IDENTIFYING OR NON-IDENTIFYING PARENT-CHILD RELATIONSHIPS CHARACTERIZED BY ASSIGNING CARDINALITY.
+#### A RELATIONAL DATABASE CONTAINS MULTIPLE TABLES, EACH SIMILAR TO THE ONE IN THE"FLAT" DATABASE MODEL.ANY VALUE OCCURRING IN TWO DIFFERENT RECORDS (BELONGING TO THE SAME TABLE OR TO DIFFERENT TABLES), IMPLIES A RELATIONSHIP AMONG THOSE TWO RECORDS.IN ORDER TO ENFORCE EXPLICIT INTEGRITY CONSTRAINTS, RELATIONSHIPS BETWEEN RECORDS IN TABLES CAN ALSO BE DEFINED EXPLICITLY, BY IDENTIFYING OR NON-IDENTIFYING PARENT-CHILD RELATIONSHIPS CHARACTERIZED BY ASSIGNING CARDINALITY.
 * 1:1 – usually when a table contains a lot of columns and is used to split is a table in two in
 order to optimize access or limit the visibility of some information
 * 1:n - a department has a number of employees
 * m:n - each employee has a number of children
+ 
+ #### TABLES CAN ALSO HAVE A DESIGNATED SINGLE ATTRIBUTE OR A SET OF ATTRIBUTES THAT CAN ACT AS A "KEY", WHICH CAN BE USED TO UNIQUELY IDENTIFY EACH TUPLE IN THETABLE.A KEY THAT CAN BE USED TO UNIQUELY IDENTIFY A ROW IN A TABLE IS CALLED A PRIMARY KEY. KEYS ARE COMMONLY USED TO JOIN OR COMBINE DATA FROM TWO OR MORE TABLES. A KEY THAT HAS AN EXTERNAL, REAL-WORLD MEANING (SUCH AS A PERSON'S CNP, A BOOK'S ISBN, OR A CAR'S SERIAL NUMBER) IS SOMETIMES CALLED A "NATURAL" KEY. IN PRACTICE, MOST DATABASES HAVE BOTH GENERATED AND NATURAL KEYS:
+* generated keys can be used internally to create links between rows that cannot break
+* natural keys can be used, less reliably, for searches and for integration with other databases
+* for example, records in two independently developed databases could be matched up by
+CNP, except when the social security numbers are incorrect, missing, or have changed
  
   <img src="https://i.postimg.cc/6qHhyLtW/1.png" width="70%">
  
