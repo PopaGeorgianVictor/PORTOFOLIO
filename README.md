@@ -1854,6 +1854,31 @@ CNP, except when the social security numbers are incorrect, missing, or have cha
 #### ALTER
 #### DROP
  
+ ### DDL - DATA DEFINIION LANGUAGE
+ 
+ * THE CREATE COMMAND CAN BE USED TO ESTABLISH EACH OF THESE DATABASES ON YOUR PLATFORM. FOR EXAMPLE, <strong>THE COMMAND: CREATE DATABASE EMPLOYEES</strong> ANOTHER ALTERNATIVE TO CREATE DATABASES IS USING THE UI OPTIONS SUPPORTED BY MICROSOFT SQL SERVER MANAGEMENT STUDIO.
+* AFTER CREATING THE DATABASE, YOUR NEXT STEP IS TO CREATE TABLES THAT WILL CONTAIN DATA. ANOTHER VARIANT OF THE CREATE COMMAND CAN BE USED FOR THIS PURPOSE.
+ 
+#### CREATE TABLE table_name
+#### (
+#### column_name1 data_type,
+#### column_name2 data_type,
+#### column_name3 data_type,
+#### ....
+#### )
+ 
+* THE TABLE COLUMNS ARE DEFINED USING THREE BASIC PROPERTIES:
+* Column name
+* Data type
+* Nullability
+#### TEMPORARY TABLES ARE A USEFUL TOOL IN SQL SERVER PROVIDED TO ALLOW FOR SHORT TERM USE OF DATA. THERE ARE TWO TYPES OF TEMPORARY TABLE IN SQL SERVER, LOCAL AND GLOBAL. BOTH TYPES OF TEMPORARY TABLES ARE CREATED IN THE SYSTEM DATABASE TEMPDB.
+ 
+ <strong>Local temporary tables</strong> are only available to the current connection to the database for the current user and are dropped
+when the connection is closed.
+ <strong>Global temporary tables</strong> are available to any connection once created and are dropped when the last connection using it is closed.
+To make the table a local temporary table, you simply prefix the name with a (#). To make the table a global temporary
+table, prefix it with (##).
+ 
   <img src="https://i.postimg.cc/6qHhyLtW/1.png" width="70%">
  
  <img src="https://i.postimg.cc/7YGz3yNM/2.png" width="70%">
