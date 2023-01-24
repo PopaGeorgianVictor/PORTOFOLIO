@@ -1979,6 +1979,8 @@ ALTER TABLE ANGAJAT ADD CONSTRAINT [FK_ ANGAJAT_LOCALITATE]
  
  ## SQL STATEMENT SELECT
  
+ <img src="https://i.postimg.cc/RFdyctCD/1.png">
+ 
 ### SYNTAX:
  
 SELECT [ALL | DISTINCT] column1[,column2] [,*]
@@ -2053,6 +2055,9 @@ FROM TABLE1 AS TABLENAME1[,TABLE2 AS TABLENAME2]
  
 ### WHERE CLAUSE:
  
+ <img src = "https://i.postimg.cc/VNVD1F61/2.png">
+ 
+ 
 SELECT [ALL | DISTINCT] COLUMN1[,COLUMN2]
  
 FROM TABLE1[,TABLE2]
@@ -2067,28 +2072,20 @@ CONDITION.
  
   <img src="https://i.postimg.cc/ryvzBRN4/Untitled.png">
  
+  <img src = "https://i.postimg.cc/0jfS58fm/3.png">
+  
+  <img src = "https://i.postimg.cc/XY0M64Px/4.png">
+  
  
- ### CONCLUSION
+### IN OPERATOR:
  
-  <img src="https://i.postimg.cc/BvRS9xc1/Untitled.png"  width="70%">
+#### IT USED TO DETERMINE IF A VALUE IS CONTAINED IN A SET OF VALUES. THE SYNTAX OF USING SQL IN OPERATOR IS AS FOLLOWS:
  
-  <img src="https://i.postimg.cc/6qHhyLtW/1.png" width="70%">
+SELECT COLUMN1[,COLUMN2]
  
- <img src="https://i.postimg.cc/7YGz3yNM/2.png" width="70%">
+FROM TABLE1[,TABLE2]
  
- <img src="https://i.postimg.cc/xdYbVNVt/3.png" width="70%">
- 
- <img src="https://i.postimg.cc/90vYdXRK/4.png" width="70%">
- 
- <img src="https://i.postimg.cc/Hk09Mgpv/5.png" width="70%">
- 
- <img src="https://i.postimg.cc/76R34PVh/6.png" width="70%">
- 
-
- 
- <img src="">
- 
- <img src="">
+[WHERE COLUMN1 IN (VALUE1[, VALUE2[, VALUE3]])
  
  <img src="">
  
