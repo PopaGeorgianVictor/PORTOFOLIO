@@ -1969,6 +1969,8 @@ ALTER TABLE ANGAJAT ADD CONSTRAINT [FK_ ANGAJAT_LOCALITATE]
  
  ### CONCLUSION
  
+  <img src="https://i.postimg.cc/BvRS9xc1/Untitled.png"  width="70%">
+ 
   <img src="https://i.postimg.cc/6qHhyLtW/1.png" width="70%">
  
  <img src="https://i.postimg.cc/7YGz3yNM/2.png" width="70%">
