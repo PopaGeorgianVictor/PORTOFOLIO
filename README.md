@@ -2115,6 +2115,19 @@ WHERE COLUMN1 BETWEEN LOWER_VALUE AND UPPER_VALUE
  
 ### LIKE OPERATOR:
  
+* WHERE CustomerName LIKE 'a%'
+* Finds any values that start with "a"
+* WHERE CustomerName LIKE '%a'
+* Finds any values that end with "a"
+* WHERE CustomerName LIKE '%or%'
+* Finds any values that have "or" in any position
+* WHERE CustomerName LIKE '_r%'
+* Finds any values that have "r" in the second position
+* WHERE CustomerName LIKE 'a_%_%'
+* Finds any values that start with "a" and are at least 3 characters in length
+* WHERE ContactName LIKE 'a%o'
+* Finds any values that start with "a" and ends with "o"
+ 
 #### IT IS USED TO SEARCH FOR A SPECIFIED PATTERN IN A COLUMN. TWO WILDCARD CHARACTERS ARE USED TO CONSTRUCT PATTERNS. THEY ARE PERCENTAGE
 (%) AND UNDERSCORE (_).
  
@@ -2185,6 +2198,52 @@ SELECT COLUMN1[,COLUMN2]
 FROM TABLE1[,TABLE2]
  
 ORDER BY SORT_KEY1 [ASC | DESC] [,SORT_KEY2 [ASC | DESC]]
+ 
+##  SQL Wildcards Examples
+ 
+* selects all Customers with a City starting with "ber" 
+ 
+SELECT * FROM Customers
+ 
+WHERE City LIKE 'ber%‘
+ 
+* selects all Customers with a City containing the pattern "es"
+ 
+SELECT * FROM Customers
+ 
+WHERE City LIKE '%es%‘
+
+* selects all Customers with a City starting with any character, followed by "erlin"
+ 
+SELECT * FROM Customers  
+ 
+WHERE City LIKE '_erlin‘
+ 
+* selects all Customers with a City with "L", followed by any character, followed by "n", followed by any
+character, followed by "on"
+ 
+SELECT * FROM Customers
+ 
+WHERE City LIKE 'L_n_on’
+
+* selects all Customers with a City starting with "b", "s", or "p"
+ 
+SELECT * FROM Customers
+ 
+WHERE City LIKE '[bsp]%‘
+ 
+* selects all Customers with a City starting with "a", "b", or "c“
+  
+SELECT * FROM Customers
+ 
+WHERE City LIKE '[a-c]%‘
+ 
+* select all Customers with a City NOT starting with "b", "s", or "p“
+ 
+SELECT * FROM Customers
+ 
+WHERE City LIKE '[!bsp]%‘
+
  
  <img src="">
  
