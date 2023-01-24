@@ -1940,6 +1940,19 @@ table, prefix it with (##).
  
  <strong>CHANGE THE DATA TYPE FOR A COLUMN:</strong> ALTER TABLE ANGAJAT ALTER COLUMN NUME NVARCHAR(100)
  
+ 
+ ## PRIMARY KEY 
+ 
+ <img src = "https://i.postimg.cc/R0bWsB5R/5.png">
+ 
+ <img src = "https://i.postimg.cc/3N9513zr/6.png">
+ 
+ ## FOREIGN KEY
+ 
+ <img src = "https://i.postimg.cc/X70kcwgv/7.png">
+ 
+ 
+ 
  ### CONSTRAINS
  
  <strong>NOT NULL CONSTRAINT:</strong> ENSURES THAT A COLUMN CANNOT HAVE NULL VALUE. ALTER TABLE ANGAJAT ALTER COLUMN DATANASTERII DATETIME NOT NULL
