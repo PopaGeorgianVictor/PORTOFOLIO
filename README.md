@@ -2244,8 +2244,57 @@ SELECT * FROM Customers
  
 WHERE City LIKE '[!bsp]%‘
 
+## INSERT 
  
- <img src="">
+<img src="https://i.postimg.cc/L89nBV02/8.png">
+ 
+* INSERT INTO Statement
+* It is used to insert a new row in a table.
+* SQL INSERT INTO Syntax
+* It is possible to write the INSERT INTO statement in two forms.
+ 
+#### The first form doesn't specify the column names where the data will be inserted,
+only their values:
+ 
+ INSERT INTO table1
+ 
+ VALUES (value1, value2, value3,...)
+ 
+#### The second form specifies both the column names and the values to be inserted:
+ 
+ INSERT INTO table1 (column1, column2…)
+ 
+ VALUES (value1, value2, value3,...)
+ 
+ 
+####  Most common errors:
+ 
+* type mismatch
+* value not inserted in a not null column
+* constraints errors
+* foreign key values don’t match
+ 
+## UPDATE
+ 
+<img src = "https://i.postimg.cc/W3WnT3FJ/9.png">
+ 
+ 
+#### It is used to update existing records in a table.
+ 
+ #### Syntax:
+ 
+UPDATE table1
+ 
+SET column1 = value1,
+ 
+column2 = value2, …
+ 
+WHERE condition
+ 
+#### Note:
+ 
+* Notice the WHERE clause in the UPDATE syntax. The WHERE clause specifies which record or records should be updated.
+* If you omit the WHERE clause, all records will be updated!
  
 </details>
  
