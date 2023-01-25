@@ -2380,6 +2380,36 @@ ON Orders.CustomerID = Customers.CustomerID
 * The <strong>INNER JOIN</strong> keyword selects all rows from both tables as long as there is a match between the columns.
 * If there are records in the "Orders" table that do not have matches in "Customers", these orders will not be shown!
  
+ ### LEFT JOIN
+ 
+ <img src = "https://i.postimg.cc/L5Pqpc0r/Screenshot-3.png">
+ 
+ #### Syntax:
+ 
+ SELECT selection_list
+ 
+ FROM table_A
+ 
+ LEFT JOIN table_B ON
+<join_condition>
+ 
+WHERE <row_conditions>
+ 
+ <strong>LEFT JOIN</strong> returns all records from the table A (left table) plus matching records in the table B (right table).
+ 
+* It means the result of the left outer join always contains the records in the table A even no matching record found in the table B plus matching records in the table B.
+* For the records that don’t have matching records in table B NULL value is returned.
+ 
+SELECT Customers.ContactName,Orders.OrderID
+ 
+FROM Customers
+ 
+LEFT JOIN Orders ON Customers.CustomerID = Orders.CustomerID
+ 
+ORDER BY Customers.ContactName
+ 
+* The LEFT JOIN keyword returns all records from the left table (Customers), even if there are no matches in the right table (Orders).
+ 
  <img src = "">
  
 </details>
