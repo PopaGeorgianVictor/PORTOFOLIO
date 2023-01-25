@@ -2438,6 +2438,47 @@ ORDER BY Orders.OrderID
 * The RIGHT JOIN keyword returns all records from the right table (Employees), even if there are no matches in the left table (Orders).
  
  
+ ### FULL JOIN
+ 
+ <img src = "https://i.postimg.cc/MKH8L7g8/3Ll1h.png" width = "60%">
+ 
+ #### Syntax:
+ 
+SELECT selection_list
+ 
+FROM table_A
+ 
+FULL JOIN table_B ON <join_condition>
+ 
+WHERE <row_conditions>
+ 
+ * <strong> FULL JOIN </strong> combines results of both left outer join and right outer join therefore it returns all records from both tables.
+ * For the records that don’t have matching records NULL value is returned.
+ 
+SELECT Customers.ContactName,Orders.OrderID
+ 
+FROM Customers
+ 
+FULL JOIN Orders ON Customers.CustomerID=Orders.CustomerID
+ 
+ORDER BY Customers.ContactName
+ 
+* The FULL JOIN keyword returns all the rows from the left table (Customers), and all the rows from the right table (Orders).
+* If there are rows in "Customers" that do not have matches in "Orders", or if there are rows in "Orders" that do not have matches in "Customers", those rows will be listed as well.
+ 
+### CROSS JOIN
+ 
+#### Syntax:
+ 
+SELECT selection_list
+ 
+FROM table_A
+ 
+CROSS JOIN table_B
+ 
+* A CROSS JOIN provides the foundation upon which all types of inner joins operate.
+* A CROSS JOIN returns the cartesian product of the sets of records from the two joined tables.
+* Thus, it equates to an inner join where the join-condition always evaluates to True or where the join-condition is absent from the statement.
  
  
  <img src = "">
