@@ -2296,12 +2296,43 @@ WHERE condition
 * Notice the WHERE clause in the UPDATE syntax. The WHERE clause specifies which record or records should be updated.
 * If you omit the WHERE clause, all records will be updated!
  
+  ## DELETE/TRUNCATE
+ 
+ <img src = "https://i.postimg.cc/Y2L5WSN7/1.png">
+ 
+* It is used to delete rows in a table.
+ 
+#### Syntax:
+ 
+DELETE FROM table1
+ 
+WHERE condition
+ 
+#### Note:
+ 
+* Notice the WHERE clause in the DELETE syntax. The WHERE clause specifies which
+record or records should be deleted.
+* If you omit the WHERE clause, all records will be deleted!
+ 
+ #### Most common error:
+* Delete a row that contains a value that is foreign key in another table.
+ 
+ <strong>SQL TRUNCATE</strong> statement is used to delete all data from a table without a WHERE clause.
+* The logic inside SQL TRUNCATE statement is that: SQL TRUNCATE statement drops the table and recreate it again. This way is much faster than deleting rows one by one in some RDBMSs. (relational database management system)
+ 
+#### Syntax:
+ 
+ TRUNCATE TABLE table1
+ 
+ <img src = "">
+ 
 </details>
  
 <details>
 <summary>Courses</summary>
 
  <img src="https://i.postimg.cc/ydb92Lqp/Screenshot-2.png">
+ 
 
 </details>
 
