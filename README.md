@@ -2545,6 +2545,45 @@ FROM table1[,table2]
 * <strong>AMIN()</strong> - Returns the smallest value
 * <strong>ASUM()</strong> - Returns the sum
  
+ #### Return the number of orders sent by each shipper
+ 
+SELECT Shippers.CompanyName, COUNT(Orders.OrderID) AS NumberOfOrders
+ 
+FROM OrdersLEFT JOIN Shippers ON Orders.ShipVia = Shippers.ShipperID
+ 
+GROUP BY CompanyName
+ 
+## HAVING
+ 
+ The <strong>HAVING</strong> clause allows you to specify conditions on the rows for each group - in other words, which rows should be selected will be based on the conditions you specify.
+* SQL HAVING clause is similar to WHERE clause in functionality manner but filter group of records not records.
+* The HAVING clause should follow the GROUP BY clause if you are going to use it.
+ 
+SELECT [ALL | DISTINCT] column1[,column2]
+ 
+FROM table1[,table2]
+ 
+[WHERE <conditions>]
+ 
+[GROUP BY <column-list>]
+ 
+[HAVING <conditions>]
+ 
+[ORDER BY <column-list> [ASC | DESC] ] 
+ 
+ #### Return the employees that have registered more than 10 orders
+ 
+SELECT Employees.LastName, COUNT(Orders.OrderID) AS NumberOfOrders
+ 
+FROM Orders
+ 
+INNER JOIN Employees ON Orders.EmployeeID = Employees.EmployeeID
+ 
+GROUP BY LastName
+ 
+HAVING COUNT(Orders.OrderID) > 10
+ 
+
  
  
 </details>
