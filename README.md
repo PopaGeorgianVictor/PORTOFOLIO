@@ -2583,6 +2583,26 @@ GROUP BY LastName
  
 HAVING COUNT(Orders.OrderID) > 10
  
+## DateTime Functions
+ 
+<strong>GETDATE ( )</strong>- returns the current system date and time
+ 
+<strong>DAY( date )</strong>- returns an integer representing the day part of the specified date
+ 
+<strong>MONTH ( date )</strong> - returns an integer that represents the month part of the specified date
+ 
+<strong>YEAR ( date )</strong>- returns an integer that represents the year part of the specified date
+ 
+<strong>DATEPART (datepart, date)</strong> - returns an integer representing the specified datepart of the specified date
+ 
+<strong>DATENAME (datepart, date)</strong>  - returns a character stringrepresenting the specified date part of the specified date
+ 
+<strong>DATEADD (datepart, number, date)</strong> - returns a new datetime value based on adding an interval to the specified date
+ 
+<strong>DATEDIFF (datepart, startdat , enddate )</strong> - returns the number of date and time boundaries crossed between two specified dates
+ 
+
+ 
 
  
  
