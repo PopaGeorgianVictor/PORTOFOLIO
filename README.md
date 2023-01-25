@@ -2324,6 +2324,31 @@ record or records should be deleted.
  
  TRUNCATE TABLE table1
  
+ 
+ ### Insert data in multiple tables
+ 
+#### Steps to insert data in tables with relationship between them:
+1. Determine relationship between tables
+2. Insert data in the tables that contains the primary key
+3. Insert data in the tables that contains the foreign key
+ 
+## TABLE RELATIONSHIP
+ 
+ 
+ <img src = "https://i.postimg.cc/htn802Hs/2.png">
+ 
+
+ 
+* there are some links that we can create between tables and we will be able to simulate certain connections
+* one to one: a single record from a table corresponds to a single record from another table (e.g. a cnp may belong to a single person)
+* one to many: a record from one table corresponds to more than one record from another table (e.g. a person can own more than one object)
+* many to many: a product can have multiple orders and an order can have multiple products, it breaks into one-to-many relationships
+* self-referencing: refer to the table itself (e.g. if we have employees and employees have a boss, then the boss is also an employee, so you will have passed the same table of employees and next to each employee will have passed the ID of his boss)
+ 
+ ### SQL JOIN
+ 
+ <img src = "https://i.postimg.cc/GhwgZJW8/Screenshot-1.png">
+ 
  <img src = "">
  
 </details>
