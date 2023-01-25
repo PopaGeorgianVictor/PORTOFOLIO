@@ -2513,6 +2513,40 @@ FROM old_table
  
  <img src = "https://i.postimg.cc/Mp9JqxrN/5.png">
  
+ ## GROUP BY
+ 
+ <strong> SQL group </strong> by is used to divide a database table into groups based on group columns. For each group you can apply aggregate functions to produce summary information.
+#### Sintax:
+ 
+SELECT [ALL | DISTINCT] column1[,column2]
+ 
+FROM table1[,table2]
+ 
+[WHERE <conditions>]
+ 
+[GROUP BY <column-list>]
+ 
+[HAVING <conditions>]
+ 
+[ORDER BY <column-list> [ASC | DESC] ]
+ 
+ 
+ ### SQL Aggregate Functions
+ 
+ SQL aggregate functions return a single value, calculated from values in a column.
+ 
+#### Useful aggregate functions:
+ 
+* <strong>AVG()</strong> - Returns the average value
+* <strong>ACOUNT()</strong> - Returns the number of rows
+* <strong>AFIRST()</strong> - Returns the first value
+* <strong>ALAST()</strong> - Returns the last value
+* <strong>AMAX()</strong> - Returns the largest value
+* <strong>AMIN()</strong> - Returns the smallest value
+* <strong>ASUM()</strong> - Returns the sum
+ 
+ 
+ 
 </details>
  
 <details>
