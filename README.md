@@ -2601,6 +2601,15 @@ HAVING COUNT(Orders.OrderID) > 10
  
 <strong>DATEDIFF (datepart, startdat , enddate )</strong> - returns the number of date and time boundaries crossed between two specified dates
  
+ ## NUMERIC FUNCTIONS
+ 
+<strong>ABS(numeric_exp)</strong> - returns the absolute value of numeric_exp
+ 
+<strong>RAND([numeric_exp])</strong> - generates a random number using numeric_exp as a seed
+ 
+<strong>ROUND(numeric_exp, integer_exp)</strong> - rounds numeric_exp to integer_exp decimal places
+ 
+<strong>SIGN(numeric_exp)</strong> - if numeric_exp is less than zero, -1 is returned. If numeric_exp equals zero, 0 is returned. If numeric_exp is greater than zero, 1 is returned
 
  
 
