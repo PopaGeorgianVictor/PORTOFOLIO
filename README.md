@@ -2630,17 +2630,13 @@ from SalesLT.Product a
  
 where a.Weight <> null
  
- #### Correct version is:
+#### Correct version is:
  
  select COUNT(*) CountOfSpecifitColumn 
  
  from SalesLT.Product a
  
  where a.Weight IS NOT NULL
- 
- 
-
- 
  
 </details>
  
