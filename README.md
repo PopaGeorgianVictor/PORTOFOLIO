@@ -2480,8 +2480,38 @@ CROSS JOIN table_B
 * A CROSS JOIN returns the cartesian product of the sets of records from the two joined tables.
 * Thus, it equates to an inner join where the join-condition always evaluates to True or where the join-condition is absent from the statement.
  
+ ## UNION
  
- <img src = "">
+* By default SQL UNION eliminates all duplicate records, in this case NULL values are considered as a single value.
+* To enable duplication of records, you can use ALL keyword followed after UNION explicitly.
+* Be noted that by default the DISTINCT is used if you don’t specify anything after UNION.
+ 
+#### Example:
+ 
+ SELECT city
+ 
+ FROM customers
+ 
+ UNION
+ 
+ SELECT city
+ 
+ FROM suppliers
+ 
+ ## SELECT INTO
+ 
+ The <strong>SELECT INTO</strong> statement selects data from one table and inserts it into a different table. It is most often used to create backup copies of tables.
+
+ #### Syntax:
+ 
+SELECT selection_list
+ 
+INTO new_table [IN externaldatabase]
+ 
+FROM old_table
+ 
+ 
+ <img src = "https://i.postimg.cc/Mp9JqxrN/5.png">
  
 </details>
  
