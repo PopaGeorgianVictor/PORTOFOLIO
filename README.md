@@ -2345,9 +2345,40 @@ record or records should be deleted.
 * many to many: a product can have multiple orders and an order can have multiple products, it breaks into one-to-many relationships
 * self-referencing: refer to the table itself (e.g. if we have employees and employees have a boss, then the boss is also an employee, so you will have passed the same table of employees and next to each employee will have passed the ID of his boss)
  
- ### SQL JOIN
+ ## SQL JOIN
  
  <img src = "https://i.postimg.cc/GhwgZJW8/Screenshot-1.png">
+ 
+ ### INNER JOIN
+ 
+ <img src = "https://i.postimg.cc/1350Zts6/Screenshot-2.png">
+ 
+ #### Syntax:
+ 
+SELECT selection_list
+ 
+FROM table_A
+ 
+INNER JOIN table_B ON <join_condition>
+ 
+WHERE <row_conditions>
+ 
+* Table_A and table_B are sometimes called joined-tables.
+* SQL INNER JOIN returns records from both tables where a match is found based on join condition (join_condition).
+* SQL INNER JOIN gets all the records from the table_A andfinds the matching records in the table_B according to the join condition.
+* The join condition determines whether both records are matched or not.
+* If there is no match found no records will be returned.
+ 
+SELECT Orders.OrderID,Customers.CompanyName
+ 
+FROM Orders
+ 
+INNER JOIN Customers
+ 
+ON Orders.CustomerID = Customers.CustomerID
+ 
+* The <strong>INNER JOIN</strong> keyword selects all rows from both tables as long as there is a match between the columns.
+* If there are records in the "Orders" table that do not have matches in "Customers", these orders will not be shown!
  
  <img src = "">
  
