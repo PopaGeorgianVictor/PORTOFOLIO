@@ -2611,6 +2611,33 @@ HAVING COUNT(Orders.OrderID) > 10
  
 <strong>SIGN(numeric_exp)</strong> - if numeric_exp is less than zero, -1 is returned. If numeric_exp equals zero, 0 is returned. If numeric_exp is greater than zero, 1 is returned
 
+ ## Working with NULL value
+ 
+ * Conceptually, NULL means “a missing unknown value”, and it is treated differently from other values. To test for NULL, you cannot use the arithmetic comparison operators such as =, <, or <>
+* In SQL, the NULL value is never true in comparison to any other value, even NULL. An expression that contains NULL always produces a null value. In row-level functions, if a null value is included in calculations, the result is always null
+* To help with NULL handling, you can use the IS NULL and IS NOT NULL operators
+* IS NULL (check_expression, replacement_value)
+ 
+<strong>Example:</strong> SELECT ProductName, UnitPrice * (UnitsInStock + ISNULL(UnitsOnOrder, 0)) as TotalPrice FROM Products
+ 
+#### NOTE: never use comparison like <, >, <=, >=, !=, = to find values different of NULLs. Use IS NOT NULL operator
+ 
+#### The query below returns wrong result:
+ 
+select COUNT(*) CountOfSpecifitColumn 
+ 
+from SalesLT.Product a
+ 
+where a.Weight <> null
+ 
+ #### Correct version is:
+ 
+ select COUNT(*) CountOfSpecifitColumn 
+ 
+ from SalesLT.Product a
+ 
+ where a.Weight IS NOT NULL
+ 
  
 
  
