@@ -2410,6 +2410,36 @@ ORDER BY Customers.ContactName
  
 * The LEFT JOIN keyword returns all records from the left table (Customers), even if there are no matches in the right table (Orders).
  
+ ### RIGHT JOIN
+ 
+ <img src = "https://i.postimg.cc/pLrBNTJ7/join.png" width = "70%">
+ 
+ #### Syntax:
+ 
+SELECT selection_list
+ 
+FROM table_A
+ 
+RIGHT JOIN table_B ON <join_condition>
+ 
+WHERE <row_conditions>
+ 
+ * <strong>RIGHT JOIN</strong> returns all records from the table B (right table), even no matching record found in the table A, plus matching records in the table A (left table).
+* For the records that don’t have matching records in table A NULL value is returned.
+ 
+SELECT Orders.OrderID,Employees.LastName,Employees.FirstName
+ 
+FROM Orders
+ 
+RIGHT JOIN Employees ON Orders.EmployeeID = Employees.EmployeeID
+ 
+ORDER BY Orders.OrderID
+ 
+* The RIGHT JOIN keyword returns all records from the right table (Employees), even if there are no matches in the left table (Orders).
+ 
+ 
+ 
+ 
  <img src = "">
  
 </details>
