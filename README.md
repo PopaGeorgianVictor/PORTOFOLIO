@@ -549,6 +549,21 @@ The test suites have a different name depending on the application we use for te
   [WHAT IS A DATABASE](https://github.com/PopaGeorgianVictor/PORTOFOLIO#what-is-a-database)
  
   [RELATIONAL DATABASES](https://github.com/PopaGeorgianVictor/PORTOFOLIO#relational-databases)
+   * [RELATIONAL DATABASE STRUCTURE](https://github.com/PopaGeorgianVictor/PORTOFOLIO#relational-database-structure)
+   * [TABLES, RELATIONSHIPS,CARDINALITY](https://github.com/PopaGeorgianVictor/PORTOFOLIO#tables-relationshipscardinality)
+   * [KEYS](https://github.com/PopaGeorgianVictor/PORTOFOLIO#keys)
+   * [DATABASE INTEGRITY,CONSTRAINTS](https://github.com/PopaGeorgianVictor/PORTOFOLIO#database-integrityconstraints)
+   * [REFERENTIAL INTEGRITY](https://github.com/PopaGeorgianVictor/PORTOFOLIO#referential-integrity)
+  [DATA DEFINITION LANGUAGE](https://github.com/PopaGeorgianVictor/PORTOFOLIO#data-definition-language)
+   * [CREATE STATEMENT](https://github.com/PopaGeorgianVictor/PORTOFOLIO#ddl---create-statement)
+   * [ALTER STATEMENT](https://github.com/PopaGeorgianVictor/PORTOFOLIO#ddl---alter-statement)
+   * [DROP STATEMENT](https://github.com/PopaGeorgianVictor/PORTOFOLIO#ddl---drop-statement)
+  []()
+   * []()
+   * []()
+   * []()
+   * []()
+ 
  
   
 
