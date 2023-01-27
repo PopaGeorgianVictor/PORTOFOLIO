@@ -372,6 +372,12 @@ The test suites have a different name depending on the application we use for te
  
  [BDD-POM Practice](https://github.com/PopaGeorgianVictor/BDD-POM)
  
+ [MySQL Theory]()
+ 
+ [MySQL Practice](https://github.com/PopaGeorgianVictor/SQL)
+ 
+ 
+ 
  ### PYTHON
 
  
@@ -538,6 +544,7 @@ The test suites have a different name depending on the application we use for te
  
   [POM](https://github.com/PopaGeorgianVictor/PORTOFOLIO#pom-page-object-model)
 
+### MySQL
 
  # CHECK IT OUT
  
