@@ -545,6 +545,12 @@ The test suites have a different name depending on the application we use for te
   [POM](https://github.com/PopaGeorgianVictor/PORTOFOLIO#pom-page-object-model)
 
 ### MySQL
+ 
+  [WHAT IS A DATABASE](https://github.com/PopaGeorgianVictor/PORTOFOLIO#what-is-a-database)
+ 
+  [RELATIONAL DATABASES](https://github.com/PopaGeorgianVictor/PORTOFOLIO#relational-databases)
+ 
+  
 
  # CHECK IT OUT
  
