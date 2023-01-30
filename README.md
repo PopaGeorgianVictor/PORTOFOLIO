@@ -593,9 +593,16 @@ The test suites have a different name depending on the application we use for te
  
   [SQL JOIN](https://github.com/PopaGeorgianVictor/PORTOFOLIO#sql-join)
  
-   * []()
-   * []()
-   * []()
+   * [INNER JOIN](https://github.com/PopaGeorgianVictor/PORTOFOLIO#inner-join)
+   * [LEFT JOIN](https://github.com/PopaGeorgianVictor/PORTOFOLIO#left-join)
+   * [RIGHT JOIN](https://github.com/PopaGeorgianVictor/PORTOFOLIO#right-join)
+   * [FULL JOIN](https://github.com/PopaGeorgianVictor/PORTOFOLIO#full-join)
+   * [CROSS JOIN](https://github.com/PopaGeorgianVictor/PORTOFOLIO#cross-join)
+   * [UNION](https://github.com/PopaGeorgianVictor/PORTOFOLIO#union)
+   * [SELECT INTO](https://github.com/PopaGeorgianVictor/PORTOFOLIO#select-into)
+   * [GROUP BY](https://github.com/PopaGeorgianVictor/PORTOFOLIO#group-by)
+   * [HAVING](https://github.com/PopaGeorgianVictor/PORTOFOLIO#having)
+
  
  
   
