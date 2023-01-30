@@ -581,15 +581,18 @@ The test suites have a different name depending on the application we use for te
  
   [BASIC OPERATORS](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basic-operators)
  
-   * [INSERT](https://github.com/PopaGeorgianVictor/PORTOFOLIO#insert)
    * [IN](https://github.com/PopaGeorgianVictor/PORTOFOLIO#in-operator)
-   * []()
-   * []()
-   * []()
-   * []()
-   * []()
-   * []()
-   * []()
+   * [LIKE](https://github.com/PopaGeorgianVictor/PORTOFOLIO#like-operator)
+   * [ESCAPE](https://github.com/PopaGeorgianVictor/PORTOFOLIO#escape)
+   * [ORDER BY](https://github.com/PopaGeorgianVictor/PORTOFOLIO#order-by-keyword)
+   * [INSERT](https://github.com/PopaGeorgianVictor/PORTOFOLIO#insert)
+   * [UPDATE](https://github.com/PopaGeorgianVictor/PORTOFOLIO#update-1)
+   * [DELETE/TRUNCATE](https://github.com/PopaGeorgianVictor/PORTOFOLIO#deletetruncate)
+ 
+  [TABLE RELATIONSHIP](https://github.com/PopaGeorgianVictor/PORTOFOLIO#table-relationship)
+ 
+  [SQL JOIN](https://github.com/PopaGeorgianVictor/PORTOFOLIO#sql-join)
+ 
    * []()
    * []()
    * []()
