@@ -574,8 +574,11 @@ The test suites have a different name depending on the application we use for te
   [FOREIGN KEY](https://github.com/PopaGeorgianVictor/PORTOFOLIO#foreign-key)
   
   [CONSTRAINS](https://github.com/PopaGeorgianVictor/PORTOFOLIO#constrains)
-   * []()
-   * []()
+ 
+  [SQL SYNTAX CONVETION](https://github.com/PopaGeorgianVictor/PORTOFOLIO#sql-syntax-convetion)
+ 
+  [SQL STATEMENT SELECT](https://github.com/PopaGeorgianVictor/PORTOFOLIO#sql-statement-select)
+ 
    * []()
    * []()
    * []()
