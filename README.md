@@ -579,6 +579,16 @@ The test suites have a different name depending on the application we use for te
  
   [SQL STATEMENT SELECT](https://github.com/PopaGeorgianVictor/PORTOFOLIO#sql-statement-select)
  
+  [BASIC OPERATORS](https://github.com/PopaGeorgianVictor/PORTOFOLIO#basic-operators)
+ 
+   * [INSERT](https://github.com/PopaGeorgianVictor/PORTOFOLIO#insert)
+   * [IN](https://github.com/PopaGeorgianVictor/PORTOFOLIO#in-operator)
+   * []()
+   * []()
+   * []()
+   * []()
+   * []()
+   * []()
    * []()
    * []()
    * []()
