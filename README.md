@@ -287,7 +287,7 @@ b) the test conditions (what we are testing) are defined starting from the previ
    * creating bi-directional traceability between test basis and test cases
  
 
- <img src="https://i.postimg.cc/SKSG1tM1/test-analysis-v-model.webp" width = "70%">
+ <img src="https://i.postimg.cc/Jh28Tf4Y/Screenshot-1.png" width="70%">
 
  
  ## Test Implementations
