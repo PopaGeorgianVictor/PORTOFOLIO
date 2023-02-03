@@ -2732,6 +2732,31 @@ The transfer of information is usually done by means of HTTP methods.
  
 <strong>DELETE</strong> = requests the deletion of information from the database
  
+After executing a request through any of the above methods, a status code is returned as a response that reflects the result of the request.
+ 
+### The response codes are grouped as follows:
+ 
+<strong>1. informational codes (1XX)</strong> - are codes that reflect the fact that an information was simply processed
+ 
+<strong>2. success codes (2XX)</strong> - are codes that reflect the fact that the information was processed successfully
+ 
+* 200 -> the information was read successfully
+* 201 -> the information was created or modified successfully (appears when we write information of any kind in the database)
+* 204 -> the information was successfully deleted
+ 
+<strong>3. redirection codes (3XX)</strong>) - means that the page I accessed was moved to another address
+ 
+<strong>4. client error codes (4XX)</strong> - means that the user has sent the wrong information
+ 
+* 400 -> the transmitted information is invalid and cannot be processed
+* 401 -> unauthorized - means that the user is not logged in and the system cannot decide whether he has access to certain information or not
+* 403 -> forbidden - means that the user is logged in but is not authorized to access certain information
+* 404 -> the page was not found
+ 
+<strong>5. server error codes (5XX)</strong>
+ 
+* 500 Internal Server Error -> the information sent to the server was most likely correct, but the server could not process it
+* 503 Service Unavailable -> currently the server that should process the information is not working. It is often used when the web application is under maintenance
  
 </details>
  
