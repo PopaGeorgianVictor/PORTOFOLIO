@@ -2758,6 +2758,18 @@ After executing a request through any of the above methods, a status code is ret
 * 500 Internal Server Error -> the information sent to the server was most likely correct, but the server could not process it
 * 503 Service Unavailable -> currently the server that should process the information is not working. It is often used when the web application is under maintenance
  
+### Postman = API manual testing tool
+
+ <strong>Request</strong> = request made to the server for the transmission of write or read information
+ 
+### Components of a request:
+ 
+* endpoint -> the point where the request is received by the api from the browser and sent to the server
+* the http method
+* token (if the request requires authorization)
+* request body (if we are talking about a write request)
+ 
+ 
 </details>
  
 <details>
