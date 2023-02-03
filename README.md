@@ -2716,7 +2716,22 @@ where a.Weight <> null
 
 <strong>Protocol</strong> = a series of methods and rules for transmitting information in the network
 
-The most well-known protocol is <strong>HTTP</strong>  (Hyper Text Transfer Protocol) which, for security reasons, started working with security certificates in 2010, resulting in the HTTP(S) protocol - Hyper Text Transfer Protocol Secure
+The most well-known protocol is <strong>HTTP</strong>  (Hyper Text Transfer Protocol) which, for security reasons, started working with security certificates in 2010, resulting in the HTTP(S) protocol - Hyper Text Transfer Protocol Secure.
+
+The transfer of information is usually done by means of HTTP methods.
+ 
+### The most well-known HTTP methods are:
+ 
+<strong>GET</strong> = requests to read information from the database
+ 
+<strong>POST</strong> = requests to write a completely new information in the database
+ 
+<strong>PUT</strong> = requests the complete update of an information already existing in the database
+ 
+<strong>PATCH</strong> = requests the partial update of an already existing information in the database
+ 
+<strong>DELETE</strong> = requests the deletion of information from the database
+ 
  
 </details>
  
