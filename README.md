@@ -2720,6 +2720,8 @@ The most well-known protocol is <strong>HTTP</strong>  (Hyper Text Transfer Prot
 
 The transfer of information is usually done by means of HTTP methods.
  
+### CRUD = Create, Read, Update, Delete 
+ 
 ### The most well-known HTTP methods are:
  
 <strong>GET</strong> = requests to read information from the database
@@ -2768,6 +2770,12 @@ After executing a request through any of the above methods, a status code is ret
 * the http method
 * token (if the request requires authorization)
 * request body (if we are talking about a write request)
+ 
+ The <strong>endpoint</strong> consists of a standard part that represents the host (the main link) and an extension that represents the actual activity that we want to do. Always, when we do api testing, we will rely on an api documentation.
+ 
+ <strong>JSON</strong> = Java Script Object Notation
+ 
+ <strong>JSON</strong> = a data transmission format used especially in the transport of information via API
  
  
 </details>
