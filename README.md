@@ -2706,6 +2706,14 @@ where a.Weight <> null
  
  where a.Weight IS NOT NULL
  
+ # API
+ 
+## API = Application Programming Interface
+
+<strong>API</strong>  = a series of services, functionalities and elements that ensure communication between a client and a server.The API ensures the transfer of information through a communication protocol.
+
+<strong>Protocol</strong> = a series of methods and rules for transmitting information in the network
+ 
 </details>
  
 <details>
