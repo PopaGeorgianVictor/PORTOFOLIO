@@ -2708,11 +2708,15 @@ where a.Weight <> null
  
  # API
  
+ <img src="https://i.postimg.cc/qRfgCWGt/what-is-an-api-definition-auto-x2.jpg">
+ 
 ## API = Application Programming Interface
 
 <strong>API</strong>  = a series of services, functionalities and elements that ensure communication between a client and a server.The API ensures the transfer of information through a communication protocol.
 
 <strong>Protocol</strong> = a series of methods and rules for transmitting information in the network
+
+The most well-known protocol is <strong>HTTP</strong>  (Hyper Text Transfer Protocol) which, for security reasons, started working with security certificates in 2010, resulting in the HTTP(S) protocol - Hyper Text Transfer Protocol Secure
  
 </details>
  
