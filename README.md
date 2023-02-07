@@ -376,6 +376,10 @@ The test suites have a different name depending on the application we use for te
  
  [MySQL Practice](https://github.com/PopaGeorgianVictor/SQL)
  
+ [API Theory](https://github.com/PopaGeorgianVictor/PORTOFOLIO#api)
+ 
+ [API Practice](https://github.com/PopaGeorgianVictor/API)
+ 
  
  
  ### PYTHON
