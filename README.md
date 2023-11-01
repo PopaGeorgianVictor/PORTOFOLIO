@@ -807,6 +807,7 @@ The test suites have a different name depending on the application we use for te
  
  * nested If Statements are the if statemetns used in another if statements
  * we can use multiple if statements inside another if statements
+ * range(start, stop, step)
  
  <img src="https://i.postimg.cc/zBscxyj8/Screenshot-1.png">
  
