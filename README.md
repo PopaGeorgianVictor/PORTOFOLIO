@@ -1385,7 +1385,8 @@ The test suites have a different name depending on the application we use for te
 * o understand the meaning of classes we have to understand the built-in __init__() function
 * all classes have a function called __init__(), which is always executed when the class is being initiated
 * use the __init__() function to assign values to object properties, or other operations that are necessary to do when the object is being created
-* this function also called constructor  
+* each time an object is created a method is called. That methods is named the constructor
+
   
  <img src="https://i.postimg.cc/76n4F2np/Screenshot-3.png">
  
