@@ -2786,7 +2786,284 @@ After executing a request through any of the above methods, a status code is ret
  <strong>JSON</strong> = Java Script Object Notation
  
  <strong>JSON</strong> = a data transmission format used especially in the transport of information via API
+
+
+** REZUMAT**
+
+ Testare statica = tehnici de testare fara rulare de cod (analiza statica + review)
+Testare dinamica = tehnici de testare cu rulare de cod
+a) whitebox (backend - testare de cod)
+tehnici de testare
+- statement coverage
+- decision coverage
+b) blackbox (frontend - testare de interfata)
+tehnici de testare:
+- equivalence partitioning
+- boundary value analysis
+- state transition testing
+- use case testing
+- decision table
+
+
+Request = solicitare facuta catre server pentru transmitere de informatii de tip scriere sau citire
+Componentele unui request:
+- endpoint -> punctul in care requestul este preluat de catre api de la browser si transmis catre server
+- metoda http
+- token (daca requestul necesita autorizare)
+- request body (daca vorbim de un request de scriere) 
+
+Endpoint-ul este format dintr-o parte standard care reprezinta hostul (linkul principal) si o extensie care reprezinta activitatea efectiva pe care vrem sa o facem
+Intotdeauna, cand facem testare de api, ne vom baza pe o documentatie de api
+
+
+Tipuri de testare:
+- Testare functionala = Tip de testare care se face pentru a verifica faptul ca produsul isi indeplineste functiile
+- Testare non-functionala = Tip de testare care se face pentru a verifica faptul cat de bine isi indeplineste produsul functiile (ex: daca este intuitiv, usor de folosit, performant, are compatibilitate cu mai multe browsere, este accesibil pentru persoane cu dizabilitati etc)
+- Retesting = Tip de testare care se face pentru a verifica faptul ca un bug a fost rezolvat
+- Regression Testing = Regression testing = tip de testare care se face pentru a verifica faptul ca aplicatia nu a suferit in urma unei schimbari consecinte negative asupra functionalitatilor validate ca si corecte. Deci verifica faptul ca aplicatia nu a suferit o regresie
+- Positive Testing = Tip de testare care se face cu date valide cu scopul de a verifica faptul ca sistemul face ce ar trebui sa faca
+- Negative Testing = Tip de testare care se face cu date invalide cu scopul de a verifica faptul ca sistemul NU face ce ar trebui sa NU faca
+
+Principiile testarii:
+- Testing shows presence of defects, not their absence
+- Exhaustive testing is impossible
+- Early testing
+- Defect clustering
+- Pesticide paradox
+- Testing is context dependent
+- Absence of errors is a fallacy
+
+CRUD = Create, Read, Update, Delete 
+
+Tehnici de testare blackbox:
+- equivalence partitioning = o tehnica de testare care este utila atunci cand avem o plaja mare de valori care este greu de testat si nu merita sa o acoperim complet, ceea ce inseamna ca vom grupa valorile in functie de rezultatul obtinut atunci cand sunt trimise ca si input. Adica vom forma grupe de valori, astfel toate valorile din fiecare grupa sa returneze acelasi output atunci cand sunt trimise ca si input
+- boundary value analysis = o tehnica de testare complementara pentru equivalence partitioning care presupune testarea valorilor de la granitele superioare si inferioare ale claselor de echivalenta
+- state transition testing
+- use case testing
+- decision table = o tehnica de testare de tip blackbox care se utilizeaza atunci cand trebuie sa derivam scenarii pe baza a mai mult de o conditie
+
+
+Analiza request pentru parametrul limita:
+
+List of books
+GET /books
+
+Returns a list of books.
+
+Optional query parameters:
+
+type: fiction or non-fiction
+limit: a number between 1 and 20.
+
+Clase de echivalenta definite:
+1. 1-20
+2. >20
+3. <1 -> La limita 0 se returneaza toate cartile, desi cerinta spune ca valoarea limitei trebuie sa fie cel putin 1. De confirmat cu analistul de business sau dezvoltatorul daca aceasta este o situatie acceptata
+4. <0 
+
+Valori alese pentru boundary value analysis: 0, 1, 20, 21
+
+
+
+
+POM = prescurtarea de la Page Object Model
+
+Page Object Model = un design pattern care are rolul de a structura elementele care se doresc a fi cautate intr-o pagina web
+                    in functie de pagina pe care se gasesc, cu scopul de a le organiza mai bine si a fi mai usor de identificate
+                    Orice pagina dintr-un site web va avea un corespondent intr-un fisier python de mapare a elementelor si actiunilor de testat
+                    Orice pagina mapata va fi concretizata intr-o clasa care va contine atribute pentru elemente si metode pentru actiuni
+
+Design pattern = o structura general valabila care a fost definita pentru a rezolva o problema specifica si general-intalnita
+               Exemple de design patterns:
+               - page object model
+               - data-driven testing
+               - key-driven testing
+               - singleton
+
+               Recomandare de citit: Gang of four (care prezinta o serie de design patterns mult mai in detaliu)
+
+
+Exemplu
+
+Vrem sa cautam un element cu id-ul  username pe site-ul herokkuapp.com
+sistemul va cauta acel element, si daca  il va gasi va trece instant la instructiunea urmatoare
+
+a) implicit wait
+Daca nu il gaseste, sistemul va continua sa il caute pe toata durata stabilita in implicit wait, dupa care
+va da eroare. Daca nu am avea acel implicit wait, ar da eroare instant
+
+b) sleep
+Daca avem sleep inainte de element, atunci sistemul va astepta 5 secunde inainte sa caute elementul 
+ apoi il va cauta, si daca nu il va gasi va da eroare
  
+Daca avem sleep dupa element, o sa returneze eroare instant, pentru ca sistemul nu mai ajunge sa execute
+	instructiunea de sleep
+	
+c) explicit wait
+Daca avem explicit wait pe elementul cautat si acesta va fi gasit, va fi actionat asupra lui instant
+Daca avem explicit wait pe elementul cautat si acesta nu va fi gasit, atunci se va astepta numarul de secunde definit, dupa care se va returna eroare
+Daca avem explicit wait pe un alt element decat elementul cautat si acesta va fi gasit, va fi actionat asupra lui instant
+Daca avem explicit wait pe  un alt element decat elementul cautat si acesta nu va fi gasit, sistemul va returna eroare instant
+
+
+"""
+
+
+
+
+"""
+POO = Programare orientata pe obiecte
+OOP = Object Oriented Programming
+
+Clasa = O structura de tip tipar / blueprint / reteta care serveste drept ghid pentru un element care ar PUTEA exista
+				Componentele unei clase:
+				- atribute = proprietatile cu care se vor identifica obiectele
+										 - pentru a accesa un atribut dintr-o clasa in interiorul acelei clase se foloseste keyword-ul self
+										 							in caz contrar se va considera ca se face referinta catre parametrii metodei
+								     - pentru a accesa un atribut dintr-o clasa in afara clasei se folosesc urmatoarele:
+								      					a) un obiect instantiat din acea clasa
+								      					b) decoratorul @staticmethod pentru a accesa atributele si metodele clasei
+								      					c) prin conceptul de mostenire a unei clase (vom discuta la cursul 7)
+								     - atributele pot avea valori implicite daca exista niste valori general valabile
+								     - daca nu exista valori general valabile atunci atributele vor avea valoarea initiala None
+				- metode = actiunile pe care le poate face un obiect
+										ATENTIE!!! Metodele sunt de fapt niste functii create in interiorul clasei
+										 In afara clasei = functii
+										 In interiorul clasei = metode
+
+Obiect = instanta a clasei, reprezentare reala a tiparului reprezentat de clasa
+					pot sa instantiez oricate obiecte dintr-o anumita clasa
+
+Constructor = Element care va fi folosit pentru instantierea obiectelor dintr-o clasa
+							Scopul unui constructor este de a ajuta sistemul sa instantieze obiectul dintr-o clasa
+							Exista doua tipuri de constructori:
+							a) constructor explicit care obliga utilizatorul sa populeze anumite atribute la instantierea	obiectului
+														si daca este cazul sa defineasca o regula de populare a atributelor
+						  b) constructor implicit care este apelat automat atunci cand nu exista un constructor explicit definit
+
+						  Pot sa definesc mai multi constructori in aceeasi clasa atata timp cat vor avea un numar diferit de parametri
+						  						(method overloading) - polimorfism -> In python nu e posibila definirea mai multor constructori
+"""
+"""
+
+Programarea orientata pe obiecte este o modalitate prin care putem sa structuram proprietatile si
+	comportamentul unei entitati din viata reala intr-o structura logica ce functioneaza ca un template / schita
+Acel template va servi drept model pentru crearea unor entitati care sa reprezinte un exemplu concret din viata reala
+
+Structura logica ce defineste entitatea se numeste clasa si reprezinta un tipar care descrie
+atributele pe care ar trebui sa le aiba entitatea si respectiv actiunile pe care poate sa le faca entitatea
+
+Atunci cand cream o entitate propriu-zisa pe baza acelei clase (scheme logice) spunem ca am creat un obiect
+	modelat dupa acea schema.
+Crearea obiectului pe baza unei clase se numeste instantiere, iar obiectul este o instanta a unei clase
+
+Atunci cand se creeaza obiectul de fapt se rezerva o adresa de memorie care are acces la toate atributele
+si functiile din clasa care sta la baza obiectului.
+
+In momentul in care noi vom popula atributele obiectului, de fapt noi vom da valori efective pentru acele atribute
+care valori vor fi salvate la adresa de memorie rezervata pentru obiectul instantiat.
+
+Exista posibilitatea sa avem valori ale atributelor definite direct in clasa
+care vor fi valabile pentru toate obiectele pana in momentul in care acele valori vor fi suprascrise la nivelul
+fiecarui obiect (asta inseamna ca fiecare obiect poate sa aiba propriile valori pentru atributele definite
+in clasa)
+
+
+Orice obiect este creat prin intermediul unei structuri numit constructor care se apeleaza de fiecare
+data cand un obiect este creat.
+Exista doua tipuri de constructori:
+- constructor implicit -> este constructorul care este incorporat in limbajul python si el este apelat
+			automat atunci cand nu exista un constructor explicit
+- constructor explicit -> este constructorul care este definit de catre utilizator cu scopul de a
+			controla felul in care acel obiect este instantiat
+
+Functiile reprezinta o modalitate prin care putem sa scriem una sau mai multe linii de cod care vor fi
+		refolosite de cate ori avem nevoie.
+Scopul unei functii este de a ne ajuta sa economisim cod, astfel incat sa nu trebuiasca sa scriem aceleasi
+		linii de mai multe ori
+
+O functie este definita prin cuvantul cheie def
+Componentele unei functii:
+1. inceputul functiei definit prin cuvantul cheie def
+2. numele functiei care trebuie sa nu fie cuvinte rezervate si care in python de regula urmeaza formatul snake_case
+3. parantezele care POT stoca parametri
+4. separatorul intre lista de parametri si corpul functiei reprezentat de caracterul ":"
+5. corpul functiei - setul de instructiuni care se vor executa la apelarea functiei
+6. instructiunea return (optionala)
+
+Atunci cand vrem sa folosim instructiunile salvate intr-o functie trebuie
+		sa facem ceea ce se numeste apelarea functiei. Instructiunile dintr-o functie
+		se vor executa DOAR DACA APELAM FUNCTIA
+
+Apelarea se face prin scrierea numelui functiei urmat de doua paranteze rotunde
+		in interiorul carora vom pune (daca este cazul) argumente
+
+Exista patru tipuri de functii
+1. Functii simple
+2. Functii cu parametri
+3. Functii cu return
+4. Functii cu parametri si return
+
+Un parametru este o adresa de memorie reprezentata de un nume
+care este specificata intre parantezele rotunde la definirea functiei
+si care au rolul de a stoca informatii venite din exterior, informatii care vor fi utilizate
+si procesate in momentul executarii instructiunilor
+
+La apelare acele variabile fi inlocuite de valori efective care vor fi salvate
+		la adresa de memorie reprezentata de acele variabile.
+
+La definire, numele variabilelor se numesc parametri
+La apelare, numele valorilor efective care sunt transmise functiilor se numesc argumente
+
+Returnul este o modalitate prin care putem sa transmitem rezultatul functiei in exterior
+Spre exemplu, daca vrem sa calculam suma a doua numere si sa o printam pe ecran
+		in momentul apelarii functiei, va trebui sa avem instructiune de return,
+		in caz contrar suma va ramane incuiata in interiorul functiei
+
+ATENTIE!!! In interiorul unei clase functiile poarta numele de METODE
+
+
+Formate de denumire a functiilor, claselor si variabilelor
+1. camelCase
+2. snake_case
+3. kebab-case
+"""
+
+
+
+"""
+
+Exista patru piloni ai programarii:
+1. mostenire = o modalitate prin care putem transmite atribute si metode definite intr-o clasa parinte,
+								astfel incat ele sa poata fi accesibile si dintr-o clasa copil
+								mostenirea se poate implementa prin mentionarea numelui clasei parinte intre paranteze rotunte
+								o clasa copil poate sa mosteneasca oricate clase parinte
+2. abstractizare = o modalitate prin care putem obliga clasele care mostenesc o clasa abstracta
+										sa defineasca un anumit comportament
+										exista doua metode de abstractizare:
+										a) toate metodele dintr-o clasa sunt abstracte - clasa se va numi interfata
+										b) doar o parte din metodele dintr-o clasa sunt abstracte - clasa se va numi clasa abstracta
+										Daca definim o clasa copil care mostenste o clasa abstracta / interfata
+														si nu implementam metodele abstracte, atunci vom primi o eroare
+3. polimorfism = o modalitate prin care putem implementa mai multe functii cu acelasi nume dar comportament diferit
+										exista mai multe modalitati de implementare a polimorfismului:
+										a) polimorfism prin implementarea aceleiasi metode in doua clase diferite
+										b) polimorfism prin reimplementarea metodei din clasa parinte
+										c) polimorfism prin definirea unei functii sau metode cu parametri impliciti
+										d) polimorfism prin definire unei functii sau metode cu *args
+4. encapsulare = o modalitate prin care putem sa restrictionam accesul la anumite atribute sau metode
+									exista trei tipuri de acces:
+									- public = putem avea acces la atributele si metodele din clasa oriunde in program
+									- private = putem avea acces la atributele si metodele clasei doar in interiorul clasei (self)
+									- protected = putem avea acces la atributele si metodele clasei doar in acelasi pachet in care se afla clasa
+"""
+
+By checking the value of name using the if __name__ == '__main__' condition, you can control which code is executed in different scenarios. If the condition is True, then the indented code block following the conditional statement is executed, while if it is False, the code block is skipped
+
+
+*args (Non-Keyword Arguments)
+**kwargs (Keyword Arguments)
+
  
 </details>
  
