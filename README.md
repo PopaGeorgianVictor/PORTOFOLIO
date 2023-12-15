@@ -2638,6 +2638,7 @@ GROUP BY CompanyName
  The <strong>HAVING</strong> clause allows you to specify conditions on the rows for each group - in other words, which rows should be selected will be based on the conditions you specify.
 * SQL HAVING clause is similar to WHERE clause in functionality manner but filter group of records not records.
 * The HAVING clause should follow the GROUP BY clause if you are going to use it.
+* HAVING se foloseste pentru filtrare in cazul functiilor agregate
  
 SELECT [ALL | DISTINCT] column1[,column2]
  
