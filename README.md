@@ -2575,6 +2575,8 @@ CROSS JOIN table_B
  SELECT city
  
  FROM suppliers
+
+ <img src="<img src="https://i.postimg.cc/156pPmV1/Screenshot-1.png">">
  
  ## SELECT INTO
  
