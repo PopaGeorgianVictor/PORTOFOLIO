@@ -2576,7 +2576,7 @@ CROSS JOIN table_B
  
  FROM suppliers
 
- <img src="<img src="https://i.postimg.cc/156pPmV1/Screenshot-1.png">">
+ <img src=<img src="https://i.postimg.cc/DZvTfwwj/Screenshot-1.jpg">>
  
  ## SELECT INTO
  
