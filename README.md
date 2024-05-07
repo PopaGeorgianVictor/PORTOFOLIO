@@ -1004,7 +1004,7 @@ The test suites have a different name depending on the application we use for te
  * can be created with round brackets
  * are used to store multiple items in a single variable
  * items are ordered(means that the items have a defined order, and that order will not change)
- * are unchangeable(meaning that we cannot change, add or remove items after the tuple has been created)
+ * are unchangeable/imutable(meaning that we cannot change, add or remove items after the tuple has been created)
  * items are indexed, the first item has index [0], the second item has index [1] etc.
  * allow duplicates values
  
